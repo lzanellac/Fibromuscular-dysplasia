@@ -1,0 +1,3582 @@
+1. Vasc Endovascular Surg. 2019 Apr;53(3):250-254. doi: 10.1177/1538574418819299.
+Epub 2018 Dec 13.
+
+Endovascular Treatment of Concomitant Carotid Fibromuscular Dysplasia and
+Atherosclerotic Disease After Failed Open Surgical Treatment.
+
+Al-Nouri O(1), Pan J(1), Mannava K(1).
+
+Author information: 
+(1)1 Department of Surgery, Fairfield Medical Center, Lancaster, OH, USA.
+
+We describe a case of concomitant fibromuscular dysplasia (FMD) and
+atherosclerotic internal carotid artery (ICA) disease in a symptomatic patient.
+Sixty-eight-year-old female presented for evaluation of a transient ischemic
+attack. Imaging revealed severe proximal >80% ICA stenosis with severe FMD to mid
+and distal ICA. Planned hybrid approach with left carotid endarterectomy (CEA)
+and balloon angioplasty was aborted intraoperatively due to lack of back
+bleeding. Open gradual rigid dilation was then performed with resumption of back 
+bleeding. Completion angiogram revealed widely patent flow through CEA patch with
+no residual defects. Patient awoke from operation neurologically intact. At
+6-month follow-up, carotid duplex revealed severe recurrent ICA stenosis.
+Endovascular intervention was performed with balloon dilation to the proximal and
+mid-ICA with stenting of a moderate 60% ostial common carotid stenosis. She
+recovered well from procedure with 3-month carotid duplex showing widely patent
+common carotid stent and ICA with no areas of stenosis. Informed consent has been
+obtained from the patient for publication of the case report and accompanying
+images.
+
+DOI: 10.1177/1538574418819299 
+PMID: 30866750  [Indexed for MEDLINE]
+
+
+2. Stroke. 2018 Dec;49(12):2872-2876. doi: 10.1161/STROKEAHA.118.021907.
+
+A Systematic Literature Review of Patients With Carotid Web and Acute Ischemic
+Stroke.
+
+Zhang AJ(1), Dhruv P(1), Choi P(2)(3), Bakker C, Koffel J(4), Anderson D(1), Kim 
+J(1), Jagadeesan B(1), Menon BK(5), Streib C(1).
+
+Author information: 
+(1)From the Department of Neurology, University of Minnesota Medical School,
+Minneapolis (A.J.Z., P.D., D.A., J.K., B.J., C.S.).
+(2)Department of Neurosciences, Eastern Health, Box Hill, Australia (P.C.).
+(3)Eastern Health Clinical School, Monash University, Melbourne, Australia
+(P.C.).
+(4)Biomedical Library, University of Minnesota, Minneapolis (J.K.).
+(5)Department of Clinical Neurosciences, University of Calgary, Canada (B.K.M.).
+
+Background and Purpose- Carotid web (CW) is a rare form of focal fibromuscular
+dysplasia defined as an abnormal shelf-like projection of intimal fibrous tissue 
+into the carotid bulb. It is theorized that CW leads to ischemic stroke secondary
+to blood flow stasis and subsequent embolization. The natural history and optimal
+management of CW are unclear. To address this knowledge gap, we performed a
+systematic literature review (SLR) of CW. Methods- Our librarians performed a SLR
+for CW and related terminology. Patient-level demographics, stroke risk factors, 
+neuroimaging findings, stroke recurrence or stroke free-duration, and treatment
+modality were extracted. We used descriptive statistics to characterize our
+results. When specific patient-level metrics were not reported, the denominators 
+for reporting percentage calculations were adjusted accordingly. Results- Our
+literature search produced 1150 articles. Thirty-seven articles including 158
+patients (median age 46 years [range 16-85], 68% women, 76% symptomatic) met
+entry criteria and were included in our SLR. Of the symptomatic CW patients: 57% 
+did not have stroke risk factors, 56% who received medical therapy had recurrent 
+stroke (median 12 months, range 0-97), and 72% were ultimately treated with
+carotid revascularization (50% carotid stenting, 50% carotid endarterectomy).
+There were no periprocedural complications or recurrent strokes in carotid
+revascularization patients. Conclusions- CW leads to ischemic stroke in younger
+patients without conventional stroke risk factors. We found a high stroke
+recurrence rate in medically managed symptomatic CW patients, whereas carotid
+revascularization effectively prevented recurrent stroke. Our findings should be 
+interpreted with caution because of risk of publication and reporting bias.
+
+DOI: 10.1161/STROKEAHA.118.021907 
+PMID: 30571430  [Indexed for MEDLINE]
+
+
+3. Blood Press. 2019 Feb;28(1):49-56. doi: 10.1080/08037051.2018.1514252. Epub 2018 
+Dec 18.
+
+Prevalence of smoking and clinical characteristics in fibromuscular dysplasia.
+The ARCADIA-POL study.
+
+Dobrowolski P(1), Januszewicz M(2)(3), Witowicz H(2), Warchoł-Celińska E(2),
+Klisiewicz A(1), Skrzypczyńska-Banasik U(1), Kabat M(2), Kowalczyk K(2),
+Aniszczuk-Hybiak A(2), Florczak E(2), Witkowski A(4), Tykarski A(5), Widecka
+K(6), Szczerbo-Trojanowska M(7), Śmigielski W(8), Drygas W(8)(9), Michałowska
+I(10), Hoffman P(1), Prejbisz A(2), Januszewicz A(2).
+
+Author information: 
+(1)a Department of Congenital Heart Diseases , Institute of Cardiology , Warsaw ,
+Poland.
+(2)b Department of Hypertension , Institute of Cardiology , Warsaw , Poland.
+(3)c Second Department of Radiology , Medical University of Warsaw , Warsaw ,
+Poland.
+(4)d Department of Interventional Cardiology and Angiology , Institute of
+Cardiology , Warsaw , Poland.
+(5)e Department of Hypertension, Angiology and Internal Medicine , Medical
+University of Poznan , Poznan , Poland.
+(6)f Department of Hypertension and Internal Medicine , Pomeranian Medical
+University , Szczecin , Poland.
+(7)g Department of Interventional Radiology and Neuroradiology , Medical
+University in Lublin , Lublin , Poland.
+(8)h Department of Epidemiology, Cardiovascular Disease Prevention, and Health
+Promotion , Warsaw , Poland.
+(9)i Department of Preventive and Social Medicine , Medical University of Lodz , 
+Lodz , Poland.
+(10)j Department of Radiology , Institute of Cardiology , Warsaw , Poland.
+
+PURPOSE: Smoking was identified as a potential factor contributing to
+fibromuscular dysplasia (FMD). To evaluate the prevalence of smoking and clinical
+characteristics in FMD subjects.
+MATERIAL AND METHODS: We analysed 190 patients with confirmed FMD in at least one
+vascular bed. The rate of smokers in FMD patients was compared to that in two
+control groups selected from a nationwide survey.
+RESULTS: The rate of smokers in FMD patients was 42.6%. There were no differences
+in frequency of smokers between FMD patients and: a group of 994 matched control 
+subjects from general population and a group of matched hypertensive subjects.
+There were no differences in the characteristics of FMD (including rates of
+multisite FMD and significant renal artery stenosis) and its complications
+(including rates of dissections and aneurysms) between smokers and non-smokers.
+Smokers as compared with non-smokers were characterized by higher left ventricle 
+mass index.
+CONCLUSIONS: There is no difference in the rate of smokers between FMD patients
+and subjects from the general population. Moreover, we did not find any
+association between smoking and clinical characteristics of FMD patients nor its 
+extent and vascular complications. Our results do not support the hypothesis that
+smoking is involved in the pathophysiology of FMD.
+
+DOI: 10.1080/08037051.2018.1514252 
+PMID: 30560699  [Indexed for MEDLINE]
+
+
+4. World J Nephrol. 2018 Nov 24;7(7):143-147. doi: 10.5527/wjn.v7.i7.143.
+
+Awakening the sleeping kidney in a dialysis-dependent patient with fibromuscular 
+dysplasia: A case report and review of literature.
+
+Chothia MY(1), Davids MR(2), Bhikoo R(2).
+
+Author information: 
+(1)Renal Unit, Tygerberg Hospital, Cape Town 7505, South Africa.
+(2)Division of Nephrology, Department of Medicine, Tygerberg Hospital and
+Stellenbosch University, Cape Town 7505, South Africa.
+
+Renal artery stenosis is a common cause of secondary hypertension and chronic
+kidney disease. We present here a case of fibromuscular dysplasia that was
+treated with surgical revascularization, resulting in recovery of kidney function
+with eventual cessation of chronic dialysis. The case involves a 25-year-old
+female with coincidentally discovered hypertension, who underwent further
+investigations revealing a diagnosis of renal artery stenosis due to
+fibromuscular dysplasia. She subsequently developed two episodes of malignant
+hypertension, with flash pulmonary oedema and worsening renal failure that
+resulted in dialysis dependence. After evidence was obtained that the right
+kidney was still viable, a revascularization procedure was performed, improving
+blood pressure control and restoring kidney function, thereby allowing dialysis
+to be stopped. This case highlights the importance of evaluating patients with
+renal artery stenosis for revascularization before committing them to a life of
+chronic dialysis.
+
+DOI: 10.5527/wjn.v7.i7.143 
+PMCID: PMC6259034
+PMID: 30510913 
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare that they have no conflicts of interest.
+
+
+5. Eur J Vasc Endovasc Surg. 2019 Apr;57(4):569. doi: 10.1016/j.ejvs.2018.10.016.
+Epub 2018 Dec 1.
+
+Renal Artery Surgery: The Struggle for Technical Advances and Durable Outcomes.
+
+Duprey A(1), Ricco JB(2).
+
+Author information: 
+(1)Hospital Robert Debré, University of Reims, Avenue du Général Koenig, 51092,
+Reims, France.
+(2)Department of Clinical Research and Innovation (DRCI), University Hospital of 
+Poitiers, Poitiers, France. Electronic address:
+jean.baptiste.ricco@univ-poitiers.fr.
+
+Comment on
+    Eur J Vasc Endovasc Surg. 2019 Apr;57(4):562-568.
+
+DOI: 10.1016/j.ejvs.2018.10.016 
+PMID: 30509889  [Indexed for MEDLINE]
+
+
+6. Ann Vasc Surg. 2019 Apr;56:353.e7-353.e11. doi: 10.1016/j.avsg.2018.08.110. Epub 
+2018 Nov 27.
+
+An Unusual Case of Bilateral Upper Extremity Ischemia Caused by Forearm Vessel
+Fibromuscular Dysplasia.
+
+Antonescu I(1), Knowles M(2), Wirtz E(2), Pascarella L(2).
+
+Author information: 
+(1)UNC Division of Vascular Surgery, Chapel Hill, NC. Electronic address:
+ioana.antonescu@mail.mcgill.ca.
+(2)UNC Division of Vascular Surgery, Chapel Hill, NC.
+
+Fibromuscular dysplasia (FMD) is a nonatherosclerotic disease that generally
+affects medium-sized arteries. The distribution typically involves the renal,
+extracranial carotid/vertebral, and iliac arteries. FMD in other vascular beds is
+rare. We herein present the case of a 47-year-old female with rapid-onset
+bilateral digital ischemia. Initial differential diagnosis included vasospastic
+disorders and vasculitis. An upper extremity arteriogram was suggestive of ulnar 
+and radial FMD. Percutaneous intervention was not successful, and the patient was
+managed conservatively with symptomatic improvement. This case highlights the
+important diagnostic and therapeutic considerations in patients with less common 
+etiologies of upper extremity ischemia.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.avsg.2018.08.110 
+PMID: 30500650  [Indexed for MEDLINE]
+
+
+7. Lancet. 2018 Nov 24;392(10161):2298. doi: 10.1016/S0140-6736(18)32532-7.
+
+Kidneys are key in secondary hypertension: a case of fibromuscular dysplasia.
+
+Oliva-Damaso N(1), Costa-Fernandez J(2), Oliva-Damaso E(3), Bravo-Marques R(4),
+Lopez F(5), Del Mar Castilla M(5), Sequeira J(6), Payan J(5).
+
+Author information: 
+(1)Department of Medicine, Division of Nephrology, Hospital Costa del Sol,
+Marbella, Malaga, Spain. Electronic address: nestorod@hotmail.com.
+(2)Department of Radiology, Hospital Costa del Sol, Marbella, Malaga, Spain.
+(3)Department of Medicine, Division of Nephrology, Hospital Doctor Negrin, Las
+Palmas de Gran Canaria, Spain.
+(4)Department of Medicine, Division of Cardiology, Hospital Costa del Sol,
+Marbella, Malaga, Spain.
+(5)Department of Medicine, Division of Nephrology, Hospital Costa del Sol,
+Marbella, Malaga, Spain.
+(6)Department of Surgery, Division of Urology, Hospital Costa del Sol, Marbella, 
+Malaga, Spain.
+
+DOI: 10.1016/S0140-6736(18)32532-7 
+PMID: 30496121  [Indexed for MEDLINE]
+
+
+8. Radiol Case Rep. 2018 Nov 20;14(2):242-245. doi: 10.1016/j.radcr.2018.10.033.
+eCollection 2019 Feb.
+
+Bilateral renal artery stenosis treated with drug-eluting balloon angioplasty in 
+unique treatment.
+
+Morosetti D(1), Chiocchi M(1), De Crescenzo F(1), D'Onofrio A(1), Di Martino
+A(1), Raso A(1), Floris R(1), Gandini R(1).
+
+Author information: 
+(1)Department of Diagnostic Imaging and Interventional Radiology, University of
+Tor Vergata, Viale Oxford, 81, Rome 00133, Italy.
+
+Renal artery stenosis commonly manifests with hypertension refractory to medical 
+treatment. We report a case of renal artery stenosis occurring in a 19-year-old
+female patient who presented with extremely high blood pressure and bilateral
+renal stenosis at the duplex ultrasound. Renal angiography confirmed the
+bilateral and irregular stenosis due to fibromuscular dysplasia, associated to
+extent collaterals suppling the poststenotic right renal artery. Therefore,
+angioplasty with drug-eluting balloon was performed in order to obtain a good
+vessel patency and to improve patency in the long term follow-up. After the
+endovascular treatment the blood pressure improved markedly, maintaining this
+result at 12 months follow-up at clinical examination and duplex ultrasound.
+
+DOI: 10.1016/j.radcr.2018.10.033 
+PMCID: PMC6250753
+PMID: 30479680 
+
+
+9. Am J Cardiol. 2019 Jan 15;123(2):249-253. doi: 10.1016/j.amjcard.2018.10.012.
+Epub 2018 Oct 30.
+
+Conditions and Factors Associated With Spontaneous Coronary Artery Dissection
+(from a National Population-Based Cohort Study).
+
+Krittanawong C(1), Kumar A(2), Johnson KW(3), Luo Y(1), Yue B(1), Wang Z(4),
+Bhatt DL(5).
+
+Author information: 
+(1)Department of Internal Medicine, Icahn School of Medicine at Mount Sinai St'
+Luke and Mount Sinai West Hospitals, New York, New York.
+(2)Heart and Vascular Institute, Cleveland Clinic, Ohio.
+(3)Institute for Next Generation Healthcare, Department of Genetics and Genomic
+Sciences, Icahn School of Medicine at Mount Sinai, New York, New York.
+(4)Robert D. and Patricia E. Kern Center for the Science of Health Care Delivery,
+Mayo Clinic, Rochester, Minnesota; Division of Health Care Policy and Research,
+Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota.
+(5)Brigham and Women's Hospital Heart & Vascular Center, Harvard Medical School, 
+Boston, Massachusetts. Electronic address: dlbhattmd@post.harvard.edu.
+
+The pathophysiology of spontaneous coronary artery dissection (SCAD) is
+heterogeneous, associated with systemic arteriopathies and inflammatory diseases,
+and often compounded by environmental precipitants, genetics, or stressors.
+However, the frequency of these associated conditions with SCAD on a population
+level remains unknown. Therefore, the objective of this analysis was to evaluate 
+heterogeneous phenotypes of SCAD in the United States using data from the
+Nationwide Inpatient Sample collected from January 1, 2004, to September 31,
+2015. Among 66,360 patients diagnosed with SCAD, the mean age was 63.1 ± 13.2
+years and 44.2% were women. A total of 3,415 (5.14%) had depression, 670 (1.0%)
+had rheumatoid arthritis, 640 (0.96%) had anxiety, 545 (0.82%) had a migraine
+disorder, 440 (0.66%) used steroids, 385 (0.58%) had malignant hypertension, 280 
+(0.42%) had systemic lupus erythematosus, 250 (0.38%) had cocaine abuse, 215
+(0.32%) had hypertensive heart or renal disease, 130 (0.19%) had coronary spasm, 
+105 (0.16%) had fibromuscular dysplasia, 85 (0.13%) had Crohn's disease, 75
+(0.11%) had celiac disease, 60 (0.09%) had adult autosomal dominant polycystic
+kidney disease, 60 (0.09%) had hormone replacement therapy, 55 (0.08%) had
+sarcoidosis, 55 (0.08%) had amphetamine abuse, 15 (0.02%) had granulomatosis
+polyangiitis, 10 (0.02%) had α1-antitrypsin deficiency, 10 (0.02%) had Marfan
+syndrome, 10 (0.02%) had Ehlers-Danlos syndrome, 10 (0.02%) had Kawasaki disease,
+10 (0.02%) had polyarteritis nodosa, and 5 (0.01%) had multiparity. In
+conclusion, most cases of SCAD had no apparent concomitant arteriopathy,
+inflammatory disorder, or evident risk factor.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjcard.2018.10.012 
+PMID: 30477805  [Indexed for MEDLINE]
+
+
+10. Catheter Cardiovasc Interv. 2019 Mar 1;93(4):631-634. doi: 10.1002/ccd.27982.
+Epub 2018 Nov 23.
+
+Case reports of coronary fibromuscular dysplasia and spontaneous coronary artery 
+dissections.
+
+Lee C(1), Starovoytov A(1), Saw J(1).
+
+Author information: 
+(1)Division of Cardiology, Vancouver General Hospital, University of British
+Columbia, Canada.
+
+Spontaneous coronary artery dissection (SCAD) is an important cause of acute
+coronary syndrome especially in women. The most common underlying predisposing
+cause of SCAD is fibromuscular dysplasia (FMD), a non-inflammatory arteriopathy
+that results in weakening of the affected arteries, and can cause dissection or
+aneurysm. Coronary FMD (CFMD) was described as rare, and was shown to cause SCAD 
+in histopathological case reports. Unfortunately, CFMD is challenging to diagnose
+on coronary angiography, as the findings can be similar to other causes of
+coronary artery disease. Therefore, we illustrate two case examples of CFMD on
+coronary angiography, and highlight findings on optical coherence tomography to
+aid diagnosis.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ccd.27982 
+PMID: 30467965 
+
+
+11. Int J Cardiol. 2019 Jul 1;286:220-225. doi: 10.1016/j.ijcard.2018.11.023. Epub
+2018 Nov 9.
+
+Spontaneous coronary artery dissections and fibromuscular dysplasia: Current
+insights on pathophysiology, sex and gender.
+
+Maas AHEM(1), Bouatia-Naji N(2), Persu A(3), Adlam D(4).
+
+Author information: 
+(1)Department of Cardiology, Women's Cardiac Health, Radboud University Medical
+Center, Nijmegen, the Netherlands. Electronic address: angela.maas@radboudumc.nl.
+(2)Paris Cardiovascular research Centre (PARCC)-Inserm, Paris, France.
+(3)Division of Cardiology, Cliniques Universitaires Saint-Luc, Université
+catholique de Louvain, Brussels, Belgium.
+(4)Department of Cardiovascular Sciences, University of Leicester and NIHR
+Leicester Biomedical Research Centre, Glenfield Hospital, Leicester, UK.
+
+Spontaneous coronary artery dissections (SCADs) are increasingly recognized as an
+important cause of acute coronary syndromes in predominantly women below 60 years
+of age. SCAD patients comprise a heterogeneous group, in which it is estimated
+that a quarter to one third have underlying fibromuscular dysplasia (FMD).
+Although the mutual relationship of SCAD and FMD is complex and only partly
+understood, there seems to be some overlap in genetic background and interaction 
+with endogenous sex-steroids. In this review we provide an update of our current 
+knowledge on these intriguing emerging arteriopathies.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijcard.2018.11.023 
+PMID: 30448113  [Indexed for MEDLINE]
+
+
+12. Medicine (Baltimore). 2018 Nov;97(46):e12815. doi: 10.1097/MD.0000000000012815.
+
+Unique imaging findings in fibromuscular dysplasia of renal arteries: A case
+report.
+
+Kong W(1), Hu Z.
+
+Author information: 
+(1)Department of Nephrology, West China Hospital, Sichuan University, Chengdu,
+Sichuan, China.
+
+RATIONALE: Fibromuscular dysplasia (FMD) is a rare vascular disorder that causes 
+abnormal cell growth in arterial walls. The classic "string of beads" sign has
+been reported in many cases, whereas the appearance of tubular stenosis and
+distal tapering of renal arteries with multiple renal infarctions, as well as
+left kidney atrophy occurring in one patient, has not been precisely described.
+PATIENT CONCERNS: A 19-year-old woman presented to us with a history of elevated 
+blood pressure without any symptoms for the past 1 month. Routine laboratory
+tests indicated a moderately impaired renal function, and ultrasound examination 
+demonstrated a small-sized left kidney and seriously decreased blood flow of the 
+left renal artery and its branches.
+DIAGNOSIS: Subsequent contrast-enhanced computed tomographic angiography (CTA)
+demonstrated multiple ischemic infarctions in the bilateral kidneys, and FMD was 
+suggested at that time. Thereafter, we performed selective reno-angiography,
+which confirmed that the all left renal arteries had tubular stenosis and that
+right renal arterial branches presented distal tapering.
+INTERVENTION: Antihypertensive drugs were prescribed conservatively, including
+nifedipine 60 mg/d and prazosin 4 mg/d, to lower the patient's blood pressure.
+OUTCOMES: The patient had a well-controlled blood pressure and an improved renal 
+function at her 6-month follow-up.
+LESSONS: We should take the diagnosis of FMD into account if young women develop 
+asymptomatic hypertension. To our knowledge, this is the first case that
+exhibited renal artery FMD manifesting as tubular stenosis and distal tapering,
+especially followed by bilateral renal infarctions and significant atrophy of the
+left kidney. In addition, CTA combined with digital subtraction angiography (DSA)
+may be more sensitive than other tests with respect to the detection of
+intrarenal infarctions and arterial variants of FMD.
+
+DOI: 10.1097/MD.0000000000012815 
+PMCID: PMC6257553
+PMID: 30431564  [Indexed for MEDLINE]
+
+
+13. Vasc Med. 2019 Feb;24(1):3-5. doi: 10.1177/1358863X18808903. Epub 2018 Nov 14.
+
+From the Masters: Lumper? Or splitter?
+
+Rooke T(1).
+
+Author information: 
+(1)Krehbiel Professor of Vascular Medicine, Mayo Clinic, Rochester, MN, USA.
+
+DOI: 10.1177/1358863X18808903 
+PMID: 30428783  [Indexed for MEDLINE]
+
+
+14. Curr Treat Options Cardiovasc Med. 2018 Nov 13;20(12):103. doi:
+10.1007/s11936-018-0703-2.
+
+Vascular Genetics: Presentations, Testing, and Prognostics.
+
+Aday AW(1), Kreykes SE(2), Fanola CL(2).
+
+Author information: 
+(1)Vanderbilt Translational and Clinical Cardiovascular Research Center, Division
+of Cardiovascular Medicine, Vanderbilt University Medical Center, 2525 West End
+Avenue Suite 300, Nashville, TN, 37203, USA. aaron.w.aday@vumc.org.
+(2)Adult Congenital and Cardiovascular Genetics Center, Division of
+Cardiovascular Medicine, University of Minnesota Medical Center, Minneapolis, MN,
+USA.
+
+PURPOSE OF REVIEW: Numerous studies have begun to unravel the genetic basis of
+not only aortic disease but also other forms of commonly encountered vascular
+diseases. The goal of this review is to provide clinicians a reference to help
+identify and diagnose different types of vascular disease with a genetic
+underpinning.
+RECENT FINDINGS: Ongoing studies have identified numerous genes involved in the
+TGF-β signaling pathway that are also associated with thoracic aortic aneurysm
+and dissection, and it is possible to test for pathogenic variants in these genes
+in the clinical setting using commercially available genetic testing panels.
+Additional studies have begun to identify genetic variants associated with an
+increased risk of bicuspid aortic valve, abdominal aortic aneurysm, and
+fibromuscular dysplasia. With increased availability of low-cost genetic testing,
+clinicians are now able to not only definitively diagnose some vascular syndromes
+but also provide information on the risk of disease in other family members, as
+well as provide guidance in terms of family planning. As the cost of genetic
+testing continues to drop with the benefit of increasing insurance coverage,
+genetic data will increasingly become part of clinical care for many patients
+with vascular disease.
+
+DOI: 10.1007/s11936-018-0703-2 
+PMID: 30421267 
+
+
+15. J Obstet Gynaecol. 2019 Apr;39(3):417-419. doi: 10.1080/01443615.2018.1491961.
+Epub 2018 Nov 10.
+
+Management of a pregnancy with underlying fibromuscular dysplasia with a history 
+of stroke and carotid artery dissection.
+
+Cunningham TK(1), Draper H(1), Rajesh U(1).
+
+Author information: 
+(1)a The Women and Children's Hospital , Hull Royal Infirmary , Hull , UK.
+
+DOI: 10.1080/01443615.2018.1491961 
+PMID: 30417729  [Indexed for MEDLINE]
+
+
+16. Can J Cardiol. 2018 Dec;34(12):1689.e3-1689.e4. doi: 10.1016/j.cjca.2018.09.002. 
+Epub 2018 Sep 17.
+
+Fibromuscular Dysplasia of Coronary and Brachial Artery.
+
+Akiba Y(1), Endo A(2), Suzuki K(2).
+
+Author information: 
+(1)Department of Cardiology, Saiseikai Utsunomiya Hospital, Utsunomiya, Japan.
+Electronic address: yohey0814@gmail.com.
+(2)Department of Cardiology, Tokyo Saiseikai Central Hospital, Tokyo, Japan.
+
+DOI: 10.1016/j.cjca.2018.09.002 
+PMID: 30414701  [Indexed for MEDLINE]
+
+
+17. Interv Neurol. 2018 Oct;7(6):413-418. doi: 10.1159/000489710. Epub 2018 Jul 11.
+
+Multicenter Experience with Stenting for Symptomatic Carotid Web.
+
+Haussen DC(1), Grossberg JA(1), Koch S(2), Malik A(2), Yavagal D(2), Gory B(3),
+Leesch W(4), Hassan AE(5), Derelle AL(3), Richard S(3), Barreira C(1), Pradilla
+G(1), Nogueira RG(1).
+
+Author information: 
+(1)Emory University/Grady Memorial Hospital, Atlanta, Georgia, USA.
+(2)University of Miami/Jackson Memorial Hospital, Miami, Florida, USA.
+(3)Centre Hospitalier Régional Universitaire de Nancy, Nancy, France.
+(4)Riverside Neurovascular Specialists, Newport News, Virginia, USA.
+(5)Valley Baptist Medical Center, Harlingen, Texas, USA.
+
+Background: A carotid web (CaW) is a shelf-like lesion in the posterior aspect of
+the internal carotid bulb and represents an intimal variant of fibromuscular
+dysplasia. CaW has been associated with recurrent strokes and conventionally
+treated with surgical excision. We report a multicenter experience of stenting in
+patients with symptomatic CaWs.
+Methods: Retrospective review of consecutive patients admitted to 5 comprehensive
+stroke centers who were identified to have a symptomatic CaW and treated with
+carotid stenting. A symptomatic CaW was defined by the presence of a
+shelf-like/linear, smooth filling defect in the posterior aspect of the carotid
+bulb diagnosed by neck CT angiography (CTA) and confirmed with conventional
+angiography in patients with negative stroke workup.
+Results: Twenty-four patients with stented symptomatic CaW were identified
+(stroke in 83% and transient ischemic attack in 17%). Their median age was 47
+years (IQR 41-61), 14 (58%) were female, and were 17 (71%) black. The degree of
+stenosis by NASCET was 0% (range 0-11). All patients were placed on dual
+antiplatelets and stented at a median of 9 days (IQR 4-35) after the last event. 
+Closed-cell stents were used in 18 (75%) of the cases. No periprocedural events
+occurred with the exception of 2 cases of asymptomatic hypotension/bradycardia.
+Clinical follow-up after stent placement occurred for a median of 12 months (IQR 
+3-19) with no new cerebrovascular events noted. Functional independence at 90
+days was achieved in 22 (91%) patients. Follow-up vascular imaging (ultrasound n 
+= 18/CTA n = 5) was performed at a median of 10 months (IQR 3-18) and revealed no
+stenosis.
+Conclusions: Stenting for symptomatic CaW appears to be a safe and effective
+alternative to surgical resection. Further studies are warranted.
+
+DOI: 10.1159/000489710 
+PMCID: PMC6216720
+PMID: 30410519 
+
+
+18. Ann Vasc Dis. 2018 Sep 25;11(3):365-368. doi: 10.3400/avd.cr.18-00036.
+
+Abdominal Aortic Aneurysm Caused by Aortic Fibromuscular Dysplasia: A Case
+Report.
+
+Kanamoto R(1), Hiromatsu S(1), Nata S(1), Shintani Y(1), Otsuka H(1), Onitsuka
+S(1), Akashi H(1), Tanaka H(1).
+
+Author information: 
+(1)Department of Surgery, Kurume University School of Medicine, Kurume, Fukuoka, 
+Japan.
+
+Fibromuscular dysplasia (FMD) mainly develops in medium-sized arteries, including
+renal, extracranial, and extremity arteries, but it rarely causes abdominal
+aortic aneurysm (AAA). A 69-year-old woman with AAA diagnosed on ultrasonography 
+by a home doctor visited our hospital. Contrast-enhanced computed tomography
+revealed a saccular aneurysm of terminal abdominal aorta. We performed abdominal 
+aortic replacement and resected the section with aneurysm. Pathological
+examination of the wall tissue of the resected aneurysm revealed findings that
+are consistent with FMD. We report this case of AAA caused by aortic FMD because 
+of its rarity.
+
+DOI: 10.3400/avd.cr.18-00036 
+PMCID: PMC6200619
+PMID: 30402192 
+
+
+19. Tex Heart Inst J. 2018 Aug 1;45(4):233-235. doi: 10.14503/THIJ-18-6675.
+eCollection 2018 Aug.
+
+Nonatherosclerotic Vascular Disease in Women.
+
+Jinnouchi H, Finn AV, Virmani R.
+
+DOI: 10.14503/THIJ-18-6675 
+PMCID: PMC6183631
+PMID: 30374233  [Indexed for MEDLINE]
+
+
+20. BJR Case Rep. 2017 Nov 9;4(1):20170066. doi: 10.1259/bjrcr.20170066. eCollection 
+2018.
+
+A cause of recurrent strokes: carotid webs detected by CT angiogram.
+
+Smyth H(1), Byrne D(2), Hayden D(1), Eoin K(2), Murphy S(1).
+
+Author information: 
+(1)Department of Stroke Medicine, Mater Misericordiae University Hospital,
+Dublin, Ireland.
+(2)Department of Radiology, Mater Misericordiae University Hospital, Dublin,
+Ireland.
+
+Carotid webs are an uncommon cause of recurrent ischaemic strokes. They are
+considered a form of fibromuscular dysplasia, possibly developmental in origin,
+with non-inflammatory and non-atherosclerotic features and a characteristic
+appearance on CT angiography. They have been described as a thin intraluminal
+filling defect along the posterior wall of the carotid bulb in oblique sagittal
+reformats and a septum on axial CT angiography. Here we summarize two cases of
+ischaemic strokes secondary to carotid webs with characteristic images. Detection
+and awareness of carotid webs and their imaging features among radiologists and
+physicians are important as it is associated with a high risk of recurrent
+cerebrovascular events.
+
+DOI: 10.1259/bjrcr.20170066 
+PMCID: PMC6159149
+PMID: 30363186 
+
+
+21. Eur J Vasc Endovasc Surg. 2019 Apr;57(4):562-568. doi:
+10.1016/j.ejvs.2018.09.014. Epub 2018 Oct 18.
+
+Surgical Renovascular Reconstruction for Renal Artery Stenosis and Aneurysm:
+Long-Term Durability and Survival.
+
+Steuer J(1), Bergqvist D(2), Björck M(2).
+
+Author information: 
+(1)Department of Surgical Sciences, Vascular Surgery, Uppsala University,
+Uppsala, Sweden; Department of Surgery, Stockholm South Hospital, Stockholm,
+Sweden. Electronic address: joste@live.se.
+(2)Department of Surgical Sciences, Vascular Surgery, Uppsala University,
+Uppsala, Sweden.
+
+Comment in
+    Eur J Vasc Endovasc Surg. 2019 Apr;57(4):569.
+
+OBJECTIVE: To study functional outcome, mortality, and dialysis free survival in 
+patients undergoing open primary surgical repair of renal artery stenosis (RAS)
+or aneurysm (RAA).
+METHODS: This was a retrospective single centre study of patients undergoing open
+surgical renal artery reconstruction from 1993 to 2007. Blood pressure, renal
+function, dialysis dependence, vessel patency, and mortality were registered.
+Survival was investigated by cross matching with the population registry,
+yielding up to 20 years of follow up.
+RESULTS: Of the 40 patients operated on, 25 (63%) were women. RAS was the
+indication for reconstruction in 31 patients; 23 had atherosclerotic aetiology
+(ARAS), and eight had fibromuscular dysplasia (FMD). Nine patients had RAA.
+Patients with ARAS were older (p = .008), had more extensive peripheral arterial 
+disease (p = .004), and inferior renal function (p = .003) compared with patients
+with FMD or RAA. In FMD and RAA, the right renal artery was affected in 13/17
+(76%) cases, whereas in ARAS the disease was evenly distributed. In patients with
+ARAS, 15/25 (60%) stenotic renal arteries (two bilateral procedures) were managed
+by aorto-renal bypass, and 2/25 (8%) through ilio-renal bypass. In 8/25 (32%)
+endarterectomy was performed. In FMD, all but one patient underwent aorto-renal
+bypass. Early mortality was 2.5% (one patient with ARAS). One patient with ARAS
+required dialysis post-operatively. Systolic blood pressure was significantly
+reduced in patients with ARAS, from 180 mmHg (median) pre-operatively to
+155 mmHg at one month (p = .003) and 160 mmHg at one year (p = .03). Need for
+medication decreased from three or more drugs to two drugs at one month
+(p = .01). In FMD, there was a similar tendency. Three patients underwent
+re-intervention for restenosis: two endovascularly and one by open surgery. The
+overall 5 year survival was 88%. Median follow up was 10.6 years.
+CONCLUSION: Open surgical renal arterial reconstruction was performed with low
+mortality, fairly low morbidity, and excellent durability. Open surgery should
+still be considered a therapeutic option in complex renal artery disease.
+
+Copyright © 2018 European Society for Vascular Surgery. Published by Elsevier
+B.V. All rights reserved.
+
+DOI: 10.1016/j.ejvs.2018.09.014 
+PMID: 30343992  [Indexed for MEDLINE]
+
+
+22. World Neurosurg. 2019 Jan;121:e925-e930. doi: 10.1016/j.wneu.2018.10.017. Epub
+2018 Oct 12.
+
+A Morphometric Analysis for the Feasibility of Percutaneous Translacerum Access
+of the Internal Carotid Artery Based on Computed Tomography Angiography.
+
+Storey C(1), Barry J(2), Adkins W(2), Nanda A(2), Saenz-Cuellar H(2).
+
+Author information: 
+(1)Department of Neurosurgery, Louisiana State University Health Sciences Center 
+Shreveport, Shreveport, Louisiana, USA. Electronic address:
+dr.christopher.storey.md.phd@gmail.com.
+(2)Department of Neurosurgery, Louisiana State University Health Sciences Center 
+Shreveport, Shreveport, Louisiana, USA.
+
+BACKGROUND: The increasing frequency of elderly patients with severe tortuous
+anatomy, especially when combined with fibromuscular dysplasia, can make
+intracranial canalization severely difficult or impossible. Computed tomography
+angiography was used to determine the feasibility of accessing the internal
+carotid artery (ICA) via a percutaneous translacerum approach.
+METHODS: Twenty consecutive stroke activations with CT angiography were
+reconstructed in three-dimensional models to take measurements to assess if
+currently available technologies could safely provide access. We assessed the
+diameter of the foramen lacerum and ICA. Entry points and angulations were
+measured based on trajectory. Our trajectory was based on anatomic observations
+that provided a safe corridor from the angle of the jaw to the foramen lacerum.
+RESULTS: Based on the 40 carotid arteries from 20 patients, 77.5% had a large
+enough foramen lacerum to provide access to the ICA. Although there were no
+traversals of the pharynx, we noted a 20% traversal of the eustachian tube and 5%
+traversal of a small maxillary artery branch. There was no large-vessel traversal
+by the trajectory. All patients with bilateral stenotic foramen lacerum were
+African-American women; 44% of African-American women had bilateral stenotic
+foramen lacerum. The diameter of the ICA and foramen lacerum would not be
+prohibitive of sheath placement in patients without stenosis with adequate
+canalized length of sheath necessary for stability.
+CONCLUSIONS: Access of the ICA via the foramen lacerum can be safely performed
+with currently available technologies.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2018.10.017 
+PMID: 30321677  [Indexed for MEDLINE]
+
+
+23. Am J Med. 2019 Mar;132(3):329-332. doi: 10.1016/j.amjmed.2018.09.025. Epub 2018
+Oct 2.
+
+Follow the Beads: Fibromuscular Dysplasia.
+
+Ly VK(1), Manesh R(2), Raghavan K(3), Geha RM(4).
+
+Author information: 
+(1)Department of Medicine, University of California, San Francisco. Electronic
+address: vy.ly@ucsf.edu.
+(2)Department of Medicine, Johns Hopkins University School of Medicine,
+Baltimore, Md.
+(3)Department of Radiology, University of California, San Francisco.
+(4)Department of Medicine, University of California, San Francisco; Medical
+Service, VA Medical Center, San Francisco, Calif.
+
+DOI: 10.1016/j.amjmed.2018.09.025 
+PMID: 30290190  [Indexed for MEDLINE]
+
+
+24. J Cardiol Cases. 2017 Sep 19;16(6):216-218. doi: 10.1016/j.jccase.2017.08.010.
+eCollection 2017 Dec.
+
+Progressive spontaneous coronary artery dissection secondary to fibromuscular
+dysplasia requiring mechanical circulatory support.
+
+Alonso-Fernández-Gatta M(1), Uribarri A(1), Diego-Nieto A(1), Sánchez PL(1).
+
+Author information: 
+(1)Department of Cardiology, University Hospital of Salamanca, Salamanca, Spain.
+
+Spontaneous coronary artery dissection (SCAD) usually appears as an acute
+coronary syndrome with good prognosis. We present the case of a 39-year-old woman
+with progressive SCAD secondary to fibromuscular dysplasia with catastrophic
+course. The patient required several mechanical circulatory support systems
+including a left ventricular assist device (CentriMag®, Thoratec, Pleasanton, CA,
+USA) as bridge to recovery. <Learning objective: The beneficial use of mechanical
+circulatory support devices as a bridge to recovery or heart transplant in the
+setting of refractory cardiogenic shock in spontaneous coronary artery
+dissection.>.
+
+DOI: 10.1016/j.jccase.2017.08.010 
+PMCID: PMC6149640
+PMID: 30279839 
+
+
+25. J Vasc Surg. 2018 Oct;68(4):1226-1227. doi: 10.1016/j.jvs.2017.12.034.
+
+Sequential aneurysms of the internal carotid artery with fibromuscular dysplasia.
+
+Bluemn E(1), Chao C(2), Schanzer A(2).
+
+Author information: 
+(1)Division of Vascular and Endovascular Surgery, UMass Memorial Medical Center, 
+University of Massachusetts Medical School, Worcester, Mass. Electronic address: 
+eric.bluemn@umassmemorial.org.
+(2)Division of Vascular and Endovascular Surgery, UMass Memorial Medical Center, 
+University of Massachusetts Medical School, Worcester, Mass.
+
+DOI: 10.1016/j.jvs.2017.12.034 
+PMID: 30244927  [Indexed for MEDLINE]
+
+
+26. Vasc Endovascular Surg. 2019 Feb;53(2):150-153. doi: 10.1177/1538574418800557.
+Epub 2018 Sep 17.
+
+Spontaneous Accessory Renal Artery Aneurysm Rupture in a Patient With
+Neurofibromatosis Type 1: A Case Report.
+
+Roberts K(1), Fan B(1), Brightwell R(1).
+
+Author information: 
+(1)1 Vascular surgery, OhioHealth Doctors Hospital, Columbus, OH, USA.
+
+True renal artery aneurysms are rare. Ruptured aneurysms are even rarer but can
+have devastating consequences. Renal artery aneurysms most commonly occur in
+patients with hypertension, atherosclerosis, or fibromuscular dysplasia.
+Treatment options can range from embolization to nephrectomy. We describe an
+interesting case of spontaneous accessory renal artery aneurysm rupture in a
+44-year-old female with neurofibromatosis type 1 (NF1) who otherwise had no
+medical problems. She was successfully treated with selective coil embolization, 
+recovered without complications, and maintained preoperative renal function.
+
+DOI: 10.1177/1538574418800557 
+PMID: 30223725  [Indexed for MEDLINE]
+
+
+27. J Med Vasc. 2018 Sep;43(5):329-331. doi: 10.1016/j.jdmv.2018.07.002. Epub 2018
+Jul 23.
+
+A rare cause of abdominal pain: Fibromuscular dysplasia.
+
+Belfeki N(1), Baranes L(2), Thai I(3), Lacout C(3), Diamantis S(4).
+
+Author information: 
+(1)Department of Internal Medicine and Infectious diseases, Centre Hospitalier
+Marc-Jacquet, 77000 Melun, France. Electronic address: belfeki.nabil@gmail.com.
+(2)Department of Radiology, University Hospital of Henri-Mondor, AP-HP, 94010
+Créteil, France.
+(3)Department of Internal Medicine, University Hospital of Henri-Mondor, AP-HP,
+94010 Créteil, France.
+(4)Department of Internal Medicine and Infectious diseases, Centre Hospitalier
+Marc-Jacquet, 77000 Melun, France.
+
+A 50-year-old man had a sudden severe abdominal pain. An abdominal enhanced
+computed tomographic scan revealed irregular stenosis of the celiac artery,
+dissection of the hepatic artery and of the left common iliac artery, and mid
+stenosis of the right renal artery with extended renal parenchymal hypodensity.
+After careful evaluation, the patient was diagnosed with fibromuscular dysplasia.
+Systematic head and neck CT angiography revealed right vertebral arterial
+stenosis and saccular aneurysm of the left vertebral artery. We have chosen
+conservative medical treatment for the multifocal fibromuscular dysplasia.
+
+Copyright © 2018 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.jdmv.2018.07.002 
+PMID: 30217349  [Indexed for MEDLINE]
+
+
+28. J Vasc Surg Cases Innov Tech. 2018 Aug 29;4(3):232-236. doi:
+10.1016/j.jvscit.2018.03.007. eCollection 2018 Sep.
+
+Successful surgical treatment with ex vivo technique in a patient with renal
+artery aneurysm rupture and bilateral arteriovenous fistula.
+
+Ivandaev A(1), Askerova A(2), Zotikov A(1), Kozhanova A(3), Schima W(4),
+Karmazanovsky G(2).
+
+Author information: 
+(1)Department of Vascular Surgery, A.V. Vishnevsky Medical Research Center of
+Surgery of the Ministry of Healthcare of the Russian Federation, Moscow, Russian 
+Federation.
+(2)Department of Radiology, A.V. Vishnevsky Medical Research Center of Surgery of
+the Ministry of Healthcare of the Russian Federation, Moscow, Russian Federation.
+(3)Department of Anesthesiology, A.V. Vishnevsky Medical Research Center of
+Surgery of the Ministry of Healthcare of the Russian Federation, Moscow, Russian 
+Federation.
+(4)Department of Diagnostic and Interventional Radiology, Goettlicher Heiland
+Krankenhaus, Barmherzige Schwestern Krankenhaus, and Sankt Josef Krankenhaus,
+Vinzenzgruppe, Vienna, Austria.
+
+Renal arteriovenous fistulas are pathologic communications between the renal
+arteries and veins without interconnecting capillaries. Reports on the
+combination of fibromuscular dysplasia, aneurysms, and renal arteriovenous
+fistula are extremely rare in the literature. In the case of renal arteriovenous 
+aneurysm rupture, urgent nephrectomy was the only life-saving procedure reported.
+The ex vivo approach seems to be an appropriate alternative to nephrectomy. This 
+article presents a case of successful treatment of bilateral fibromuscular
+dysplasia with aneurysm and arteriovenous fistulas complicated by renal artery
+aneurysm rupture.
+
+DOI: 10.1016/j.jvscit.2018.03.007 
+PMCID: PMC6116410
+PMID: 30175298 
+
+
+29. J Thorac Dis. 2018 Jul;10(7):4602-4608. doi: 10.21037/jtd.2018.07.10.
+
+Spontaneous coronary artery dissection: from expert consensus statements to
+evidence-based medicine.
+
+Alfonso F(1), García-Guimaraes M(1), Bastante T(1), de la Cuerda F(1), Antuña
+P(1), Cuesta J(1), Rivero F(1).
+
+Author information: 
+(1)Department of Cardiology, Hospital Universitario de La Princesa, Madrid,
+Spain.
+
+Erratum in
+    J Thorac Dis. 2019 Jan;11(1):E19.
+
+Spontaneous coronary artery dissection (SCAD) represents an increasingly
+recognized cause of acute coronary syndrome (ACS), especially in young females.
+Novel diagnostic insights obtained from intracoronary imaging and the frequent
+association with fibromuscular dysplasia (FMD), have recently enriched our
+understanding of this unique clinical entity. Recently, two scientific statements
+from both sides of the Atlantic, summarizing the available information on SCAD,
+have been simultaneously published. These should help to guide the clinical
+management of these challenging patients. Major collaborative research efforts
+are required to move from expert-based recommendations to evidence-based
+[corrected] medicine.
+
+DOI: 10.21037/jtd.2018.07.10 
+PMCID: PMC6105997
+PMID: 30174912 
+
+Conflict of interest statement: Conflicts of Interest: The authors have no
+conflicts of interest to declare.
+
+
+30. World J Gastroenterol. 2018 Aug 28;24(32):3637-3649. doi:
+10.3748/wjg.v24.i32.3637.
+
+Diagnosis and management of fibromuscular dysplasia and segmental arterial
+mediolysis in gastroenterology field: A mini-review.
+
+Ko M(1), Kamimura K(2), Ogawa K(1), Tominaga K(1), Sakamaki A(1), Kamimura H(1), 
+Abe S(1), Mizuno K(1), Terai S(1).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, Graduate School of Medical and
+Dental Sciences, Niigata University, Niigata 9518510, Japan.
+(2)Division of Gastroenterology and Hepatology, Graduate School of Medical and
+Dental Sciences, Niigata University, Niigata 9518510, Japan.
+kenya-k@med.niigata-u.ac.jp.
+
+The vascular diseases including aneurysm, occlusion, and thromboses in the
+mesenteric lesions could cause severe symptoms and appropriate diagnosis and
+treatment are essential for managing patients. With the development and
+improvement of imaging modalities, diagnostic frequency of these vascular
+diseases in abdominal lesions is increasing even with the small changes in the
+vasculatures. Among various vascular diseases, fibromuscular dysplasia (FMD) and 
+segmental arterial mediolysis (SAM) are noninflammatory, nonatherosclerotic
+arterial diseases which need to be diagnosed urgently because these diseases
+could affect various organs and be lethal if the appropriate management is not
+provided. However, because FMD and SAM are rare, the cause, prevalence, clinical 
+characteristics including the symptoms, findings in the imaging studies,
+pathological findings, management, and prognoses have not been systematically
+summarized. Therefore, there have been neither standard diagnostic criteria nor
+therapeutic methodologies established, to date. To systematically summarize the
+information and to compare these disease entities, we have summarized the
+characteristics of FMD and SAM in the gastroenterological regions by reviewing
+the cases reported thus far. The information summarized will be helpful for
+physicians treating these patients in an emergency care unit and for the
+differential diagnosis of other diseases showing severe abdominal pain.
+
+DOI: 10.3748/wjg.v24.i32.3637 
+PMCID: PMC6113722
+PMID: 30166859  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare that they have no current financial arrangement or affiliation with any
+organization that may have a direct influence on their work.
+
+
+31. Eur J Clin Invest. 2018 Nov;48(11):e13023. doi: 10.1111/eci.13023. Epub 2018 Sep 
+17.
+
+Visceral Fibromuscular Dysplasia: From asymptomatic disorder to emergency.
+
+Van der Niepen P(1), van Tussenbroek F(2), Devos H(2), Debing E(3), Di Monaco
+S(4)(5), Goffette P(6), Astarci P(7)(8), Persu A(4)(8).
+
+Author information: 
+(1)Department of Nephrology & Hypertension, Universitair Ziekenhuis Brussel.
+Vrije Universiteit Brussel, Brussels, Belgium.
+(2)Department of Radiology, Universitair Ziekenhuis Brussel. Vrije Universiteit
+Brussel, Brussels, Belgium.
+(3)Department of Vascular Surgery, Universitair Ziekenhuis Brussel. Vrije
+Universiteit Brussel, Brussels, Belgium.
+(4)Division of Cardiology, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, Brussels, Belgium.
+(5)Internal Medicine and Hypertension Division, Department of Medical Sciences,
+AOU Città della Salute e della Scienza, University of Turin, Turin, Italy.
+(6)Department of Radiology, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, Brussels, Belgium.
+(7)Division of Vascular Surgery, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, Brussels, Belgium.
+(8)Pole of Cardiovascular Research, Institut de Recherche Expérimentale et
+Clinique, Université Catholique de Louvain, Brussels, Belgium.
+
+Fibromuscular dysplasia (FMD) is an idiopathic, segmental, non-atherosclerotic
+and non-inflammatory disease of the musculature of arterial walls, leading to
+stenosis of small and medium-sized arteries, mostly involving renal and cervical 
+arteries. As a result of better and more systematic screening, it appears that
+involvement of the splanchnic vascular bed is more frequent than originally
+assumed. We review epidemiology, pathogenesis, clinical picture as well as
+diagnosis and treatment of visceral artery (VA) FMD. The clinical picture is very
+diverse, and diagnosis is based on CT-, MR- or conventional catheter-based
+angiography. Involvement of VAs generally occurs among patients with multi-vessel
+FMD. Therefore, screening for VA FMD is advised especially in renal artery (RA)
+FMD and in case of aneurysms and/or dissections. Treatment depends on the
+clinical picture. However, the level of evidence is low, and much of the common
+practice is extrapolated from visceral atherosclerotic disease.
+
+© 2018 Stichting European Society for Clinical Investigation Journal Foundation.
+
+DOI: 10.1111/eci.13023 
+PMID: 30156710  [Indexed for MEDLINE]
+
+
+32. Vasc Endovascular Surg. 2019 Jan;53(1):66-70. doi: 10.1177/1538574418794075. Epub
+2018 Aug 16.
+
+Endovascular Repair of Ruptured Hepatic Artery Pseudoaneurysm Secondary to
+Fibromuscular Dysplasia.
+
+Rothenberg KA(1)(2), McFarland GE(2), Stern JR(2)(3).
+
+Author information: 
+(1)1 Department of Surgery, University of California San Francisco-East Bay,
+Oakland, CA, USA.
+(2)2 Division of Vascular Surgery, Stanford University, Stanford, CA, USA.
+(3)3 Division of Vascular Surgery, VA Palo Alto Health Care System, Palo Alto,
+CA, USA.
+
+We describe successful endovascular treatment of a patient with fibromuscular
+dysplasia of the celiac axis leading to development of a common hepatic artery
+pseudoaneurysm with contained rupture. An 81-year-old woman was transferred to
+our quaternary care center with concern for a hepatic artery rupture. Further
+imaging demonstrated a common hepatic artery pseudoaneurysm with surrounding
+hematoma as well as multifocal areas of narrowing and dilatation in the celiac
+trunk consistent with fibromuscular dysplasia. A similar pattern was subsequently
+identified in the bilateral renal and carotid arteries. The patient underwent
+successful endovascular exclusion of the pseudoaneurysm with a balloon-expandable
+covered stent and was discharged home without incident. Fibromuscular dysplasia
+is a nonatherosclerotic arteriopathy that can lead to stenosis, occlusion,
+dissection, and aneurysm formation. While it primarily affects the carotid and
+renal arteries, there are rare case reports involving the mesenteric vasculature.
+Endovascular therapy appears to be a feasible treatment option for the
+complicated sequelae of this condition in the rare case of mesenteric arterial
+involvement.
+
+DOI: 10.1177/1538574418794075 
+PMID: 30114972  [Indexed for MEDLINE]
+
+
+33. Mol Genet Metab Rep. 2018 Jul 26;16:64-65. doi: 10.1016/j.ymgmr.2018.07.002.
+eCollection 2018 Sep.
+
+Renal artery fibromuscular dysplasia in Pompe disease: A case report.
+
+Pappa E(1), Papadopoulos C(1), Grimbert P(2), Laforêt P(3), Bassez G(1).
+
+Author information: 
+(1)Centre de Référence Neuromusculaire Nord/Est/Ile de France, AP-HP, Institut de
+Myologie, GH Pitié-Salpêtrière, 47-83 Boulevard de l'Hôpital, 75013 Paris,
+France.
+(2)Service de Néphrologie et Transplantation, Hôpital Henri-Mondor, AP-HP, 51,
+avenue Maréchal-de-Lattre-de-Tassigny, 94010 Créteil, France.
+(3)Centre de Référence Neuromusculaire Nord/Est/Ile de France, Service de
+Neurologie, Hôpital Raymond-Poincaré, AP-HP, 104 Boulevard Raymond Poincaré,
+92380 Garches, France.
+
+Vascular involvement in Late Onset Pompe Disease, glycogen storage disease type
+II characterized by limb-girdle muscle and diaphragmatic weakness, is well
+documented. Abnormalities of posterior cerebral circulation have mostly been
+reported, whereas there are also cases of associated extracerebral arteriopathy. 
+We report the case of a 42-year-old man diagnosed with LOPD a year after renal
+infarct due to renal artery fibromuscular dysplasia. We propose that the
+association of LOPD and arteriopathy should always be considered in clinical
+practice.
+
+DOI: 10.1016/j.ymgmr.2018.07.002 
+PMCID: PMC6078050
+PMID: 30090700 
+
+
+34. Cureus. 2018 Mar 14;10(3):e2326. doi: 10.7759/cureus.2326.
+
+Fibromuscular Dysplasia Presenting as a Renal Infarct.
+
+Khalid S(1), Daw JH(2), Nautiyal A(3), Daw H(4).
+
+Author information: 
+(1)Internal Medicine Residency, Fairview Hospital, Cleveland Clinic, Cleveland,
+USA.
+(2)School of Arts and Sciences, Case Western Reserve University, Cleveland, USA.
+(3)Department of Cardiology, Fairview Hospital, Cleveland Clinic, Cleveland, USA.
+(4)Department of Hematology and Oncology, Fairview Hospital, Cleveland Clinic,
+Cleveland, USA.
+
+Fibromuscular dysplasia (FMD) is a condition caused by an abnormal development or
+growth of cells in the arterial walls in the body. We present a case of a
+49-year-old male who came in with a sudden onset of severe left-sided abdominal
+pain. Computed tomography (CT) scan of the abdomen was suggestive of a left renal
+infarct. He underwent renal angiography that showed FMD and a clot located in the
+anterior branch of the left renal artery. The patient was then treated with
+apixaban for the clot and amlodipine for the associated hypertension. Our case
+will highlight the importance of recognizing renal infarction as an initial
+presentation of FMD.
+
+DOI: 10.7759/cureus.2326 
+PMCID: PMC6072312
+PMID: 30083484 
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+35. Cerebrovasc Dis. 2018;46(1-2):33-39. doi: 10.1159/000491437. Epub 2018 Jul 31.
+
+Natural History of Cervical Artery Fibromuscular Dysplasia and Associated
+Neurovascular Events.
+
+Kadian-Dodov D, Goldfinger JZ, Gustavson S, Olin JW.
+
+BACKGROUND AND PURPOSE: Fibromuscular dysplasia (FMD) is a non-atherosclerotic
+arteriopathy most often affecting the carotid and renal arteries. In the United
+States Registry for FMD, 41.7% of patients experienced an aneurysm and/or
+dissection by the time of entry into the Registry. We sought to determine the
+occurrence of neurovascular events after FMD diagnosis and any changes on
+cervical artery imaging that may be attributable to FMD.
+METHODS: Patients followed at the Mount Sinai Medical Center (US Registry for FMD
+enrollment center) with confirmed FMD and > 1 cervical artery imaging study (at
+least ± 6 months from the baseline carotid duplex ultrasound [CDU]) between the
+years 2003 and 2015 were included. Medical records and cervical artery imaging
+([CDU], magnetic resonance angiogram [MRA], and computed tomography angiogram
+[CTA]) were reviewed. New arterial dissection, aneurysm, transient ischemic
+attack, stroke, or new FMD findings were recorded.
+RESULTS: Among 146 FMD patients with complete information, 52 (35.6%) had an
+aneurysm and 52 (35.6%) had a dissection. Mean clinical follow-up was 35.3 ± 25.3
+months (range 5-153 months); patients underwent 4 ± 2.7 CDU (range 1-17); 86.3%
+had ≥1 neck MRA or CTA. After FMD diagnosis, 3 patients (2%) experienced a new
+carotid artery dissection; 1 patient experienced a stroke due to concomitant
+atherosclerosis. No new aneurysms occurred. In patients with cervical artery FMD,
+imaging findings remained stable throughout follow-up. No patient developed new
+cervical artery FMD findings on follow-up imaging.
+CONCLUSIONS: No new cervical artery FMD or aneurysm was observed on subsequent
+imaging. New carotid dissection was uncommon over a mean follow-up period of 35.3
+± 25.3 months and was the only non-atherosclerotic vascular event observed after 
+FMD diagnosis.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000491437 
+PMID: 30064124  [Indexed for MEDLINE]
+
+
+36. Medicine (Baltimore). 2018 Jul;97(30):e11538. doi: 10.1097/MD.0000000000011538.
+
+Missense mutations in COL4A5 or COL4A6 genes may cause cerebrovascular
+fibromuscular dysplasia: Case report and literature review.
+
+Wang X(1), Li W(1), Wei K(2), Xiao R(3), Wang J(4), Ma H(1), Qin L(1), Shao W(1),
+Li C(3).
+
+Author information: 
+(1)Department of Neurology, People's Hospital of Zhengzhou University, Zhengzhou.
+(2)Xinxiang Medical University, Xinxiang.
+(3)Department of Neurology, the Affiliated Hospital of Inner Mongolia Medical
+University, Huhhot, Inner Mongolia.
+(4)Department of Cardiology, People's Hospital of Zhengzhou University,
+Zhengzhou, Henan, China.
+
+INTRODUCTION: Fibromuscular dysplasia (FMD) is a rare and controversial disease
+that is seldom associated with genes. Here, we report the discovery of 2 missense
+mutations in COL4A5 and COL4A6 that may be risk factors for causing
+cerebrovascular FMD. We performed high-throughput sequencing on a patient with
+FMD and her probable healthy daughter, then annotated the frequency of a variant 
+in a control or general population and assessed its deleterious effects according
+to published guidelines.
+CONCLUSIONS: We identified missense mutations in COL4A5 (exon43:c.C3940 >
+T:p.P1314S) and COL4A6 (exon36:c.C3538 > T:p.P1180S) from the proband and her
+daughter. Sanger sequencing revealed that these probable causal variants were
+passed to her from her mother. The two missense mutations may have complex
+functional effects on the integrity of the cerebral vessel walls, including
+modulating collagens and promoting angiogenesis expression, may be responsible
+for cerebrovascular FMD.
+
+DOI: 10.1097/MD.0000000000011538 
+PMCID: PMC6078732
+PMID: 30045277  [Indexed for MEDLINE]
+
+
+37. J Clin Hypertens (Greenwich). 2018 Sep;20(9):1302-1309. doi: 10.1111/jch.13356.
+Epub 2018 Jul 19.
+
+Time trends regarding the etiology of renal artery stenosis: 18 years' experience
+from the China Center for Cardiovascular Disease.
+
+Xiong HL(1), Peng M(2), Jiang XJ(1), Che WQ(1), Dong H(1), Chen Y(1), Zou YB(1), 
+Gao RL(1), Liu LS(1).
+
+Author information: 
+(1)Department of Cardiology, National Center for Cardiovascular Diseases, Fuwai
+Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College,
+Beijing, China.
+(2)Department of Cardiology, The First Affiliated Hospital of Zhengzhou
+University, Zhengzhou, China.
+
+Comment in
+    J Clin Hypertens (Greenwich). 2018 Sep;20(9):1310-1312.
+
+The time trends regarding the etiology of renal artery stenosis (RAS) are
+changing, but few investigations have focused on these issues. This study aimed
+to analyze the time trends regarding the etiology of RAS in a large patient
+sample from the China Center for Cardiovascular Disease. Consecutive inpatients
+with RAS from January 1999 to December 2016 were enrolled in this study. The
+etiologic diagnosis of RAS was based on established criteria. We retrospectively 
+analyzed the time trends regarding the etiology of RAS during an 18-year period. 
+A total of 2905 patients with RAS were enrolled. There were 2393 (82.4%) patients
+with atherosclerosis (AS), 345 (11.9%) with Takayasu arteritis (TA), 126 (4.3%)
+with fibromuscular dysplasia (FMD), and 41 (1.4%) with other causes. Among all
+patients (n = 2905), patients aged ≤ 40 years (n = 450), patients aged >40 years 
+(n = 2455), female patients (n = 1097), male patients (n = 1808), female patients
+aged >40 years (n = 808), and male patients aged >40 years (n = 1647), there were
+a gradual increase in the proportion of atherosclerotic RAS (P < 0.05), a gradual
+decrease in the proportion of RAS caused by TA (P < 0.05), and almost no change
+in the proportion of RAS caused by FMD during the 18-year period (P > 0.05). The 
+data show that the primary causes of RAS are AS, TA, and FMD. The proportion of
+RAS caused by AS and TA gradually increased and decreased, respectively, over
+time, and the proportion of RAS caused by FMD showed no significant change.
+
+©2018 Wiley Periodicals, Inc.
+
+DOI: 10.1111/jch.13356 
+PMID: 30027575  [Indexed for MEDLINE]
+
+
+38. Postepy Kardiol Interwencyjnej. 2018;14(2):214-215. doi: 10.5114/aic.2018.76421. 
+Epub 2018 Jun 19.
+
+Isolated carotid artery fibromuscular dysplasia unifocal type diagnosed in the
+postpartum period.
+
+Woziwodzka K(1), Krzanowska K(1), Szafirska M(2), Krzanowski M(1), Dziewierz
+A(3), Sułowicz W(1).
+
+Author information: 
+(1)Department of Nephrology, Jagiellonian University Medical College, Krakow,
+Poland.
+(2)Department of Radiology, Jagiellonian University Medical College, Krakow,
+Poland.
+(3)2 Department of Cardiology, Jagiellonian University Medical College, Krakow,
+Poland.
+
+DOI: 10.5114/aic.2018.76421 
+PMCID: PMC6041840
+PMID: 30008782 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+39. EJVES Short Rep. 2018 May 8;39:16-19. doi: 10.1016/j.ejvssr.2018.04.002.
+eCollection 2018.
+
+A Challenging Case of Fibromuscular Dysplasia in a Transgender Patient: Is There 
+a Hormonal Link?
+
+Shalan A(1), Hughes M(1), Nicholls M(1), Thompson A(1).
+
+Author information: 
+(1)York and North Yorkshire Vascular Unit, York Teaching Hospital NHS Foundation 
+Trust, York, UK.
+
+Introduction: Fibromuscular dysplasia (FMD) and superior mesenteric artery (SMA) 
+aneurysms are rare vascular conditions. An unusual combination of both diseases
+is reported.
+Case report: A 54 year old woman presented with symptomatic SMA aneurysm. A
+diagnosis of FMD was made on the basis of computed tomography angiography (CTA). 
+The patient had undergone gender reassignment surgery 10 years previously and
+continued to use both topical and oral hormonal therapy. The patient received
+open anatomical bypass through a retroperitoneal approach using great saphenous
+vein.
+Conclusion: Superior mesenteric artery aneurysms are rare and a diagnosis of FMD 
+should be considered as part of the diagnosis process. Anatomical bypass should
+be considered carefully in relation to a patient's fitness as well as anatomical 
+suitability.
+
+DOI: 10.1016/j.ejvssr.2018.04.002 
+PMCID: PMC6033210
+PMID: 29988870 
+
+
+40. J Med Vasc. 2018 Jul;43(4):262-266. doi: 10.1016/j.jdmv.2018.04.003.
+
+Surgical management of internal carotid artery aneurysm near the skull base.
+
+Ben Jmaà H(1), Lagha A(2), Diope A(2), Jarraya F(3), Bouchech B(3), Masmoudi
+S(2), Boudawara T(4), Elleuch N(2), Frikha I(2).
+
+Author information: 
+(1)Department of cardiovascular and thoracic surgery, Habib Bourguiba hospital,
+3029 Sfax, Tunisia. Electronic address: helabenjemaa2015@gmail.com.
+(2)Department of cardiovascular and thoracic surgery, Habib Bourguiba hospital,
+3029 Sfax, Tunisia.
+(3)Department of anesthesiology, Habib Bourguiba hospital, Sfax, Tunisia.
+(4)Department of anatomopathology, Habib Bourguiba hospital, Sfax, Tunisia.
+
+Extracranial carotid artery aneurysms are rare. The most common location is the
+common carotid artery near the bifurcation. The mid to distal internal carotid
+artery is the second most common location. We are reporting the case of a
+64-year-old woman who was admitted to our department for management of an
+asymptomatic left internal carotid artery aneurysm. Physical examination revealed
+a pulsatile mass, and imaging confirmed the aneurysm diagnosis. Computed
+tomography angiography detailed a 28mm×3cm×6cm aneurysm of the left cervical
+internal carotid artery with tortuous outflow the aneurysm sac. Open repair was
+undertaken. Exposure with incision anterior to the sternocleidomastoid was
+performed although extended more superiorly than usual because of the distal
+aneurysm location. After carotid clamping, the aneurysm was resected and an
+end-to-end anastomosis with prosthesis was performed. After closure, the patient 
+was extubated demonstrating baseline neurologic function. Histologic examination 
+of the arterial wall confirmed the diagnosis of fibromuscular dysplasia.
+
+Copyright © 2018 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.jdmv.2018.04.003 
+PMID: 29981735  [Indexed for MEDLINE]
+
+
+41. Hypertens Res. 2018 Sep;41(9):639-648. doi: 10.1038/s41440-018-0063-z. Epub 2018 
+Jul 3.
+
+Renal artery fibromuscular dysplasia and its effect on the kidney.
+
+van Twist DJL(1), de Leeuw PW(2)(3), Kroon AA(3).
+
+Author information: 
+(1)Department of Internal Medicine, Zuyderland Medical Centre, Sittard/Heerlen,
+The Netherlands. d.vantwist@zuyderland.nl.
+(2)Department of Internal Medicine, Zuyderland Medical Centre, Sittard/Heerlen,
+The Netherlands.
+(3)Department of Internal Medicine and Cardiovascular Research Institute
+Maastricht (CARIM), Maastricht University Medical Centre (MUMC+), Maastricht, The
+Netherlands.
+
+Fibromuscular dysplasia is a heterogeneous group of systemic, noninflammatory,
+and nonatherosclerotic diseases of the vascular wall. It is the second-most
+common abnormality of the renal artery. Although hypertension is the most common 
+presenting symptom, other symptoms, such as pulsatile tinnitus, stroke, chest
+pain, or abdominal discomfort, may result from other affected vascular beds.
+Revascularization of the renal artery appears to be effective at lowering blood
+pressure in many patients with renal artery fibromuscular dysplasia. For a long
+time, the intrarenal pathophysiological changes and mechanisms leading to
+hypertension had hardly been studied in patients with renal artery fibromuscular 
+dysplasia. Recent data, however, has provided more insight into the effects of
+renal artery fibromuscular dysplasia on the intrarenal microvasculature and the
+intra-renal renin-angiotensin system in these patients. Moreover, these data have
+changed our view of the pathophysiological mechanisms leading to hypertension in 
+patients with renal artery fibromuscular dysplasia. In this review, we will
+discuss recent clinical and scientific developments regarding renal artery
+fibromuscular dysplasia with an emphasis on its effects on the kidney.
+
+DOI: 10.1038/s41440-018-0063-z 
+PMID: 29968847  [Indexed for MEDLINE]
+
+
+42. Heart. 2018 Oct;104(19):1607. doi: 10.1136/heartjnl-2017-312779. Epub 2018 Jun
+28.
+
+A 42-year-old woman with acute myocardial infarction.
+
+Fahey JK(1)(2), Ihdayhid AR(1)(2), White AJ(1)(2).
+
+Author information: 
+(1)Monash Cardiovascular Research Centre, Monash University, Clayton, Victoria,
+Australia.
+(2)Monash Heart, Monash Health, Clayton, Victoria, Australia.
+
+CLINICAL INTRODUCTION: A 42-year-old woman presented with anterior ST elevation
+myocardial infarction. Urgent coronary angiography revealed tapering then
+occlusion of the distal left anterior descending (LAD) coronary artery with no
+flow in the distal LAD (figure 1A). Balloon angioplasty with a 2.0×8 mm balloon
+re-established flow into the distal LAD. An angiogram of the right external iliac
+artery was also performed (figure 1B).heartjnl;104/19/1607/F1F1F1Figure 1Invasive
+angiography of the left coronary system (A) and the right external iliac artery
+(B). The coronary angiogram (A) shows tapering and then occlusion (arrow) of the 
+distal left anterior descending coronary artery.
+QUESTION: Which of the following explains the abnormal appearance of the external
+iliac artery (figure 1B)?Atherosclerosis.Concertina effect.Fibromuscular
+dysplasia.Perforation.Multiple aneurysms.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2018. All rights reserved. No commercial use is permitted unless
+otherwise expressly granted.
+
+DOI: 10.1136/heartjnl-2017-312779 
+PMID: 29954857  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+43. J Vasc Surg Cases Innov Tech. 2018 Apr 12;4(2):76-79. doi:
+10.1016/j.jvscit.2017.12.012. eCollection 2018 Jun.
+
+Endovascular management of an acute type B aortic dissection in a patient with
+fibromuscular dysplasia.
+
+Man JH(1), Rothstein A(1), Patel PJ(2), Lee CJ(1).
+
+Author information: 
+(1)Department of Vascular Surgery, Medical College of Wisconsin, Milwaukee, Wisc.
+(2)Department of Vascular and Interventional Radiology, Medical College of
+Wisconsin, Milwaukee, Wisc.
+
+We report the case of a 44-year-old woman who developed an acute type B aortic
+dissection caused by an entry tear from an aneurysmal left common iliac artery
+that extended retrograde to the proximal descending thoracic aorta. She
+experienced refractory chest pain despite optimal medical management, thereby
+indicating repair. Endovascular aortic repair was subsequently performed.
+Intraoperatively, fibromuscular dysplasia was diagnosed by the characteristic
+appearance of her renal arteries. The patient tolerated the procedure and had
+resolution of her chest pain. In summary, we present a highly unusual case of
+type B aortic dissection resulting from a retrograde common iliac artery tear in 
+a patient with fibromuscular dysplasia.
+
+DOI: 10.1016/j.jvscit.2017.12.012 
+PMCID: PMC6013294
+PMID: 29942887 
+
+
+44. JAMA Cardiol. 2018 Aug 1;3(8):756-760. doi: 10.1001/jamacardio.2018.1638.
+
+Association of Multifocal Fibromuscular Dysplasia in Elderly Patients With a More
+Benign Clinical Phenotype: Data From the US Registry for Fibromuscular Dysplasia.
+
+Bagh I(1), Olin JW(2), Froehlich JB(3), Kline-Rogers E(3), Gray B(4), Kim ESH(5),
+Sharma A(6), Weinberg I(7), Wells BJ(8), Gu X(3), Gornik HL(1).
+
+Author information: 
+(1)Vascular Medicine Section, Department of Cardiovascular Medicine, Cleveland
+Clinic, Cleveland, Ohio.
+(2)Zena and Michael A. Wiener Cardiovascular Institute, Mt Sinai Medical Center, 
+New York, New York.
+(3)Michigan Cardiovascular Outcomes Research and Reporting Program, University of
+Michigan, Ann Arbor.
+(4)Department of Surgery, Greenville Health System, Greenville, South Carolina.
+(5)Cardiovascular Division, Vanderbilt University Medical Center, Nashville,
+Tennessee.
+(6)Division of Cardiovascular Medicine, University of Virginia, Charlottesville.
+(7)Vascular Center, Massachusetts General Hospital, Boston.
+(8)Divison of Cardiology, Emory University, Atlanta, Georgia.
+
+Importance: Fibromuscular dysplasia (FMD) is a nonatherosclerotic arterial
+disease that predominately affects women and is most commonly diagnosed in middle
+age. The natural history of FMD among patients diagnosed at an older age is not
+well understood.
+Objective: To examine the differences in clinical presentation, arterial bed
+involvement, vascular events, and need for vascular procedures between younger
+and older patients with FMD.
+Design, Setting, and Participants: Analysis of baseline data for patients
+enrolled in the US Registry for FMD as of December 15, 2016, at referral centers 
+participating in the US Registry for FMD. Patients 18 years and older at the time
+of enrollment and those with only confirmed multifocal (string of beads type) FMD
+were included. Patients were categorized according to age at the time of
+diagnosis (≥65 years vs <65 years).
+Main Outcomes and Measures: Prevalence of specific symptoms, vascular events, and
+prior vascular procedures at the time of enrollment in the registry.
+Results: A total of 1016 patients were included in the analysis, of whom, 170
+(16.7%) were 65 years or older at the time of diagnosis. Older patients with FMD 
+were more likely to be asymptomatic at the time of diagnosis (4.2% vs 1.4%;
+P = .02). Headache and pulsatile tinnitus, both common manifestations of FMD,
+were less common in older patients (40.5% vs 69.1%; P < .001 and 30% vs 44.6%;
+P < .001, respectively). Extracranial carotid arteries were more commonly
+involved in patients 65 years or older at time of diagnosis (87% vs 79.4%;
+P = .03). There was no difference in prevalence of renal artery involvement,
+number of arterial beds involved, or diagnosis of any aneurysm. Patients 65 years
+or older were less likely to have had a major vascular event (37.1% vs 46.1%;
+P = .03) and fewer had undergone a therapeutic vascular procedure (18.5% vs
+33.1%; P < .001).
+Conclusions and Relevance: In the US Registry for FMD, patients 65 years or older
+at the time of diagnosis of multifocal FMD were more likely to be asymptomatic,
+had lower prevalence of major vascular events, and had undergone fewer
+therapeutic vascular procedures than younger patients. Patients with multifocal
+FMD diagnosed at an older age may have a more benign phenotype and fewer
+symptoms.
+
+DOI: 10.1001/jamacardio.2018.1638 
+PMCID: PMC6143076
+PMID: 29926082  [Indexed for MEDLINE]
+
+
+45. Cardiol Res. 2018 Jun;9(3):195-196. doi: 10.14740/cr587wl. Epub 2018 Jun 6.
+
+Regarding the Case of Postpartum Sudden Cardiac Death After Spontaneous Coronary 
+Artery Dissection in a Patient With Fibromuscular Dysplasia.
+
+Calenda BW(1), Olin JW(1).
+
+Author information: 
+(1)Vascular Medicine and Vascular Diagnostic Laboratory, The Zena and Michael A. 
+Wiener Cardiovascular Institute and Marie-Josee and Henry R. Kravis Center for
+Cardiovascular Health, Icahn School of Medicine at Mount Sinai, One Gustave L.
+Levy Pl, Box 1033, New York, NY 10029, USA.
+
+DOI: 10.14740/cr587wl 
+PMCID: PMC5997439
+PMID: 29904460 
+
+
+46. Cardiol Res. 2018 Jun;9(3):191-194. doi: 10.14740/cr717w. Epub 2018 Jun 6.
+
+Unusual Presentation of Spontaneous Coronary Artery Dissection in an Older Male.
+
+Joea R(1), Strube SJ(1)(2), Zynda TK(3).
+
+Author information: 
+(1)Department of Internal Medicine, St Mary Medical Center, Long Beach, CA 90813,
+USA.
+(2)Health Science, St Mary Medical Center, Long Beach, CA 90813, USA.
+(3)Department of Cardiology, St Mary Medical Center, Long Beach, CA 90813, USA.
+
+Spontaneous coronary artery dissection (SCAD) is a variant of acute coronary
+syndrome (ACS) that is poorly understood. SCAD has been linked to fibromuscular
+dysplasia (FMD), connective tissue disease (CTD), pregnancy and hormonal
+imbalance, systemic inflammatory conditions (e.g. IBD, vasculitis), and coronary 
+artery vasospasm rather than traditional cardiac risk factors. Symptomology
+generally accompanying SCAD is indistinguishable from ACS making the timely
+recognition and diagnosis vital for prompt treatment. Management of SCAD is not
+well defined given the absence of guidelines; conservative therapy with or
+without invasive intervention is assessed on a case-by-case basis. In this
+article, we report the case of a 62-year-old male, who presented with chest pain 
+and dyspnea on exertion and was found to have an elevated troponin-I level and
+corresponding electrocardiogram (EKG) findings, subsequently diagnosed with a
+non-ST elevation myocardial infarction (NSTEMI). Coronary angiography revealed a 
+distal right coronary artery (RCA) dissection, which was confirmed later with
+intravascular ultrasound (IVUS). The patient then underwent percutaneous coronary
+intervention (PCI) followed by stenting of the distal RCA and was discharged on
+optimal medical therapy. Herein, we report a case of SCAD in an otherwise healthy
+male with chest pain at rest and with mild exertion without conventional cardiac 
+risk factors.
+
+DOI: 10.14740/cr717w 
+PMCID: PMC5997434
+PMID: 29904459 
+
+Conflict of interest statement: All authors of this manuscript have no conflict
+of interest to disclose.
+
+
+47. J Hypertens. 2018 Aug;36(8):1729-1735. doi: 10.1097/HJH.0000000000001755.
+
+Differences in renal hemodynamics and renin secretion between patients with
+unifocal and multifocal fibromuscular dysplasia.
+
+van Twist DJL(1)(2)(3), de Heer PWM(1)(2), Houben AJHM(1)(2), de Haan MW(4), de
+Leeuw PW(1)(2)(3), Kroon AA(1)(2).
+
+Author information: 
+(1)Department of Internal Medicine.
+(2)CARIM School for Cardiovascular Diseases, Maastricht University Medical Centre
+(MUMC+), Maastricht.
+(3)Department of Internal Medicine, Zuyderland Medical Centre, Geleen/Heerlen.
+(4)Department of Radiology, Maastricht University Medical Centre (MUMC+),
+Maastricht, The Netherlands.
+
+OBJECTIVE: Fibromuscular dysplasia (FMD) can be classified in a multifocal and a 
+unifocal subtype. As unifocal FMD generally leads to more severe hypertension at 
+younger age, we hypothesized that renal hemodynamics are more disturbed in
+unifocal renal artery FMD as compared with multifocal FMD, leading to increased
+renin secretion.
+METHODS: We measured renal blood flow (Xenon washout method), renin secretion,
+and glomerular filtration rate per kidney in 101 patients with FMD (26 unifocal
+and 75 multifocal), all off medication and prior to balloon angioplasty.
+RESULTS: We found that renal blood flow and glomerular filtration were
+substantially lower in kidneys with unifocal FMD as compared with multifocal FMD.
+In the affected kidney from patients with unilateral FMD for example, mean renal 
+blood flow was 173 ± 77 in unifocal vs. 244 ± 79 ml/100 g kidney/min in
+multifocal FMD (P = 0.013). Moreover, lateralization in renin secretion was only 
+observed in a subset of patients with unifocal FMD, but not in any of the
+patients with multifocal FMD.
+CONCLUSION: These findings suggest that the impact of unifocal FMD lesions on the
+kidney is more severe, resulting in a classical pattern of renovascular
+hypertension. In multifocal FMD, however, renal blood flow is more preserved,
+local renin secretion is not increased, and the association between renin levels 
+and blood pressure is inverse. These differences may explain the often more
+severe clinical presentation and higher success rate of revascularization in
+unifocal FMD, but also suggest that the pathophysiological mechanisms leading to 
+hypertension may differ between these two disease entities.
+
+DOI: 10.1097/HJH.0000000000001755 
+PMID: 29889158  [Indexed for MEDLINE]
+
+
+48. Int J Mol Sci. 2018 May 21;19(5). pii: E1526. doi: 10.3390/ijms19051526.
+
+Genomics of Fibromuscular Dysplasia.
+
+Di Monaco S(1)(2), Georges A(3), Lengelé JP(4)(5), Vikkula M(6), Persu A(7)(8).
+
+Author information: 
+(1)Division of Cardiology, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, 1200 Brussels, Belgium. silvia.dimonaco@gmail.com.
+(2)Department of Medical Sciences, Internal Medicine and Hypertension Division,
+AOU Città della Salute e della Scienza, University of Turin, 10124 Turin, Italy. 
+silvia.dimonaco@gmail.com.
+(3)INSERM, UMR970 Paris Cardiovascular Research Center (PARCC), F-75015 Paris,
+France. adrien.georges@inserm.fr.
+(4)Division of Cardiology, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, 1200 Brussels, Belgium. Jean_Philippe.LENGELE@ghdc.be.
+(5)Department of Nephrology, Grand Hôpital De Charleroi, 6060 Gilly, Belgium.
+Jean_Philippe.LENGELE@ghdc.be.
+(6)Human Molecular Genetics, de Duve Institute, Université catholique de Louvain,
+1200 Brussels, Belgium. miikka.vikkula@uclouvain.be.
+(7)Division of Cardiology, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, 1200 Brussels, Belgium. alexandre.persu@uclouvain.be.
+(8)Pole of Cardiovascular Research, Institut de Recherche Expérimentale et
+Clinique, Université catholique de Louvain, 1200 Brussels, Belgium.
+alexandre.persu@uclouvain.be.
+
+Fibromuscular Dysplasia (FMD) is &ldquo;an idiopathic, segmental,
+non-atherosclerotic and non-inflammatory disease of the musculature of arterial
+walls, leading to stenosis of small and medium-sized arteries&rdquo; (Persu, et
+al; 2014). FMD can lead to hypertension, arterial dissections, subarachnoid
+haemorrhage, stroke or mesenteric ischemia. The pathophysiology of the disease
+remains elusive. While familial cases are rare (<5%) in contemporary FMD
+registries, there is evidence in favour of the existence of multiple genetic
+factors involved in this vascular disease. Recent collaborative efforts allowed
+the identification of a first genetic locus associated with FMD. This intronic
+variant located in the phosphatase and actin regulator 1 gene (PHACTR1) may
+influence the transcription activity of the endothelin-1 gene (EDN1) located
+nearby on chromosome 6. Interestingly, the PHACTR1 locus has also been involved
+in vascular hypertrophy in normal subjects, carotid dissection, migraine and
+coronary artery disease. National and international registries of FMD patients,
+with deep and harmonised phenotypic and genetic characterisation, are expected to
+be instrumental to improve our understanding of the genetic basis and
+pathophysiology of this intriguing vascular disease.
+
+DOI: 10.3390/ijms19051526 
+PMCID: PMC5983654
+PMID: 29883369  [Indexed for MEDLINE]
+
+
+49. Pediatr Nephrol. 2018 Sep;33(9):1593-1599. doi: 10.1007/s00467-018-3983-6. Epub
+2018 Jun 4.
+
+Imaging studies in pediatric fibromuscular dysplasia (FMD): a single-center
+experience.
+
+Louis R(1)(2), Levy-Erez D(3)(4), Cahill AM(2)(5), Meyers KE(1)(2).
+
+Author information: 
+(1)Division of Nephrology, Department of Pediatrics, Children's Hospital of
+Philadelphia, Philadelphia, PA, USA.
+(2)University of Pennsylvania, Philadelphia, PA, USA.
+(3)Division of Nephrology, Department of Pediatrics, Children's Hospital of
+Philadelphia, Philadelphia, PA, USA. levy.erez.daniella@gmail.com.
+(4)University of Pennsylvania, Philadelphia, PA, USA.
+levy.erez.daniella@gmail.com.
+(5)Interventional Radiology, Department of Radiology, Children's Hospital of
+Philadelphia, Philadelphia, PA, USA.
+
+BACKGROUND: Fibromuscular dysplasia (FMD) is a non-inflammatory vascular disease 
+that in children unlike in adults shows no sex predilection. FMD is often
+underdiagnosed, and its pathophysiology is unclear. Delayed diagnosis may lead to
+refractory hypertension and decreases the chance of successful treatment. Doppler
+ultrasound (US), magnetic resonance angiography (MRA), computed tomography
+angiography (CTA), and catheter-based angiography (angiography) are currently
+used to help make a clinicoradiological diagnosis of FMD. The main aim of the
+study was to compare the efficacy of imaging modalities which can allow for
+earlier and improved detection. Furthermore, an anatomical mapping of the
+location of lesions can help determine the best treatment modalities.
+METHODS: All patients with non-syndromic non-inflammatory renovascular
+hypertension were recruited from the Nephrology Department at the Children's
+Hospital of Philadelphia (CHOP) and enrolled in the U.S. FMD Registry maintained 
+at the University of Michigan. Clinical presentation and imaging findings on US, 
+CT, and MRI of children diagnosed with FMD were evaluated.
+RESULTS: Mean age at diagnosis was 7 ± 4.9 years (4 months-17 years). Family
+history of hypertension (HTN) (52%), FMD (8.7%), Caucasian (60%), headache (48%),
+and HTN (80%) were the most prevalent symptom and sign at presentation. Bruits
+were 100% specific for renal artery stenosis (RAS) diagnosis but were heard in
+the minority of patients (3 patients, 12%). FMD was mainly unifocal within a
+single site (68%) or multiple sites (28%) and involved the main or first order
+renal branch in about 68% of children. Isolated distal lesions beyond the second 
+order branches were found in about 25% of children. US imaging was significantly 
+less sensitive than angiography (28%, p = 0.003). MRA had a better sensitivity
+(62.5%, p = 0.3) than US. Overall, CTA had the best sensitivity (84.2%, p = 0.4) 
+compared to angiography; however, only angiography showed distal vessel disease.
+CONCLUSIONS: Limitations of the study include the sample size and biases-only
+patients diagnosed with FMD were included in this study and most patients were
+referred to a pediatric nephrologist for unexplained hypertension. Angiography
+should be performed as part of the initial work-up of any child suspected of
+having renovascular FMD, regardless of the findings seen on US, MRA, or CTA.
+
+DOI: 10.1007/s00467-018-3983-6 
+PMCID: PMC6082421
+PMID: 29869115  [Indexed for MEDLINE]
+
+
+50. J Am Soc Hypertens. 2018 Jul;12(7):506-508. doi: 10.1016/j.jash.2018.04.011. Epub
+2018 May 9.
+
+Renovascular hypertension in small children-is it Takayasu arteritis or
+fibromuscular dysplasia?
+
+Tullus K(1), Roebuck DJ(2).
+
+Author information: 
+(1)Department of Paediatric Nephrology, Great Ormond Street Hospital for
+Children, London, UK. Electronic address: Kjell.tullus@gosh.nhs.uk.
+(2)Department of Interventional Radiology, Great Ormond Street Hospital for
+Children, London, UK.
+
+Comment on
+    J Am Soc Hypertens. 2018 Jul;12(7):509-512.
+
+DOI: 10.1016/j.jash.2018.04.011 
+PMID: 29861130 
+
+
+51. Cardiovasc Pathol. 2018 Jul - Aug;35:57-63. doi: 10.1016/j.carpath.2018.04.007.
+Epub 2018 Apr 30.
+
+Comparing coronary artery fibromuscular dysplasia with coronary atherosclerosis: 
+from clinical to histopathological characteristics.
+
+Hua X(1), Chen X(1), Chen K(1), Lai S(1), Gao R(1), Hu Y(1), Song J(2).
+
+Author information: 
+(1)State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National
+Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Beijing, China.
+(2)State Key Laboratory of Cardiovascular Disease, Fuwai Hospital, National
+Center for Cardiovascular Diseases, Chinese Academy of Medical Sciences and
+Peking Union Medical College, Beijing, China. Electronic address:
+fwsongjiangping@126.com.
+
+DOI: 10.1016/j.carpath.2018.04.007 
+PMID: 29803123  [Indexed for MEDLINE]
+
+
+52. Zh Nevrol Psikhiatr Im S S Korsakova. 2018;118(3. Vyp. 2):9-14. doi:
+10.17116/jnevro2018118329-14.
+
+[Intimal rupture of the displastic middle cerebral artery wall complicated by
+thrombosis and fatal ischemic stroke].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Kalashnikova LA(1), Chaykovskaya RP(1), Gulevskaya TS(1), Dobrynina LA(1),
+Gubanova MV(1), Dreval MV(1), Maksimova MY(1).
+
+Author information: 
+(1)Research Center of Neurology, Moscow, Russia.
+
+The authors present a clinical-morphological observation of the 47-year old man
+with a severe fatal ischemic stroke due to middle cerebral artery thrombosis
+which developed at the site of intimal rupture. The cause of intimal rupture was 
+the arterial wall dysplastic changes. There were no signs of atherosclerosis and 
+hypercoagulation. As the intima rupture did not lead to blood input into arterial
+wall, but was accompanied by superimposed thrombosis, we suggested to denote such
+cases as incomplete dissection.
+
+Publisher: Авторы описывают клинико-патоморфологическое наблюдение больного 47
+лет с обширным фатальным ишемическим инсультом вследствие тромбоза левой средней 
+мозговой артерии, развившегося в месте разрыва интимы. Причиной разрыва послужили
+диспластические изменения артериальной стенки. Признаков атеросклероза и
+гиперкоагуляции не было. Поскольку разрыв интимы не привел к проникновению крови 
+в артериальную стенку, а сопровождался тромбозом, мы предлагаем обозначать такие 
+случаи, как незавершенная диссекция.
+DOI: 10.17116/jnevro2018118329-14 
+PMID: 29798974  [Indexed for MEDLINE]
+
+
+53. J Med Ultrason (2001). 2018 Oct;45(4):657-660. doi: 10.1007/s10396-018-0884-z.
+Epub 2018 May 23.
+
+A refractory hypertensive patient with fibromuscular dysplasia and multicystic
+dysplastic kidney.
+
+Takahashi S(1), Takizawa Y(2), Nakano S(2), Oyama K(2).
+
+Author information: 
+(1)Department of Pediatrics, Iwate Medical University School of Medicine, 19-1
+Uchimaru, Morioka, 020-8505, Japan. shint@iwate-med.ac.jp.
+(2)Department of Pediatrics, Iwate Medical University School of Medicine, 19-1
+Uchimaru, Morioka, 020-8505, Japan.
+
+The case of a 16-year-old male patient with left renal artery stenosis due to
+fibromuscular dysplasia (FMD) and an atrophic kidney due to a right multicystic
+dysplastic kidney (MCDK) who presented with refractory hypertension is reported. 
+On continuous Doppler imaging, the peak systolic velocity (PSV) at the stenotic
+site of the left renal artery was 404 cm/s. The FMD formed a "string-of-beads"
+appearance on computed tomographic angiography (CTA) and renal artery
+angiography. Percutaneous transluminal renal angioplasty (PTRA) with a balloon
+catheter was performed, after which the left renal artery returned to near
+normal, and his blood pressure decreased to within the normal range. In this
+case, the main cause of refractory hypertension was considered to have been renal
+artery stenosis due to left FMD.
+
+DOI: 10.1007/s10396-018-0884-z 
+PMID: 29796733  [Indexed for MEDLINE]
+
+
+54. Can Urol Assoc J. 2018 May 14. doi: 10.5489/cuaj.5133. [Epub ahead of print]
+
+Case - Ex-vivo aneurysm resection, autotransplantation, and aorto-renal bypass in
+a solitary kidney with fibromuscular dysplasia.
+
+Sarwal G(1), Brotherhood HL(2), Chedgy ECP(3), Taylor DC(4), Kavanagh AG(3).
+
+Author information: 
+(1)PGY-3 Vascular Surgery, University of British Columbia.
+(2)PGY-5 Urological Surgery, University of British Columbia.
+(3)Department of Urological Sciences, Vancouver General Hospital.
+(4)Division of Vascular Surgery, Vancouver General Hospital; Vancouver, BC,
+Canada.
+
+DOI: 10.5489/cuaj.5133 
+PMCID: PMC6143502
+PMID: 29787367 
+
+
+55. Intern Med. 2018 Sep 15;57(18):2605-2606. doi: 10.2169/internalmedicine.1021-18. 
+Epub 2018 Apr 27.
+
+Fibromuscular Dysplasia: Another Paradigm Shift in Renovascular Hypertension?
+
+Takahashi K(1), Unno T(2).
+
+Author information: 
+(1)Division of Metabolism, Showa General Hospital, Japan.
+(2)Division of Radiology, Showa General Hospital, Japan.
+
+Comment on
+    Intern Med. 2018 Sep 15;57(18):2689-2694.
+
+DOI: 10.2169/internalmedicine.1021-18 
+PMCID: PMC6191594
+PMID: 29709956  [Indexed for MEDLINE]
+
+
+56. Intern Med. 2018 Oct 1;57(19):2885-2887. doi: 10.2169/internalmedicine.0704-17.
+Epub 2018 Apr 27.
+
+Sequential Symptomatic Arterial Dissections in Multiple Vascular Beds in a
+Patient with Fibromuscular Dysplasia.
+
+Sakamoto Y(1)(2), Hiruta R(3)(4), Iijima A(3)(4), Sakuma Y(3), Konno Y(3).
+
+Author information: 
+(1)Department of Neurology, Jusendo General Hospital, Japan.
+(2)Department of Neurological Science, Graduate School of Medicine, Nippon
+Medical School, Japan.
+(3)Department of Neurosurgery, Jusendo General Hospital, Japan.
+(4)Department of Neurosurgery, Fukushima Medical University, Japan.
+
+A 60-year-old man was admitted to our hospital because of abdominal pain and
+disturbed consciousness. Head magnetic resonance imaging showed right vertebral
+artery dissection and abdominal enhanced computed tomography showed dissection of
+the superior mesenteric artery. The patient was diagnosed as having fibromuscular
+dysplasia (FMD) based on conventional angiography. Although multiple vascular bed
+involvement is observed in approximately 40% of FMD patients, reports of
+sequential symptomatic dissections in various vascular beds are rare. Patients
+with FMD and dissection require close observation, and hemodynamic stabilization 
+may prevent not only the further development of dissection, but also subsequent
+dissection of other arteries.
+
+DOI: 10.2169/internalmedicine.0704-17 
+PMCID: PMC6207829
+PMID: 29709948  [Indexed for MEDLINE]
+
+
+57. Intern Med. 2018 Sep 15;57(18):2689-2694. doi: 10.2169/internalmedicine.0023-17. 
+Epub 2018 Apr 27.
+
+A Unique Case of Renovascular Hypertension due to Fibromuscular Dysplasia in an
+Extra-renal Artery.
+
+Sakuma I(1)(2), Saito J(1), Matsuzawa Y(1), Omura M(1), Matsui S(3), Nishikawa
+T(1).
+
+Author information: 
+(1)Endocrinology & Diabetes Center, Yokohama Rosai Hospital, Japan.
+(2)Department of Clinical Cell Biology & Medicine, Chiba University Graduate
+School of Medicine, Japan.
+(3)Department of Radiology, Yokohama Rosai Hospital, Japan.
+
+Comment in
+    Intern Med. 2018 Sep 15;57(18):2605-2606.
+
+A 33-year-old man was admitted to our hospital to undergo an evaluation to
+determine the cause of secondary hypertension. Computerized tomography
+angiography (CTA) showed bilateral multiple renal arteries with significant
+stenosis of the right extra-renal artery due to fibromuscular dysplasia and
+segmental impairment of renal perfusion. Although the plasma aldosterone
+concentration and plasma renin activity were within the normal ranges,
+percutaneous balloon dilatation of the stenotic lesion resolved his hypertension,
+leading to a diagnosis of renovascular hypertension caused by segmental renal
+ischemia due to extra-renal artery stenosis. CTA should be considered during the 
+examination of patients with early-age hypertension, even if the plasma renin
+activity is not sufficiently elevated.
+
+DOI: 10.2169/internalmedicine.0023-17 
+PMCID: PMC6191605
+PMID: 29709926  [Indexed for MEDLINE]
+
+
+58. J Investig Med High Impact Case Rep. 2018 Apr 18;6:2324709618770479. doi:
+10.1177/2324709618770479. eCollection 2018 Jan-Dec.
+
+Spontaneous Coronary Artery Dissection: A Case Series of 9 Patients With
+Literature Review.
+
+Ghani AR(1), Inayat F(2), Ali NS(2), Anjum R(3), Viray M(3), Hashmi AT(4), Riaz
+I(3), Klugherz BD(1), Virk HUH(3).
+
+Author information: 
+(1)Abington Hospital - Jefferson Health, Abington, PA, USA.
+(2)Allama Iqbal Medical College, Lahore, Pakistan.
+(3)Einstein Medical Center, Philadelphia, PA, USA.
+(4)Maimonides Medical Center, Brooklyn, NY, USA.
+
+Spontaneous coronary artery dissection is an increasingly recognized
+nonatherosclerotic cause of acute coronary syndrome. Reports regarding the
+prognosis and natural history of this disease are limited. In addition to the
+diagnostic difficulty, this condition poses a significant therapeutic challenge
+due to the lack of specific management guidelines. We present here a case series 
+of 9 patients with spontaneous coronary artery dissection. Additionally, this
+article reviews the incidence, clinical characteristics, risk factors, diagnostic
+modalities, therapeutic approaches, and patterns of recurrence in patients with
+spontaneous coronary artery dissection.
+
+DOI: 10.1177/2324709618770479 
+PMCID: PMC5912312
+PMID: 29707593 
+
+Conflict of interest statement: Declaration of Conflicting Interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+
+
+59. J Vasc Surg. 2018 May;67(5):1596-1597. doi: 10.1016/j.jvs.2017.04.054.
+
+Collet-Sicard syndrome secondary to internal carotid artery pseudoaneurysm.
+
+Erben Y(1), Ghare MI(2), Patel A(3), Mojibian H(4), Matouk C(5).
+
+Author information: 
+(1)Section of Vascular and Endovascular Surgery, Yale University, New Haven,
+Conn. Electronic address: young.erben@yale.edu.
+(2)Yale School of Medicine, Yale University, New Haven, Conn.
+(3)Department of Neurology, Yale University, New Haven, Conn.
+(4)Division of Interventional Radiology, Department of Radiology, Yale
+University, New Haven, Conn.
+(5)Department of Neurosurgery, Yale University, New Haven, Conn; Department of
+Radiology and Biomedical Imaging, Yale University, New Haven, Conn.
+
+DOI: 10.1016/j.jvs.2017.04.054 
+PMID: 29685252  [Indexed for MEDLINE]
+
+
+60. JACC Cardiovasc Interv. 2018 May 14;11(9):909-910. doi:
+10.1016/j.jcin.2017.11.015. Epub 2018 Apr 18.
+
+Histopathology of Coronary Fibromuscular Dysplasia Causing Spontaneous
+Coronary Artery Dissection.
+
+Moulson N(1), Kelly J(2), Iqbal MB(2), Saw J(3).
+
+Author information: 
+(1)Division of Cardiology, University of British Columbia, Vancouver, Canada.
+(2)Division of Pathology and Cardiology, Royal Jubilee Hospital, Victoria,
+Canada.
+(3)Division of Cardiology, University of British Columbia, Vancouver, Canada.
+Electronic address: jsaw@mail.ubc.ca.
+
+DOI: 10.1016/j.jcin.2017.11.015 
+PMID: 29680214  [Indexed for MEDLINE]
+
+
+61. Clin Exp Nephrol. 2018 Dec;22(6):1294-1299. doi: 10.1007/s10157-018-1575-1. Epub 
+2018 Apr 20.
+
+Low frequency of cervicocranial artery involvement in Japanese with renal artery 
+fibromuscular dysplasia compared with that of Caucasians.
+
+Mishima E(1), Umezawa S(2), Suzuki T(1), Fujimura M(3), Abe M(4), Hashimoto J(5),
+Abe T(6)(7)(8), Ito S(1).
+
+Author information: 
+(1)Division of Nephrology, Endocrinology, and Vascular Medicine, Tohoku
+University Graduate School of Medicine, Sendai, Japan.
+(2)Graduate Medical Education Center, Tohoku University Hospital, Sendai, Japan.
+(3)Department of Neurosurgery, Kohnan Hospital, Sendai, Japan.
+(4)Department of Education and Support for Regional Medicine, Tohoku University
+Hospital, Sendai, Japan.
+(5)Medical Center, Miyagi University of Education, Sendai, Japan.
+(6)Division of Nephrology, Endocrinology, and Vascular Medicine, Tohoku
+University Graduate School of Medicine, Sendai, Japan. takaabe@med.tohoku.ac.jp.
+(7)Division of Medical Science, Tohoku University Graduate School of Biomedical
+Engineering, Sendai, 980-8574, Japan. takaabe@med.tohoku.ac.jp.
+(8)Department of Clinical Biology and Hormonal Regulation, Tohoku University
+Graduate School of Medicine, Sendai, Japan. takaabe@med.tohoku.ac.jp.
+
+BACKGROUND: Fibromuscular dysplasia (FMD), which usually affects the renal
+artery, also affects the carotid, vertebral, and intracranial arteries. Previous 
+studies have shown a high prevalence of concomitant renal artery and
+cervicocranial lesions in FMD patients. However, the analyzed subjects were
+mostly Caucasians in Western countries.
+METHOD: We performed a retrospective analysis to examine the prevalence of
+cervicocranial vascular lesions in Japanese FMD patients with renal artery
+involvement at a single institution. The presence of cervicocranial lesions was
+evaluated by Doppler echography and magnetic resonance angiography. We compared
+this prevalence with that reported in the literature.
+RESULT: Thirty-one Japanese FMD patients with renal artery lesions were studied. 
+The mean age was 30 ± 12 years, 71% were women, and 16% were smokers; all
+patients were Asians and had hypertension. Multifocal, tubular, and unifocal
+types of renal lesions were found in 52, 35, and 13% of patients, respectively.
+Bilateral renal lesions were found in 13% of patients. None of the patients had a
+cervical vascular lesion associated with FMD. Only two patients (8%) had a lesion
+in the intracranial artery, of which one was a known case of moyamoya disease.
+CONCLUSION: These findings suggest that cervical artery involvement and
+intracranial artery involvement are not common in renal FMD patients in Japan,
+which is in contrast to the data reported for Caucasian patients in Western
+countries. Ethnic differences could influence the occurrence of cervicocranial
+lesions. A study with a larger sample size should be performed to validate these 
+findings.
+
+DOI: 10.1007/s10157-018-1575-1 
+PMID: 29679353  [Indexed for MEDLINE]
+
+
+62. Circ Genom Precis Med. 2018 Apr;11(4):e002148. doi: 10.1161/CIRCGEN.118.002148.
+
+Genetics of Spontaneous Coronary Artery Dissection Gains New Momentum.
+
+Grond-Ginsbach C(1), Engelter ST(2).
+
+Author information: 
+(1)Neurology Department, University of Heidelberg, Germany (C.G.-G.). Department 
+of Neurology & Stroke Center, Department of Clinical Research, University
+Hospital and University of Basel, Switzerland (S.T.E.). Neurorehabilitation Unit,
+University Center for Medicine of Aging & Rehabilitation, Felix Platter Hospital,
+University of Basel, Switzerland (S.T.E.)
+Caspar.Grond-Ginsbach@med.uni-heidelberg.de.
+(2)Neurology Department, University of Heidelberg, Germany (C.G.-G.). Department 
+of Neurology & Stroke Center, Department of Clinical Research, University
+Hospital and University of Basel, Switzerland (S.T.E.). Neurorehabilitation Unit,
+University Center for Medicine of Aging & Rehabilitation, Felix Platter Hospital,
+University of Basel, Switzerland (S.T.E.).
+
+Comment on
+    Circ Genom Precis Med. 2018 Apr;11(4):e001933.
+
+DOI: 10.1161/CIRCGEN.118.002148 
+PMID: 29650771  [Indexed for MEDLINE]
+
+
+63. Circ Genom Precis Med. 2018 Apr;11(4):e001933. doi:
+10.1161/CIRCGENETICS.117.001933.
+
+Prospective Cardiovascular Genetics Evaluation in Spontaneous Coronary Artery
+Dissection.
+
+Kaadan MI, MacDonald C, Ponzini F, Duran J, Newell K, Pitler L, Lin A, Weinberg
+I, Wood MJ, Lindsay ME.
+
+Comment in
+    Circ Genom Precis Med. 2018 Apr;11(4):e002148.
+
+BACKGROUND: Previous studies describing genetics evaluation in spontaneous
+coronary artery dissection (SCAD) have been retrospective in nature or presented 
+as single case reports. As part of a dedicated clinical program, we evaluated
+patients in cardiovascular genetics clinic to determine the role of genetically
+triggered vascular disease and genetic testing in SCAD.
+METHODS AND RESULTS: Patient data were entered prospectively into the
+Massachusetts General Hospital SCAD registry database from July 2013 to September
+2017. Clinically indicated genetic testing was conducted based on patient
+imaging, family history, physical examination, and patient preference. Of the 107
+patients enrolled in the registry, 73 underwent cardiovascular genetics
+evaluation at our center (average age, 45.3±9.4 years; 85.3% female), and genetic
+testing was performed for 44 patients. A family history of aneurysm or dissection
+was not a prevalent feature in the study population, and only 1 patient had a
+family history of SCAD. Six patients (8.2%) had identifiable genetically
+triggered vascular disease: 3 with vascular Ehlers-Danlos syndrome (COL3A1), 1
+with Nail-patella syndrome (LMX1B), 1 with autosomal dominant polycystic kidney
+disease (PKD1), and 1 with Loeys-Dietz syndrome (SMAD3). None of these 6 had
+radiographic evidence of fibromuscular dysplasia.
+CONCLUSIONS: In this series, 8.2% of the SCAD patients evaluated had a
+molecularly identifiable disorder associated with vascular disease. The most
+common diagnosis was vascular Ehlers-Danlos syndrome. Patients with positive gene
+testing were significantly younger at the time of their first SCAD event. A low
+threshold for genetic testing should be considered in patients with SCAD.
+
+© 2018 American Heart Association, Inc.
+
+DOI: 10.1161/CIRCGENETICS.117.001933 
+PMID: 29650765  [Indexed for MEDLINE]
+
+
+64. Prog Cardiovasc Dis. 2018 Mar - Apr;60(6):629-634. doi:
+10.1016/j.pcad.2018.04.001. Epub 2018 Apr 6.
+
+Spontaneous Coronary Artery Dissection: Cardiac Manifestations of Vascular
+Disease.
+
+Agrawal V(1), Kim ESH(2).
+
+Author information: 
+(1)Division of Cardiology, Department of Medicine, Vanderbilt University Medical 
+Center, Nashville, TN, USA.
+(2)Division of Cardiology, Department of Medicine, Vanderbilt University Medical 
+Center, Nashville, TN, USA. Electronic address: esther.kim@vanderbilt.edu.
+
+Spontaneous coronary artery dissection (SCAD) is an increasingly recognized cause
+of acute coronary syndrome (ACS) in young women who otherwise do not have
+traditional risk factors for coronary artery disease. Though previously
+considered to be a rare occurrence and primarily associated with pregnancy,
+contemporary series have demonstrated that SCAD may account for 35% of ACS in
+women under the age of 50 years, and peripartum SCAD accounts for the minority of
+cases. Importantly, an association between SCAD and arterial abnormalities in
+non-coronary arterial distributions has been described. The most common of these 
+arterial abnormalities is fibromuscular dysplasia. This manuscript will briefly
+review the epidemiology, diagnosis, and treatment of SCAD and provide an overview
+of how SCAD may be a cardiac manifestation of an underlying vascular disease in
+the majority of patients.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pcad.2018.04.001 
+PMID: 29630904  [Indexed for MEDLINE]
+
+
+65. Interv Neurol. 2018 Feb;7(1-2):110-117. doi: 10.1159/000485133. Epub 2017 Dec 16.
+
+Safety Assessment of Endovascular Treatment of Cerebral Aneurysms in Patients
+with Fibromuscular Dysplasia.
+
+Bender MT(1), Hurtado C(1), Jiang B(1), Campos JK(1), Huang J(1), Tamargo RJ(1), 
+Lin LM(2), Coon AL(1), Colby GP(3).
+
+Author information: 
+(1)Department of Neurosurgery, Johns Hopkins University School of Medicine,
+Baltimore, Maryland, USA.
+(2)Department of Neurosurgery, University of California Irvine, Orange,
+California, USA.
+(3)Department of Neurosurgery, University of California Los Angeles, Los Angeles,
+California, USA.
+
+Background: The prevalence of cerebral aneurysms is increased in fibromuscular
+dysplasia (FMD). The presence of FMD may serve as discouragement to elective
+endovascular aneurysm treatment. Outcomes of endovascular intervention for
+aneurysms through vessels affected by FMD have not been reported.
+Methods: A prospectively maintained database of patients undergoing intracranial 
+embolization was reviewed for patients with FMD who underwent endovascular
+aneurysm treatment.
+Results: A total of 1,025 patients were screened and 31 (3.0%) had
+cerebrovascular FMD. These patients underwent a total of 43 embolization
+procedures; 27 of these procedures were performed through an affected vessel. All
+but 1 patient were female and the average age was 62 years.
+"String-of-pearls"-type FMD was the most common subtype (90%). The internal
+carotid arteries were more commonly affected (65%) than the vertebral arteries
+(48%). All patients underwent treatment of cerebral aneurysms, most of which
+(87%) were incidentally discovered; 6 patients (19%) also had incidental vessel
+dissection. The average aneurysm size was 7.1 mm. The morphology was saccular in 
+93% of the cases, and 86% were in the anterior circulation. The most commonly
+performed treatment was flow diversion (67%), in the majority of cases by
+pipeline embolization. Other procedures performed were coiling (19%),
+stent-coiling (12%), and intrasaccular flow disruption (2%). All but 1 procedure 
+(98%) were successful. There were no major complications; 1 patient experienced a
+transient ischemic attack. Follow-up angiography was performed in 88% of the
+cases, without evidence for disease progression after treatment. The average time
+to last angiographic follow-up was 17 months (±13).
+Conclusions: Elective embolization of intracranial aneurysms can be performed
+safely through vessels affected by FMD.
+
+DOI: 10.1159/000485133 
+PMCID: PMC5881152
+PMID: 29628950 
+
+
+66. J Investig Med High Impact Case Rep. 2018 Mar 16;6:2324709618762585. doi:
+10.1177/2324709618762585. eCollection 2018 Jan-Dec.
+
+Renal Artery Rupture in Association With Fibromuscular Dysplasia.
+
+Akel T(1), Elsayegh S(1).
+
+Author information: 
+(1)Staten Island University Hospital, Staten Island, NY, USA.
+
+Fibromuscular dysplasia is a noninflammatory arteriopathy of unknown etiology
+that affects medium-sized arteries. Although patients affected with it are often 
+asymptomatic, some might have recurrent catastrophic events that depend mainly on
+the arterial bed involved. The most worrisome vascular complications of the
+disease are aneurysmal rupture and arterial dissection. Herein, we report a case 
+of a 49-year-old woman who presented with sudden-onset abdominal pain without any
+inciting factors. She was found to have active blood extravasation from a
+capsular branch of the renal artery that happened spontaneously. Angiography
+revealed fibromuscular dysplasia in the renal arteries without any obvious
+aneurysms. To our knowledge, this is the first case in the literature describing 
+such an event. In this article, we also review the possible underlying pathology 
+behind such an event.
+
+DOI: 10.1177/2324709618762585 
+PMCID: PMC5858621
+PMID: 29568781 
+
+Conflict of interest statement: Declaration of Conflicting Interests: The
+author(s) declared no potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article.
+
+
+67. Case Rep Med. 2018 Feb 19;2018:3195679. doi: 10.1155/2018/3195679. eCollection
+2018.
+
+A Rare Case of Carotid Web Presenting with Ischemic Stroke in a Young Woman and a
+Brief Review of the Literature.
+
+Kyaw K(1), Latt H(2), Aung SSM(1), Babu J(3), Rangaswamy R(4).
+
+Author information: 
+(1)Institute for Heart and Vascular Health, Renown Regional Medical Center, 1500 
+E. 2nd St. No. 302, Reno, NV 89502, USA.
+(2)Department of Internal Medicine, University of Nevada, Reno School of
+Medicine, 1155 Mill St. No. W11, Reno, NV 89502, USA.
+(3)Department of Biology, University of Nevada, Reno, 1664 N. Virginia Street,
+Reno, NV 89557, USA.
+(4)Department of Radiology, Renown Regional Medical Center, 1155 Mill St., Reno, 
+NV 89502, USA.
+
+Carotid web is a radiological description of a shelf-like intraluminal filling
+defect in the carotid bulb. It is histologically defined as atypical
+fibromuscular dysplasia (FMD), with abnormal fibrosis and smooth muscle cell
+hyperplasia in the tunica intima. The spur-like intraluminal protrusion can serve
+as a nidus for thrombus formation, which could cause systemic embolism and
+ischemic strokes. We report a case of a 20-year-old female patient presenting
+with acute ischemic stroke in the ipsilateral middle cerebral artery (MCA)
+territory. We also discuss the incidence, the prevalence, the pathophysiology,
+the treatment, and the recurrence of carotid web based on the currently available
+literature.
+
+DOI: 10.1155/2018/3195679 
+PMCID: PMC5836297
+PMID: 29560003 
+
+
+68. Int J Hypertens. 2018 Jan 4;2018:1952685. doi: 10.1155/2018/1952685. eCollection 
+2018.
+
+Factors Associated with Outcomes of Percutaneous Transluminal Renal Angioplasty
+in Patients with Renal Artery Stenosis: A Retrospective Analysis of 50
+Consecutive Cases.
+
+Matayoshi T(1)(2), Kamide K(1)(3), Tanaka R(4)(5), Fukuda T(4), Horio T(1)(6),
+Iwashima Y(1), Yoshihara F(1), Nakamura S(1), Nakahama H(1)(7), Ohya Y(2), Kawano
+Y(1)(8).
+
+Author information: 
+(1)Division of Hypertension and Nephrology, Department of Medicine, National
+Cardiovascular Center, Osaka, Japan.
+(2)Department of Cardiovascular Medicine, Nephrology and Neurology, University of
+the Ryukyus, Okinawa, Japan.
+(3)Division of Health Sciences, Osaka University Graduate School of Medicine,
+Osaka, Japan.
+(4)Department of Radiology, National Cardiovascular Center, Osaka, Japan.
+(5)Division of Cardiovascular Radiology, Department of Radiology, Iwate Medical
+University, Iwate, Japan.
+(6)Department of General Internal Medicine 3, Kawasaki Medical School, Okayama,
+Japan.
+(7)Diage Kobe Clinic, Hyogo, Japan.
+(8)Department of Medical Technology, Teikyo University, Fukuoka Campus, Fukuoka, 
+Japan.
+
+Background: The results of recent trials have brought some confusion to the
+treatment strategy for renal artery stenosis (RAS). To evaluate the applicability
+of percutaneous transluminal renal angioplasty (PTRA) for RAS, we extracted the
+factors that may affect the effectiveness of PTRA from cases experienced at a
+hypertension center.
+Methods and Results: We retrospectively assessed the blood pressure (BP) lowering
+effects and renoprotective effects in 50 consecutive patients that had
+hemodynamically significant RAS and had undergone PTRA and stenting during
+2001-2005. Subjects were diagnosed with atherosclerotic RAS (42), fibromuscular
+dysplasia (6), or Takayasu disease (2). After PTRA, BP significantly lowered from
+152.3/80.3 mmHg to 132.6/73.2 mmHg (p < 0.05), but the estimated glomerular
+filtration rate (eGFR) did not change significantly. There were no factors
+associated with the BP lowering effects of PTRA. The baseline resistive index
+(RI) was negatively correlated with the change in eGFR (p < 0.05). After
+correction for age, sex, BMI, and the dose of contrast medium, the association of
+RI with change in eGFR remained significant.
+Conclusion: In cases with hemodynamically significant RAS, PTRA lowered BP but
+was not effective in improving renal function. Higher baseline RI may be a factor
+for predicting poor clinical course of renal function after PTRA.
+
+DOI: 10.1155/2018/1952685 
+PMCID: PMC5817381
+PMID: 29535868 
+
+
+69. Prog Cardiovasc Dis. 2018 Mar - Apr;60(6):580-585. doi:
+10.1016/j.pcad.2018.03.001. Epub 2018 Mar 10.
+
+Fibromuscular Dysplasia: Contemporary Concepts and Future Directions.
+
+Narula N(1), Kadian-Dodov D(1), Olin JW(2).
+
+Author information: 
+(1)Zena and Michael A. Wiener Cardiovascular Institute, Marie-Joseé and Henry R. 
+Kravis Center for Cardiovascular Health, Icahn School of Medicine at Mount Sinai.
+(2)Zena and Michael A. Wiener Cardiovascular Institute, Marie-Joseé and Henry R. 
+Kravis Center for Cardiovascular Health, Icahn School of Medicine at Mount Sinai.
+Electronic address: jeffrey.olin@mountsinai.org.
+
+Fibromuscular dyplasia (FMD) is an under-recognized non-atherosclerotic,
+non-inflammatory arteriopathy that occurs most commonly in middle-aged women, but
+may affect individuals of all age groups. FMD may result in stenosis, aneurysm,
+dissection, occlusion, or arterial tortuosity. Recently published data
+demonstrated a genetic association of FMD with a variant in the phosphatase and
+actin regulator 1 gene (PHACTR1), substantiating that the pathogenesis of this
+condition has genetic contribution. The renal and extracranial carotid and
+vertebral arteries are most often involved, although any arterial bed may be
+affected. Clinical manifestations often reflect the vascular territory affected, 
+and can include hypertension, headaches, pulsatile tinnitus, myocardial
+infarction, transient ischemic attack and stroke. While the gold standard for
+diagnostic evaluation of FMD remains catheter-based angiography, noninvasive
+imaging, including duplex ultrasound, computed tomographic angiography, and
+magnetic resonance angiography, may be used for diagnosis. Treatment of FMD
+depends upon symptoms as well as the nature and location of arterial lesions, but
+may include both medical (blood pressure control, antiplatelet agents) and
+interventional (angioplasty, stents, coils, surgery) therapies. This contemporary
+analysis of the literature, combined with our own clinical experience in treating
+patients with FMD, will highlight pathophysiology, evaluation, management, and
+common misconceptions in the care of individuals with FMD.
+
+Copyright © 2018. Published by Elsevier Inc.
+
+DOI: 10.1016/j.pcad.2018.03.001 
+PMID: 29534984  [Indexed for MEDLINE]
+
+
+70. J Hypertens. 2018 Jun;36(6):1318-1325. doi: 10.1097/HJH.0000000000001706.
+
+Echocardiographic assessment of left ventricular morphology and function in
+patients with fibromuscular dysplasia: the ARCADIA-POL study.
+
+Dobrowolski P(1), Januszewicz M(2)(3), Klisiewicz A(1), Prejbisz A(2),
+Warchoł-Celińska E(2), Michałowska I(4), Florczak E(2), Kożuch K(1), Hanus K(2), 
+Aniszczuk-Hybiak A(2), Witowicz H(2), Witkowski A(5), Kądziela J(5), Kabat M(2), 
+Madej K(6), Nazarewski S(6), Tykarski A(7), Stryczyński Ł(7),
+Szczerbo-Trojanowska M(8), Światłowski Ł(8), Kosiński P(9), Widecka K(10),
+Januszewicz A(2), Hoffman P(1).
+
+Author information: 
+(1)Department of Congenital Heart Diseases.
+(2)Department of Hypertension, Institute of Cardiology.
+(3)Second Department of Radiology, Medical University of Warsaw.
+(4)Department of Radiology.
+(5)Department of Interventional Cardiology and Angiology, Institute of
+Cardiology.
+(6)Department of General, Vascular and Transplant Surgery, Medical University of 
+Warsaw, Warsaw.
+(7)Department of Hypertension, Angiology and Internal Medicine, Medical
+University of Poznan.
+(8)Department of Interventional Radiology and Neuroradiology, Medical University 
+of Lublin.
+(9)1st Department of Obstetrics and Gynecology, Medical University of Warsaw,
+Warsaw.
+(10)Department of Hypertension and Internal Medicine, Pomeranian Medical
+University, Szczecin, Poland.
+
+OBJECTIVE: To provide a comprehensive assessment of left ventricle (LV)
+structure, and function and to detect alterations in cardiac properties in
+relationship to presence, subtypes and extent of fibromuscular dysplasia (FMD).
+METHODS: We studied 144 patients with FMD. The control group consisted of 50
+matched individuals. Office and ambulatory blood pressure levels were evaluated. 
+Echocardiography was employed to assess: left ventricular mass index (LVMI),
+systolic function including speckle tracking echocardiography and diastolic
+function assessed by mitral flow and tissue Doppler imaging.
+RESULTS: There were no differences in LV morphology and function between patients
+with FMD and the control group. Among 128 patients with renal FMD, there were no 
+differences in LVMI and LV systolic function between patients with unifocal and
+multifocal FMD. The patients with multifocal FMD were characterized by lower
+early diastolic velocity (e') as compared with unifocal FMD and control groups.
+However, in a multivariate regression model, e' was not independently correlated 
+with FMD. There were no associations between echocardiographic indexes and
+vascular involvement of FMD. Also, there were no differences in LV morphology and
+function in patients with significant renal artery stenosis (RAS) compared with
+patients with history of significant RAS and patients with nonsignificant RAS.
+CONCLUSION: Our study in contrast to those with atherosclerotic RAS, did not show
+differences in LV morphology and function between FMD patients and matched
+controls. Although FMD can result in hypertension and serious vascular
+complications, there is no proof that it can alter LV regardless of FMD type and 
+its extent.
+
+DOI: 10.1097/HJH.0000000000001706 
+PMID: 29528871  [Indexed for MEDLINE]
+
+
+71. BMJ Case Rep. 2018 Mar 9;2018. pii: bcr-2017-223745. doi:
+10.1136/bcr-2017-223745.
+
+Spontaneous renal infarct heralding bowel ischaemia in an adult male: lessons to 
+learn from a rare clinical association.
+
+Pandey S(1), Aggarwal A(1), Kumar M(1), Sankhwar S(1).
+
+Author information: 
+(1)Department of Urology, King George's Medical University, Lucknow, India.
+
+Spontaneous renal artery dissection (SRAD) is a rare entity with less than 200
+cases reported in literature. It usually affects middle-aged men and the clinical
+presentation is non-specific. Many times it is associated with conditions such as
+hypertension, fibromuscular dysplasia or vasculitides. We report the case of a
+patient who initially had renal infarct due to SRAD and then progressed to have
+bowel ischaemia. The renal infarct preceded bowel ischaemia in this patient and
+to the best of our knowledge this is the first such association reported in
+literature. Our report emphasises the point that whenever this condition is
+diagnosed in a patient one should be vigilant for other vascular disorders.
+
+© BMJ Publishing Group Ltd (unless otherwise stated in the text of the article)
+2018. All rights reserved. No commercial use is permitted unless otherwise
+expressly granted.
+
+DOI: 10.1136/bcr-2017-223745 
+PMCID: PMC5847912
+PMID: 29525759  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+72. Hypertension. 2018 Apr;71(4):540-547. doi: 10.1161/HYPERTENSIONAHA.118.10819.
+Epub 2018 Feb 26.
+
+Management of a Pregnant Woman With Fibromuscular Dysplasia.
+
+Berra E(1), Dominiczak AF(1), Touyz RM(1), Pierard S(1), Hammer F(1), Rossi
+GP(1), Micali RG(1), Staessen JA(1), Bursztyn M(1), Kahan T(1), Persu A(2).
+
+Author information: 
+(1)From the Department of Cardiology, Cliniques Universitaires Saint-Luc (E.B.,
+S.P., A.P.), Pole of Cardiovascular Research, Institut de Recherche Expérimentale
+et Clinique (S.P., A.P.), and Department of Radiology, Cliniques Universitaires
+Saint-Luc (F.H.), Université Catholique de Louvain, Brussels, Belgium; Internal
+Medicine and Hypertension Division, Department of Medical Sciences, AOU Città
+della Salute e della Scienza, Turin, Italy (E.B.); Institute of Cardiovascular
+and Medical Sciences, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, United Kingdom (A.F.D., R.M.T.); Division of Internal
+Medicine and Hypertension Unit, Department of Medical Science, University of
+Padova, Italy (G.P.R.); Department of Hypertension, Hospital Italiano de Buenos
+Aires, Argentina (R.G.M.); Department of Hypertension, Instituto Cardiovascular
+Lezica, San Isidro, Argentina (R.G.M.); Abbott Argentina, Buenos Aires (R.G.M.); 
+Research Unit Hypertension and Cardiovascular Epidemiology, KU Leuven Department 
+of Cardiovascular Sciences, University of Leuven, Belgium (J.A.S.);
+Hadassah-Hebrew University Medical Center, Mount-Scopus, Jerusalem, Israel
+(M.B.); and Division of Cardiovascular Medicine, Department of Clinical Sciences,
+Danderyd Hospital, Karolinska Institutet, Stockholm, Sweden (T.K.).
+(2)From the Department of Cardiology, Cliniques Universitaires Saint-Luc (E.B.,
+S.P., A.P.), Pole of Cardiovascular Research, Institut de Recherche Expérimentale
+et Clinique (S.P., A.P.), and Department of Radiology, Cliniques Universitaires
+Saint-Luc (F.H.), Université Catholique de Louvain, Brussels, Belgium; Internal
+Medicine and Hypertension Division, Department of Medical Sciences, AOU Città
+della Salute e della Scienza, Turin, Italy (E.B.); Institute of Cardiovascular
+and Medical Sciences, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, United Kingdom (A.F.D., R.M.T.); Division of Internal
+Medicine and Hypertension Unit, Department of Medical Science, University of
+Padova, Italy (G.P.R.); Department of Hypertension, Hospital Italiano de Buenos
+Aires, Argentina (R.G.M.); Department of Hypertension, Instituto Cardiovascular
+Lezica, San Isidro, Argentina (R.G.M.); Abbott Argentina, Buenos Aires (R.G.M.); 
+Research Unit Hypertension and Cardiovascular Epidemiology, KU Leuven Department 
+of Cardiovascular Sciences, University of Leuven, Belgium (J.A.S.);
+Hadassah-Hebrew University Medical Center, Mount-Scopus, Jerusalem, Israel
+(M.B.); and Division of Cardiovascular Medicine, Department of Clinical Sciences,
+Danderyd Hospital, Karolinska Institutet, Stockholm, Sweden (T.K.).
+alexandre.persu@uclouvain.be.
+
+DOI: 10.1161/HYPERTENSIONAHA.118.10819 
+PMID: 29483231  [Indexed for MEDLINE]
+
+
+73. Clin J Am Soc Nephrol. 2018 Jun 7;13(6):929-932. doi: 10.2215/CJN.13341217. Epub 
+2018 Feb 23.
+
+Approach to the Young Patient with New-Onset Hypertension.
+
+Cohen DL(1), Townsend RR(2).
+
+Author information: 
+(1)Renal, Electrolyte and Hypertension Division, Perelman School of Medicine at
+the University of Pennsylvania, Philadelphia, Pennsylvania
+debbie.cohen@uphs.upenn.edu.
+(2)Renal, Electrolyte and Hypertension Division, Perelman School of Medicine at
+the University of Pennsylvania, Philadelphia, Pennsylvania.
+
+DOI: 10.2215/CJN.13341217 
+PMCID: PMC5989665
+PMID: 29475990  [Indexed for MEDLINE]
+
+
+74. Circulation. 2018 May 8;137(19):e523-e557. doi: 10.1161/CIR.0000000000000564.
+Epub 2018 Feb 22.
+
+Spontaneous Coronary Artery Dissection: Current State of the Science: A
+Scientific Statement From the American Heart Association.
+
+Hayes SN, Kim ESH, Saw J, Adlam D, Arslanian-Engoren C, Economy KE, Ganesh SK,
+Gulati R, Lindsay ME, Mieres JH, Naderi S, Shah S, Thaler DE, Tweet MS, Wood MJ; 
+American Heart Association Council on Peripheral Vascular Disease; Council on
+Clinical Cardiology; Council on Cardiovascular and Stroke Nursing; Council on
+Genomic and Precision Medicine; and Stroke Council.
+
+Comment in
+    J Thorac Dis. 2018 Sep;10(Suppl 26):S3169-S3175.
+
+Spontaneous coronary artery dissection (SCAD) has emerged as an important cause
+of acute coronary syndrome, myocardial infarction, and sudden death, particularly
+among young women and individuals with few conventional atherosclerotic risk
+factors. Patient-initiated research has spurred increased awareness of SCAD, and 
+improved diagnostic capabilities and findings from large case series have led to 
+changes in approaches to initial and long-term management and increasing evidence
+that SCAD not only is more common than previously believed but also must be
+evaluated and treated differently from atherosclerotic myocardial infarction.
+High rates of recurrent SCAD; its association with female sex, pregnancy, and
+physical and emotional stress triggers; and concurrent systemic arteriopathies,
+particularly fibromuscular dysplasia, highlight the differences in clinical
+characteristics of SCAD compared with atherosclerotic disease. Recent insights
+into the causes of, clinical course of, treatment options for, outcomes of, and
+associated conditions of SCAD and the many persistent knowledge gaps are
+presented.
+
+© 2018 American Heart Association, Inc.
+
+DOI: 10.1161/CIR.0000000000000564 
+PMCID: PMC5957087
+PMID: 29472380  [Indexed for MEDLINE]
+
+Conflict of interest statement: The American Heart Association makes every effort
+to avoid any actual or potential conflicts of interest that may arise as a result
+of an outside relationship or a personal, professional, or business interest of a
+member of the writing panel. Specifically, all members of the writing group are
+required to complete and submit a Disclosure Questionnaire showing all such
+relationships that might be perceived as real or potential conflicts of interest.
+
+
+75. Curr Opin Pharmacol. 2018 Apr;39:35-42. doi: 10.1016/j.coph.2018.01.009. Epub
+2018 Feb 22.
+
+Anti-hypertensive treatment in peripheral artery disease.
+
+Tsioufis C(1), Andrikou I(2), Siasos G(2), Filis K(3), Tousoulis D(2).
+
+Author information: 
+(1)First Cardiology Clinic, Medical School, National and Kapodistrian University 
+of Athens, Hippokration Hospital, Athens, Greece. Electronic address:
+ktsioufis@hippocratio.gr.
+(2)First Cardiology Clinic, Medical School, National and Kapodistrian University 
+of Athens, Hippokration Hospital, Athens, Greece.
+(3)First Department of Propaedeutic Surgery, University of Athens Medical School,
+Hippocration Hospital, Athens, Greece.
+
+Peripheral artery disease (PAD) affects more than 200 million people worldwide.
+Hypertension has been related to increased risk of PAD. The treatment of elevated
+blood pressure (BP) in these patients is indicated to lower the cardiovascular
+risk with a BP goal of less than 130/80mmHg. Although there is no evidence that
+one class of antihypertensive medication or strategy is superior for BP lowering 
+in PAD, the use of renin-angiotensin-system (RAS) inhibitors can be effective to 
+reduce the cardiovascular risk. Beta-blockers (BBs) are not contraindicated. In
+the presence of carotid atherosclerosis, calcium-channel blockers (CCBs) and
+angiotensin-converting-enzyme inhibitors are recommended. In fibromuscular
+dysplasia the treatment of choice is percutaneous renal angioplasty. In renal
+artery disease optimal medical therapy includes RAS inhibitors, CCBs, BBs and
+diuretics.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.coph.2018.01.009 
+PMID: 29459079  [Indexed for MEDLINE]
+
+
+76. Nephron. 2018;139(1):47-50. doi: 10.1159/000487346. Epub 2018 Feb 15.
+
+Does Endothelin-1 Raise or Lower Blood Pressure in Humans?
+
+Schiffrin EL.
+
+Subject of Review: Gupta et al. [Cell 2017; 170: 522-533] have shown that a
+genetic variant associated with the 5 vascular diseases is a distal regulator of 
+endothelin (ET)-1 gene (EDN1) expression. A common single nucleotide polymorphism
+(SNP) in the third intron of the PHACTR1 gene, rs9349379, is the potential
+variant responsible for increased risk of coronary artery disease, and lower risk
+of migraine, carotid dissection, fibromuscular dysplasia, and hypertension. Since
+ET-1 acts through ET type B receptors (ETBR) on endothelial cells to stimulate
+the production of nitric oxide and prostacyclin and induce vasodilation, this may
+contribute to these findings. Second Opinion: However, ET-1 has been demonstrated
+to play a role in experimental and human hypertension. How can enhanced
+transcription of EDN1 and translation leading to increased production of ET-1 by 
+endothelial cells play a role in hypertension despite the availability of data
+that suggest a hypotensive action of ET-1? This could depend on the genetic
+background of individuals. In some humans, the increased ET-1 vasoconstrictor
+action on ETAR and ETBR in vascular smooth muscle might predominate over the
+vasodilator effects exerted via endothelial ETBR, thus resulting in elevated
+blood pressure.CONCLUSION: Alternatively, hypertension could be attributed to
+renal actions of ET-1. Either of these pathophysiological actions may explain a
+hypertensive role of ET-1 despite a lower risk of hypertension associated with
+the G allele at rs9349379, the common SNP in the PHACTR1 gene that is a distal
+regulator of EDN1 and leads to an increased expression of ET-1.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000487346 
+PMID: 29448245  [Indexed for MEDLINE]
+
+
+77. J Clin Neurosci. 2018 Apr;50:122-123. doi: 10.1016/j.jocn.2018.01.059. Epub 2018 
+Feb 7.
+
+Web of the carotid artery: An under-recognized cause of ischemic stroke.
+
+Pacei F(1), Quilici L(2), Mullin S(3), Innocenti A(4), Valvassori L(2), Nardone
+R(5), Bet L(6).
+
+Author information: 
+(1)Stroke Unit, IRCCS Policlinico San Donato, P.za Malan 1, 20097 San Donato
+Milanese, Milan, Italy; Department of Neurology, Franz Tappeiner Hospital,
+Merano, Italy.
+(2)Department of Neuroradiology and Interventional Neuroradiology, Ospedale
+Niguarda Ca' Granda, Milan, Italy.
+(3)Leonard Wolfson Clinical Research Fellow, Department of Clinical Neuroscience,
+UCL, Institute of Neurology, London, UK.
+(4)Department of Neurology, Franz Tappeiner Hospital, Merano, Italy.
+(5)Department of Neurology, Franz Tappeiner Hospital, Merano, Italy; Department
+of Neurology, Christian Doppler Klinik, Paracelsus Medical University, Salzburg, 
+Austria. Electronic address: raffaele.nardone@asbmeran-o.it.
+(6)Department of Biomedical Sciences for Health, University of Milan, Italy.
+
+Ischemic stroke has rarely been reported in association with a web of the carotid
+artery. We describe here an additional case of ischemic stroke caused by a
+carotid web in a young healthy woman. Detection of this vascular abnormality
+required the use of CT angiography and cerebral digital subtraction angiography. 
+Although there is little evidence regarding the optimal management of this
+condition, under medical treatment with dual antiplatelet therapy our patient
+remained free of recurrent stroke events. This case report study illustrates that
+the web of the carotid artery is an uncommon cause of stroke which should always 
+be considered and ruled out, especially in young patients with otherwise
+cryptogenic stroke. Clinicians should be aware of this condition, which
+represents a diagnostic and therapeutic challenge.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jocn.2018.01.059 
+PMID: 29428268  [Indexed for MEDLINE]
+
+
+78. Ann Vasc Surg. 2018 Apr;48:253.e7-253.e9. doi: 10.1016/j.avsg.2017.10.028. Epub
+2018 Feb 5.
+
+Right Subclavian Artery Aneurysms with Fibromuscular Dysplasia.
+
+Kaneyuki D(1), Ueda H(2), Matsumiya G(2).
+
+Author information: 
+(1)Department of Cardiovascular Surgery, Chiba University Hospital, Chuo-ku,
+Chiba-shi, Chiba, Japan. Electronic address: kinkoudaisuke@gmail.com.
+(2)Department of Cardiovascular Surgery, Chiba University Hospital, Chuo-ku,
+Chiba-shi, Chiba, Japan.
+
+Subclavian artery aneurysms (SAAs) are rare and even more uncommon in patients
+with fibromuscular dysplasia (FMD). A 20-year-old man with a past medical history
+of moyamoya disease presented with an abnormal mass shadow in the apex of the
+right lung on chest X-ray. Based on computed tomography imaging, a diagnosis of
+right SAA was established, and an excision of the aneurysm was performed. Because
+the left vertebral artery is dominant, the proximal and distal right subclavian
+artery and right vertebral artery were clamped. Then, the aneurysm was excised,
+and resection anastomosis was performed. Histological findings revealed FMD. The 
+postsurgical course has been uneventful after 2 years. Among treatment
+modalities, open surgery would be the first choice for SAAs with FMD, despite the
+current era of endovascular surgeries.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.avsg.2017.10.028 
+PMID: 29421412  [Indexed for MEDLINE]
+
+
+79. Mol Genet Metab. 2018 Mar;123(3):382-387. doi: 10.1016/j.ymgme.2018.01.007. Epub 
+2018 Feb 2.
+
+Tread carefully: A functional variant in the human NADPH oxidase 4 (NOX4) is not 
+disease causing.
+
+Nafisinia M(1), Menezes MJ(2), Gold WA(3), Riley L(3), Hatch J(4), Cardinal J(5),
+Coman D(6), Christodoulou J(7).
+
+Author information: 
+(1)Genetic Metabolic Disorders Research Unit, Western Sydney Genetics Program,
+The Children's Hospital at Westmead, Sydney, NSW, Australia.
+(2)Department of Anaesthesia, The Children's Hospital at Westmead, Sydney, NSW,
+Australia; Sydney Medical School, University of Sydney, Sydney, NSW, Australia.
+(3)Genetic Metabolic Disorders Research Unit, Western Sydney Genetics Program,
+The Children's Hospital at Westmead, Sydney, NSW, Australia; Discipline of Child 
+& Adolescent Health, University of Sydney, Sydney, NSW, Australia.
+(4)Departement of Paediatrics, the Wesley Hospital Brisbane, Brisbane, QLD,
+Australia; School of Medicine, Griffith University, Brisbane, QLD, Australia.
+(5)Cardinal Bioresearch, Brisbane, QLD, Australia.
+(6)Departement of Paediatrics, the Wesley Hospital Brisbane, Brisbane, QLD,
+Australia; School of Medicine, Griffith University, Brisbane, QLD, Australia;
+Queensland Fertility Group, Brisbane, QLD, Australia.
+(7)Discipline of Child & Adolescent Health, University of Sydney, Sydney, NSW,
+Australia; Discipline of Genetic Medicine, Sydney Medical School, University of
+Sydney, Sydney, NSW, Australia; Neurodevelopmental Genomics Research Group,
+Murdoch Children's Research Institute, Melbourne, VIC, Australia; Department of
+Paediatrics, Melbourne Medical School, University of Melbourne, Melbourne, VIC,
+Australia. Electronic address: john.christodoulou@mcri.edu.au.
+
+In this study, we report a paediatric patient with a lethal phenotype of
+respiratory distress, failure to thrive, pancreatic insufficiency, liver
+dysfunction, hypertrophic cardiomyopathy, bone marrow suppression, humoral and
+cellular immune deficiency. To identify the genetic basis of this unusual
+clinical phenotype and potentially make available the option of future prenatal
+testing, whole exome sequencing (WES) was used followed by functional studies in 
+a bid to confirm pathogenicity. The WES we identified a homozygous novel variant,
+AK298328; c.9_10insGAG; p.[Glu3dup], in NOX4 in the proband, and parental
+heterozygosity for the variant (confirmed by Sanger sequencing). NADPH Oxidase 4 
+NOX4 (OMIM 605261) encodes an enzyme that functions as the catalytic subunit of
+the NADPH oxidase complex. NOX4 acts as an oxygen sensor, catalysing the
+reduction of molecular oxygen, mainly to hydrogen peroxide (H2O2). However,
+although, our functional data including 60% reduction in NOX4 protein levels and 
+a 75% reduction in the production of H2O2 in patient fibroblast extracts compared
+to controls was initially considered to be the likely cause of the phenotype in
+our patient, the potential contribution of the NOX4 variant as the primary cause 
+of the disease was clearly excluded based on following pieces of evidence. First,
+Sanger sequencing of other family members revealed that two of the grandparents
+were also homozygous for the NOX4 variant, one of who has fibromuscular
+dysplasia. Second, re-evaluation of more recent variant databases revealed a high
+allele frequency for this variant. Our case highlights the need to re-interrogate
+bioinformatics resources as they are constantly evolving, and is reminiscent of
+the short-chain acyl-CoA dehydrogenase deficiency (SCADD) story, where a
+functional defect in fatty acid oxidation has doubtful clinical ramifications.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymgme.2018.01.007 
+PMID: 29398271  [Indexed for MEDLINE]
+
+
+80. J Pediatr Surg. 2018 Sep;53(9):1825-1831. doi: 10.1016/j.jpedsurg.2017.12.008.
+Epub 2017 Dec 24.
+
+The management of pediatric renovascular hypertension: a single center experience
+and review of the literature.
+
+Lobeck IN(1), Alhajjat AM(1), Dupree P(1), Racadio JM(2), Mitsnefes MM(3), Karns 
+R(4), Tiao GM(1), Nathan JD(5).
+
+Author information: 
+(1)Division of Pediatric General and Thoracic Surgery, Cincinnati Children's
+Hospital Medical Center, Cincinnati, OH, USA.
+(2)Department of Radiology and Medical Imaging, Cincinnati Children's Hospital
+Medical Center, Cincinnati, OH, USA.
+(3)Division of Nephrology, Cincinnati Children's Hospital Medical Center,
+Cincinnati, OH, USA.
+(4)Division of Pediatric Gastroenterology, Hepatology and Nutrition, Cincinnati
+Children's Hospital Medical Center, Cincinnati, OH, USA.
+(5)Division of Pediatric General and Thoracic Surgery, Cincinnati Children's
+Hospital Medical Center, Cincinnati, OH, USA. Electronic address:
+Jaimie.Nathan@cchmc.org.
+
+INTRODUCTION: Renal artery occlusive disease is poorly characterized in children;
+treatments include medications, endovascular techniques, and surgery. We aimed to
+describe the course of renovascular hypertension (RVH), its treatments and
+outcomes.
+METHODS: We performed literature review and retrospective review (1993-2014) of
+children with renovascular hypertension at our institution. Response to treatment
+was defined by National High Blood Pressure Education Program Working Group on
+High Blood Pressure in Children and Adolescents at most-recent follow-up.
+RESULTS: We identified 39 patients with RVH. 54% (n=21) were male, with mean age 
+of 6.93 ± 5.27 years. Most underwent endovascular treatment (n=17), with
+medication alone (n=12) and surgery (n=10) less commonly utilized. Endovascular
+treatment resulted in 18% cure, 65% improvement and 18% failure; surgery resulted
+in 30% cure, 50% improvement and 20% failure. Medication alone resulted in 0%
+cure, 75% improvement and 25% failure. 24% with endovascular treatment required
+secondary endovascular intervention; 18% required secondary surgery. 20% of
+patients who underwent initial surgery required reoperation for re-stenosis. Mean
+follow-up was 52.2 ± 58.4 months.
+CONCLUSIONS: RVH treatment in children includes medications, surgical or
+endovascular approaches, with all resulting in combined 79% improvement in or
+cure rates. A multidisciplinary approach and individualized patient management
+are critical to optimize outcomes.
+TYPE OF STUDY: Retrospective comparative study LEVEL OF EVIDENCE: Level III.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpedsurg.2017.12.008 
+PMID: 29397961  [Indexed for MEDLINE]
+
+
+81. Medicine (Baltimore). 2017 Dec;96(50):e8896. doi: 10.1097/MD.0000000000008896.
+
+A rare case report of bilateral common and internal iliac arterial fibromuscular 
+dysplasia: Coexisted dissection, aneurysm, and stenosis.
+
+Fan L(1), Ma W, Zhang H, Cai J.
+
+Author information: 
+(1)State Key Laboratory of Cardiovascular Disease, National Center for
+Cardiovascular Diseases, Fuwai Hospital, Chinese Academy of Medical Sciences and 
+Peking Union Medical College, Beijing, China.
+
+RATIONALE: Iliac arterial fibromuscular dysplasia (FMD) was rarely reported and
+its demographic, clinical, and imaging features have not been precisely described
+resulting in uncertain therapeutic methods.
+PATIENT CONCERNS: A 31-year-old man was referred because of 3-month-ago onset
+hypertension, low serum potassium, and a small-sized right kidney with normal
+renal artery under ultrasound examination. This patient was suspected of primary 
+aldosteronism, whereas spirolactone was poorly effective.
+DIAGNOSIS: Contrast-enhanced computed tomographic angiography (CTA) and
+three-dimensional reconstruction of the whole aorta discovered an aneurysm from
+the right common iliac artery (CIA) to the internal iliac artery, consistent with
+a left CIA dissection and a remarkable right renal artery aneurysm before a
+stenosis. Iliac and renal arteries FMD were then confirmed through digital
+subtraction angiography (DSA).
+INTERVENTION: Percutaneous transluminal angioplasty (PTA) of right renal artery
+was operated and a stent was deployed in left CIA.
+OUTCOMES: This patient was normotensive, asymptomatic, and free from recurrence
+without any antihypertensive agents at an 8-month follow-up.
+LESSONS: To our knowledge, this is the first bilateral common and internal iliac 
+arterial FMD case in China, with unique asymptomatic dissection, aneurysm, and
+renovascular hypertension. Screening for secondary hypertension in young
+population and for iliac or renal arterial FMD is therefore suggested with CTA
+and reconstruction from neck to pelvis and MRA in those with intracranial
+disorders. Among youth FMD, the potential of PTRA in renovascular hypertension
+out of antihypertensive drugs and stent in dissection is novelly indicated.
+
+Copyright © 2017 The Authors. Published by Wolters Kluwer Health, Inc. All rights
+reserved.
+
+DOI: 10.1097/MD.0000000000008896 
+PMCID: PMC5815689
+PMID: 29390277  [Indexed for MEDLINE]
+
+
+82. J Neuroimaging. 2018 May;28(3):269-272. doi: 10.1111/jon.12498. Epub 2018 Jan 23.
+
+B-Flow and B-Mode Ultrasound Imaging in Carotid Fibromuscular Dysplasia.
+
+Cutler JJ(1), Campo N(1), Koch S(1).
+
+Author information: 
+(1)Department of Neurology, University of Miami Miller School of Medicine Miami, 
+FL.
+
+BACKGROUND AND PURPOSE: Previous ultrasound studies in fibromuscular dysplasia
+(FMD) have largely reported on color flow imaging, power Doppler, and Doppler
+flow augmentation. We here report on arterial wall imaging findings by B-flow and
+B-mode in patients with carotid FMD.
+METHODS: We retrospectively reviewed ultrasonographic findings in subjects with
+known or suspected FMD. All patients were evaluated with a standardized imaging
+protocol including Doppler, B-mode, and B-flow. Vessel wall abnormalities were
+classified as normal, luminal irregularities, or classical beading (fusiform
+dilatations).
+RESULTS: We identified 23 patients and 33 carotid arteries were found to be
+abnormal, of which 10 had classical beading and 23 showed endoluminal
+irregularities. Bilateral disease was present in 10/23 patients. In the classical
+beading cases, B-mode revealed isoechoic ridges, which protruded into the lumen, 
+alternating with dilated arterial segments, which were also clearly demonstrated 
+by B-flow imaging. In cases with endoluminal irregularities, B-mode and B-flow
+showed isoechoic subendothelial irregular thickening, which did not lead to a
+fusiform dilatory appearance of the artery. The average distal internal carotid
+artery peak systolic velocity of arteries with classical beading (123 ± 29
+cm/second) was significantly greater than that of arteries with mild
+irregularities (94 ± 34 cm/second) (P = .024).
+CONCLUSION: Morphological arterial wall changes of FMD were well depicted by
+careful B-flow and B-mode imaging of the distal internal carotid artery. We would
+like to emphasize the utility of B-flow and B-mode in the noninvasive evaluation 
+of FMD.
+
+Copyright © 2018 by the American Society of Neuroimaging.
+
+DOI: 10.1111/jon.12498 
+PMID: 29359368  [Indexed for MEDLINE]
+
+
+83. J Stroke Cerebrovasc Dis. 2018 May;27(5):e86-e87. doi:
+10.1016/j.jstrokecerebrovasdis.2017.12.012. Epub 2018 Jan 10.
+
+Internal Carotid Artery Web as the Cause of Recurrent Cryptogenic Ischemic
+Stroke.
+
+Antigüedad-Muñoz J(1), de la Riva P(2), Arenaza Choperena G(3), Muñoz Lopetegi
+A(2), Andrés Marín N(2), Fernández-Eulate G(2), Moreno Valladares M(4), Martínez 
+Zabaleta M(2).
+
+Author information: 
+(1)Neurology Department, Hospital Universitario Donostia, Gipuzkoa, Spain.
+Electronic address: JON.RODRIGUEZ-ANTIGUEDADMUNOZ@osakidetza.eus.
+(2)Neurology Department, Hospital Universitario Donostia, Gipuzkoa, Spain.
+(3)Radiodiagnostic and Interventional Radiology Department, Hospital
+Universitario Donostia, Gipuzkoa, Spain.
+(4)Pathology Department, Hospital Universitario Donostia, Gipuzkoa, Spain.
+
+Carotid artery web is considered an exceptional cause of recurrent ischemic
+strokes in the affected arterial territory. The underlying pathology proposed for
+this entity is an atypical fibromuscular dysplasia. We present the case of a
+43-year-old woman with no cardiovascular risk factors who had experienced 2
+cryptogenic ischemic strokes in the same arterial territory within an 11-month
+period. Although all diagnostic tests initially yielded normal results, detailed 
+analysis of the computed tomography angiography images revealed a carotid web;
+catheter angiography subsequently confirmed the diagnosis. Carotid surgery was
+performed, since which time the patient has remained completely asymptomatic. The
+histological finding of intimal hyperplasia is consistent with previously
+reported cases of carotid artery web. Carotid artery web is an infrequent cause
+of stroke, and this diagnosis requires a high level of suspicion plus a detailed 
+analysis of vascular imaging studies.
+
+Copyright © 2018 National Stroke Association. Published by Elsevier Inc. All
+rights reserved.
+
+DOI: 10.1016/j.jstrokecerebrovasdis.2017.12.012 
+PMID: 29331613  [Indexed for MEDLINE]
+
+
+84. Cardiol Res. 2017 Dec;8(6):327-330. doi: 10.14740/cr587w. Epub 2017 Dec 22.
+
+Postpartum Sudden Cardiac Death After Spontaneous Coronary Artery Dissection in a
+Patient With Fibromuscular Dysplasia.
+
+Shoja T(1), Basman C(2), Jain S(1)(2), Mangla A(1)(2), Lasic Z(1)(2).
+
+Author information: 
+(1)Jamaica Hospital Medical Center, 8900 Van Wyck Expy, Richmond Hill, NY 11418, 
+USA.
+(2)Lenox Hill Hospital Medical Center, 100 E 77th St, New York, NY 10075, USA.
+
+Spontaneous coronary artery dissection (SCAD) is a rare entity that can cause
+acute myocardial infarction and sudden cardiac death (SCD) which often goes
+unrecognized. We report a case of SCAD in a young postpartum female who presented
+with sudden cardiac arrest. The patient was managed medically and found to have
+fibromuscular dysplasia (FMD). After being stabilized in the critical care unit, 
+coronary angiography was performed which showed dissection of the left main
+artery, intramural hematoma, and the culprit lesion. Further investigation showed
+dissection of the left vertebral artery which was all consistent with a diagnosis
+of FMD. The patient was followed as an outpatient and a repeated coronary
+angiography demonstrated healed dissection site. In conclusion, this case
+exemplifies that prompt diagnosis along with medical management without the need 
+of coronary artery bypass graft, and percutaneous coronary intervention can
+improve survival in SCAD.
+
+DOI: 10.14740/cr587w 
+PMCID: PMC5755665
+PMID: 29317976 
+
+
+85. Trends Cardiovasc Med. 2018 Jul;28(5):340-345. doi: 10.1016/j.tcm.2017.12.004.
+Epub 2017 Dec 11.
+
+Spontaneous coronary artery dissection (SCAD): The underdiagnosed cardiac
+condition that plagues women.
+
+Lebrun S(1), Bond RM(2).
+
+Author information: 
+(1)Lenox Hill Hospital-Northwell Health, New York, NY.
+(2)Lenox Hill Hospital-Northwell Health, New York, NY. Electronic address:
+rbond12@northwell.edu.
+
+Comment in
+    Trends Cardiovasc Med. 2018 Jul;28(5):346-347.
+
+Coronary heart disease (CHD) continues to be understudied, underdiagnosed, and
+undertreated in women. Gender and age bias complicate the evaluation of women
+with acute coronary syndrome (ACS). As a result, conditions like spontaneous
+coronary artery dissection (SCAD) are often missed. SCAD is an infrequent yet
+important cause of myocardial infarction (MI) with a predilection for young to
+middle aged women. The condition is thought to be under-reported, likely a result
+of both low index of suspicion as well as an unfamiliarity with SCAD's
+angiographic variants. Recently, the European Society of Cardiology (ESC)
+detailed an assessment pathway for patients with myocardial infarction with
+non-obstructive coronary arteries (MINOCA), a subset of which includes patients
+with SCAD. The pathway highlights the role of cardiac magnetic resonance (CMR) in
+addition to intracoronary imaging for increased diagnostic yield. Early and
+proper diagnosis is crucial in SCAD given the potential for sudden cardiac death,
+as well as the increased risk for future cardiac events including recurrent
+dissection. In addition, SCAD has frequently been associated with underlying
+connective tissue disease and/or arteriopathy, most commonly fibromuscular
+dysplasia (FMD), which requires careful screening. The lack of consensus on
+investigation or treatment highlights the need for increased awareness and
+further research to better understand this challenging entity.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.tcm.2017.12.004 
+PMID: 29275928  [Indexed for MEDLINE]
+
+
+86. World Neurosurg. 2018 Mar;111:132-138. doi: 10.1016/j.wneu.2017.12.087. Epub 2017
+Dec 20.
+
+Treatment of Progressive Herpes Zoster-Induced Vasculopathy with Surgical
+Revascularization: Effects on Cerebral Hemodynamics.
+
+Lants SK(1), Watchmaker JM(2), Juttukonda MR(2), Davis LT(2), Donahue MJ(3),
+Fusco MR(4).
+
+Author information: 
+(1)Department of Radiology and Radiological Sciences, Vanderbilt University
+Medical Center, Nashville, Tennessee, USA. Electronic address:
+sarah.k.lants@vanderbilt.edu.
+(2)Department of Radiology and Radiological Sciences, Vanderbilt University
+Medical Center, Nashville, Tennessee, USA.
+(3)Department of Radiology and Radiological Sciences, Vanderbilt University
+Medical Center, Nashville, Tennessee, USA; Department of Psychiatry, Vanderbilt
+University Medical Center, Nashville, Tennessee, USA; Department of Neurology,
+Vanderbilt University Medical Center, Nashville, Tennessee, USA; Department of
+Physics and Astronomy, Vanderbilt University, Nashville, Tennessee, USA.
+(4)Department of Neurological Surgery, Vanderbilt University Medical Center,
+Nashville, Tennessee, USA.
+
+BACKGROUND: Herpes zoster ophthalmicus (HZO) is caused by reactivation of the
+herpes simplex virus in the trigeminal nerve. HZO-initiated cerebral vasculopathy
+is well characterized; however, there are no documented cases that report the
+efficacy of surgical revascularization for improving cerebral hemodynamics
+following progressive HZO-induced vasculopathy. We present a case in which
+quantitative anatomic and hemodynamic imaging were performed longitudinally
+before and after surgical revascularization in a patient with HZO and
+vasculopathic changes.
+CASE DESCRIPTION: A 57-year-old female with history of right-sided HZO presented 
+with left-sided hemiparesis and dysarthria and multiple acute infarcts.
+Angiography performed serially over a 2-month duration revealed progressive
+middle cerebral artery stenosis, development of new moyamoya-like
+lenticulostriate collaterals, and evidence of fibromuscular dysplasia in cervical
+portions of the internal carotid artery. Hemodynamic imaging revealed right
+hemisphere decreased blood flow and cerebrovascular reserve capacity. In addition
+to medical therapy, right-sided surgical revascularization was performed with the
+intent to reestablish blood flow. Follow-up imaging 13 months post
+revascularization demonstrated improved blood flow and vascular reserve capacity 
+in the operative hemisphere, which paralleled symptom resolution.
+CONCLUSIONS: HZO can lead to progressive, symptomatic intracranial stenoses. This
+report suggests that surgical revascularization techniques can improve cerebral
+hemodynamics and symptomatology in patients with aggressive disease when medical 
+management is unsuccessful; similar procedures could be considered in managing
+HZO patients with advanced or progressive vasculopathy.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2017.12.087 
+PMCID: PMC5835181
+PMID: 29274451  [Indexed for MEDLINE]
+
+
+87. J Med Vasc. 2017 Dec;42(6):392-394. doi: 10.1016/j.jdmv.2017.09.001. Epub 2017
+Nov 6.
+
+[Fibromuscular dysplasia exposes to early natural impregnation with
+progesterone].
+
+[Article in French]
+
+Silhol F(1), Radix W(1), Courbieres B(2), Cornand D(1), Vaïsse B(1),
+Sarlon-Bartoli G(3).
+
+Author information: 
+(1)Unité d'hypertension artérielle et de médecine vasculaire, U1062, hôpital de
+la Timone, faculté de médecine de Marseille, Aix-Marseille université, Assistance
+publique-Hôpitaux de Marseille, 264, rue Saint-Pierre, 13385 Marseille cedex 05, 
+France.
+(2)Pôle Femmes-Parents-Enfants, AP-HM La-Conception, 13005 Marseille, France;
+CNRS, IRD, IMBE UMR 7263, Aix-Marseille université, Avignon université, 13397
+Marseille, France.
+(3)Unité d'hypertension artérielle et de médecine vasculaire, U1062, hôpital de
+la Timone, faculté de médecine de Marseille, Aix-Marseille université, Assistance
+publique-Hôpitaux de Marseille, 264, rue Saint-Pierre, 13385 Marseille cedex 05, 
+France. Electronic address: gabriellesarlon@yahoo.fr.
+
+DOI: 10.1016/j.jdmv.2017.09.001 
+PMID: 29203047  [Indexed for MEDLINE]
+
+
+88. World Neurosurg. 2018 Feb;110:e907-e916. doi: 10.1016/j.wneu.2017.11.115. Epub
+2017 Nov 28.
+
+Web Vessels: Literature Review and Neurointerventional Management.
+
+Pereira BJA(1), Batista UC(2), Tosello RT(2), Ströher IN(2), Baeta AM(3), Piske
+RL(2).
+
+Author information: 
+(1)Centro de Neuro-Angiografia, São Paulo, Brazil. Electronic address:
+benedito.jamilson@hotmail.com.
+(2)Centro de Neuro-Angiografia, São Paulo, Brazil.
+(3)Neurology Department, Hospital Beneficência Portuguesa de São Paulo, São
+Paulo, Brazil.
+
+OBJECTIVE: The aim of this study was to describe 27 patients with 32 web vessels 
+(WVs) from our practice and provide a review of the literature regarding imaging 
+diagnostics, clinical presentation, and treatment of WVs.
+METHODS: A MEDLINE search was performed using combinations of the following
+terms: "stroke in young adults," "web," "recurrent stroke," "diaphragm-like,"
+"atypical fibromuscular hyperplasia," "atypical fibromuscular dysplasia," "septal
+fibromuscular dysplasia," "septa," "diaphragms," "pseudovalvular folds," and
+"carotid diaphragm." Our series was added in this review.
+RESULTS: According to location, there were 88 carotid WVs (91.66%), 7 vertebral
+WVs (7.3%), and 1 subclavian WV (1.04%). According to clinical presentation, the 
+reported WVs caused stroke in 81 cases (84.38%). Treatment was supportive care in
+46 cases (47.91%), surgery in 33 cases (35.41%), and an endovascular procedure
+through angioplasty and stenting in 17 cases (17.7%). Variables such as age (P = 
+0.7565), sex (P = 0.6912), and location (P = 0.7993) were not shown to be risk
+factors for stroke in these patients.
+CONCLUSIONS: Although few cases have been reported in the literature, the stroke 
+rate in patients with WVs is high. Endovascular treatment is presented as an
+effective form of treatment with no associated morbidities or recurrences of
+ischemic events.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2017.11.115 
+PMID: 29191528  [Indexed for MEDLINE]
+
+
+89. Int J Angiol. 2017 Dec;26(4):253-258. doi: 10.1055/s-0036-1593773. Epub 2016 Oct 
+31.
+
+Cervical Arterial Fibromuscular Dysplasia in a Biethnic Population: A
+Retrospective Study in the U.S.-Mexican Border.
+
+Qureshi IA(1), Rodriguez GJ(1), Chacon-Quesada T(1), Jose GH(2), Cruz-Flores
+S(1), Maud A(1).
+
+Author information: 
+(1)Department of Neurology, Texas Tech University Health Sciences Center, El
+Paso, Texas.
+(2)Department of Radiology, Texas Tech University Health Sciences Center, El
+Paso, Texas.
+
+Background  There have been studies trying to characterize Fibromuscular
+Dysplasia (FMD); however, most of them are based in mainly non-Hispanic sample.
+The objective of this study is to better understand the epidemiology and clinical
+characteristics of craniocervical FMD in the Hispanic population. Methods  We
+retrospectively reviewed the cerebral angiograms performed in our center in a
+period of 3.5 years under any indication looking for angiographic patterns of
+FMD. Exclusion criteria consisted of cases in which the first angiogram was done 
+when the patients were younger than 18 years. Patients were subdivided based on
+those with FMD and those without it for baseline characteristics and were looked 
+for any associations. We further compared the same baseline characteristics among
+Hispanic FMD and non-Hispanic FMD population. A chart review was conducted
+looking for clinical features and vascular events. Results  We analyzed 448
+angiograms among patients younger than 18 years. We identified 47 patients with
+evidence of FMD involving the cervical arteries and 401 patients without FMD. Of 
+the 47 patients with FMD in our neuroendovascular registry, we found that 76.6%
+were women and 57.4% were Hispanics. There was no statistical significant
+difference when comparing the variables across ethnicities, except history of
+cigarette smoking and dyslipidemia. The most common associated supra-aortic
+arterial lesions seen in the FMD group were intracranial aneurysm and arterial
+dissections. We then used same variables to compare Hispanic FMD with
+non-Hispanic FMD. We have found that there has been a positive association of
+cigarette smoking and dyslipidemia with FMD ( p ≤ 0.05). Conclusion  Our study
+suggests that FMD affecting the carotid and vertebral arteries has similar
+demographic pattern across ethnicities in the United States. In Hispanics, the
+disease appears to have a predilection for women and history of cigarette
+smoking. Intracranial aneurysm and arterial dissection were the most commonly
+associated arterial lesions.
+
+DOI: 10.1055/s-0036-1593773 
+PMCID: PMC5685790
+PMID: 29142493 
+
+
+90. Pediatr Dev Pathol. 2018 Jul-Aug;21(4):363-370. doi: 10.1177/1093526617739772.
+Epub 2017 Nov 6.
+
+Colonic Adventitial Fibromuscular Dysplasia: A Nonspecific Arteriopathy
+Associated With Hirschsprung Disease and Other Obstructive Disorders.
+
+Thaker AI(1), Kapur RP(2).
+
+Author information: 
+(1)1 Department of Pathology, University of Texas Southwestern Medical Center,
+Children's Medical Center of Dallas, Dallas, Texas.
+(2)2 Department of Pathology, University of Washington, Seattle Children's
+Hospital, Seattle, Washington.
+
+Background Smooth muscle differentiation ("adventitial fibromuscular dysplasia," 
+AFD) was purported as specific to arteries in the transition zone of Hirschsprung
+disease (HSCR) patients. We investigated AFD in an HSCR population and controls
+and consider the pathogenesis and significance of the vascular pathology. Design 
+Vascular histology in sections from colonic HSCR resections (n = 55) was compared
+with age- and site-matched controls with (n = 19) and without (n = 28) non-HSCR
+obstructive conditions. Vascular pathology was mapped, and correlations were
+sought between the vascular findings and bowel distension, inflammation,
+neuromuscular anatomy, preoperative clinical variables, and postsurgical
+complications. Results One of 2 forms of AFD was identified in 42% (23/55) of the
+HSCR resections: the previously described "mature" form with adventitial bundles 
+of differentiated smooth muscle cells (7/23, all submucosal) and a newly
+described "immature" AFD characterized by densely packed myofibroblasts in the
+arterial adventitia (16/23, 3 submucosal, 3 serosal, and 10 both). Adventitial
+inflammation and/or medial necrosis was present in the immature form (6/16).
+Mature submucosal AFD was present in 2/28 (7.1%) nonobstructive and 5/19 (26%)
+obstructive non-HSCR controls ( P = .10). Immature AFD was only found in less
+than 1-month-olds, and mature AFD only in older patients, including the 7
+affected controls. AFD did not correlate with sex, syndromic status, length of
+the aganglionic segment, or postoperative complications. AFD was present in
+grossly dilated (17/23) and narrowed (10/23) regions and in the aganglionic
+(2/23), ganglionic (14/23), or both (7/23) segments. In several cases, AFD
+existed proximal to the histological transition zone. Conclusion AFD occurs in
+HSCR and other obstructive conditions but is significantly less common in the
+colons of patients with no history of dysmotility. The pathology likely
+progresses from a reversible accumulation of myofibroblasts in neonates to a
+stable population of mature smooth muscle cells. The distribution of vascular
+lesions does not correlate with neuropathological findings and suggests a
+nonspecific form of vascular injury, possibly related to bowel distension. AFD in
+HSCR resections has not been shown to be clinically significant and should not
+influence management.
+
+DOI: 10.1177/1093526617739772 
+PMID: 29108502  [Indexed for MEDLINE]
+
+
+91. Eye (Lond). 2018 Feb;32(2):164-172. doi: 10.1038/eye.2017.240. Epub 2017 Nov 3.
+
+Carotid-cavernous fistula: current concepts in aetiology, investigation, and
+management.
+
+Henderson AD(1), Miller NR(1).
+
+Author information: 
+(1)Division of Neuro-Ophthalmology, Wilmer Eye Institute, Johns Hopkins School of
+Medicine, Baltimore, MD, USA.
+
+Comment in
+    Eye (Lond). 2018 Oct;32(10):1675-1680.
+    Eye (Lond). 2018 Oct;32(10):1676.
+
+A carotid-cavernous fistula (CCF) is an abnormal communication between arteries
+and veins within the cavernous sinus and may be classified as either direct or
+dural. Direct CCFs are characterized by a direct connection between the internal 
+carotid artery (ICA) and the cavernous sinus, whereas dural CCFs result from an
+indirect connection involving cavernous arterial branches and the cavernous
+sinus. Direct CCFs frequently are traumatic in origin and also may be caused by
+rupture of an ICA aneurysm within the cavernous sinus, Ehlers-Danlos syndrome
+type IV, or iatrogenic intervention. Causes of dural CCFs include hypertension,
+fibromuscular dysplasia, Ehlers-Danlos type IV, and dissection of the ICA.
+Evaluation of a suspected CCF often involves non-invasive imaging techniques,
+including standard tonometry, pneumotonometry, ultrasound, computed tomographic
+scanning and angiography, and/or magnetic resonance imaging and angiography, but 
+the gold standard for classification and diagnosis remains digital subtraction
+angiography. When a direct CCF is confirmed, first-line treatment is endovascular
+intervention, which may be accomplished using detachable balloons, coils, liquid 
+embolic agents, or a combination of these tools. As dural CCFs often resolve
+spontaneously, low-risk cases may be managed conservatively. When invasive
+treatment is warranted, endovascular intervention or stereotactic radiosurgery
+may be performed. Modern endovascular techniques offer the ability to
+successfully treat CCFs with a low morbidity and virtually no mortality.
+
+DOI: 10.1038/eye.2017.240 
+PMCID: PMC5811734
+PMID: 29099499  [Indexed for MEDLINE]
+
+
+92. Am J Forensic Med Pathol. 2018 Mar;39(1):46-49. doi:
+10.1097/PAF.0000000000000356.
+
+Sudden Death Due to Cystic Tumor of the Atrioventricular Node and Fibromuscular
+Dysplasia Involving Branches of the Coronary Arteries.
+
+Farkašová Iannaccone S, Farkaš D, Ginelliová A, Švajdler M, Laco J, Šteiner I,
+Fröhlichová L.
+
+In this paper, we report the autopsy findings of a 42-year-old White male who was
+found deceased at his home by his brother in the early morning hours with a
+history of excessive alcohol consumption 1 day before his death. A medical record
+review revealed chronic alcohol use with alcohol dependence syndrome,
+hypertension, and cardiac arrhythmias by electrocardiogram 2 years prior.
+External examination revealed only a single bruise on the forehead. Internal
+examination revealed changes associated with chronic alcohol abuse and mild
+atherosclerosis. The lack of a cause of death at autopsy resulted in a dissection
+of the cardiac conduction system and the detection of a small cystic lesion at
+the atrioventricular node region. Microscopic examination revealed a cystic tumor
+of the atrioventricular node and fibromuscular dysplasia of the coronary artery
+branches near the sinoatrial and atrioventricular nodes. Based on the case
+history and autopsy findings, death was attributed to a fatal cardiac arrhythmia 
+due to cystic tumor of the atrioventricular node with fibromuscular dysplasia of 
+the coronary artery branches near the sinoatrial and atrioventricular nodes a
+possible contributing factor.
+
+DOI: 10.1097/PAF.0000000000000356 
+PMID: 29095703  [Indexed for MEDLINE]
+
+
+93. Catheter Cardiovasc Interv. 2018 Mar 1;91(4):760-764. doi: 10.1002/ccd.27259.
+Epub 2017 Oct 25.
+
+Renal artery stenosis and ambulatory blood pressure monitoring: A case report and
+review of the literature.
+
+Reeves RR(1), Walters D(1), Mahmud E(1).
+
+Author information: 
+(1)Sulpizio Cardiovascular Center, University of California, San Diego, La Jolla,
+California.
+
+Renal artery stenosis (RAS) is a prevalent cause of secondary hypertension.
+Elderly patients with atherosclerosis and young women with fibromuscular
+dysplasia (FMD) are particularly at risk. Blood pressure screening is often key
+to this diagnosis, although the reliability of clinical screening has been
+questioned, and ambulatory blood pressure monitoring (ABPM) likely offers
+superior ability to diagnose poorly controlled hypertension. In patients with
+RAS, medical management should be the primary means of therapy; however, in a
+select group of these patients, renal revascularization may be considered, and
+has been shown to reduce blood pressure and stabilize chronic kidney disease. In 
+this report, we present a patient diagnosed with RAS due to FMD, found to have
+significant hypertension via ABPM, and treated successfully with percutaneous
+renal artery angioplasty; importantly, continuous 24-hr ambulatory monitoring
+after pressure gradient guided renal angioplasty confirmed reduction in blood
+pressure.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ccd.27259 
+PMID: 29068131  [Indexed for MEDLINE]
+
+
+94. J Hypertens. 2018 Mar;36(3):634-640. doi: 10.1097/HJH.0000000000001588.
+
+Cause of renal infarction: a retrospective analysis of 186 consecutive cases.
+
+Faucon AL(1)(2), Bobrie G(1), Jannot AS(3)(2)(4), Azarine A(5), Plouin PF(1),
+Azizi M(1)(2)(6), Amar L(1)(2).
+
+Author information: 
+(1)Hypertension Unit.
+(2)Faculty of Medicine, Université Paris-Descartes.
+(3)Department of Medical Informatics and Public Health.
+(4)INSERM UMR 1138-E22: Information Sciences & Personalized Medicine, Paris,
+France.
+(5)Cardiovascular Radiology Department, APHP, Hôpital Européen Georges Pompidou.
+(6)INSERM, CIC 1418.
+
+Comment in
+    J Hypertens. 2018 Mar;36(3):490-492.
+
+BACKGROUND: Renal infarction can cause abrupt and severe hypertension and less
+frequently renal failure. Renal infarction results from disruption of renal blood
+flow in the main ipsilateral renal artery or in a segmental branch. Underlying
+mechanism is either general, 'embolic' or 'thrombophilic', or local related to
+primary 'renal artery lesion'. It depends on various causes. In absence of an
+identified cause, renal infarction is classified as 'idiopathic'. Previous
+studies report a significant number of 'idiopathic' renal infarction.
+OBJECTIVE: The aim of this study was to analyze various renal infarction causes.
+METHODS: Between July 2000 and June 2015, 259 consecutive patients with renal
+infarction were admitted to our hospital center and retrospectively identified
+from weekly multidisciplinary round. Main clinical and biological characteristics
+were extracted from clinical data warehouse. Renal imaging was reviewed by two
+readers unaware of the diagnosis.
+RESULTS: Of 259 initially identified patients, 30 were excluded owing to a lack
+of imaging or clinical data and 43 because iatrogenic renal infarction. In the
+186 studied patients, dissection was observed in 76 patients (40.8%) and
+occlusion in 75 (40.3%). Renal infarction mechanisms were 'renal artery lesion'
+(n = 151; 81.2%), 'embolic' (n = 17; 9.1%), 'thrombophilic' (n = 11; 5.9%) and
+'idiopathic' (n = 7; 3.8%). Predominant renal artery lesions were atherosclerosis
+disease (n = 52; 34.4%) followed by dissecting hematoma (n = 35; 23.2%) and
+fibromuscular dysplasia (n = 29; 19.2%). Right and left kidneys were equally
+involved.
+CONCLUSION: Renal artery lesion is the most frequent cause of renal infarction.
+This result underlines the need for extensive arterial exploration to identify
+the renal infarction mechanism and, in case of renal artery lesion, the
+underlying vascular disease.
+
+DOI: 10.1097/HJH.0000000000001588 
+PMID: 29045340  [Indexed for MEDLINE]
+
+
+95. EuroIntervention. 2017 Dec 8;13(12):e1454-e1459. doi: 10.4244/EIJ-D-17-00264.
+
+Characteristics of extension and de novo recurrent spontaneous coronary artery
+dissection.
+
+Main A(1), Prakash R, Starovoytov A, Sabbaghan A, Aymong E, Mancini GBJ, Saw J.
+
+Author information: 
+(1)Division of Cardiology, Vancouver General Hospital, University of British
+Columbia, Vancouver, British Columbia, Canada.
+
+Comment in
+    EuroIntervention. 2017 Dec 8;13(12):e1381-e1383.
+
+AIMS: Spontaneous coronary artery dissection (SCAD) is an under-recognised and
+important cause of myocardial infarction in young women. Recurrent SCAD is
+frequent but poorly understood. We aimed to explore the clinical and angiographic
+characteristics, and outcomes of recurrent SCAD.
+METHODS AND RESULTS: Patients with SCAD extension or recurrence prospectively
+followed at Vancouver General Hospital were included in this retrospective study.
+SCAD diagnosis was confirmed by two experienced cardiologists. Detailed medical
+history, baseline demographics, angiographic results, and clinical details of
+index SCAD and recurrent events were recorded. SCAD extension was defined as
+angiographic extension of a previously dissected coronary segment, and de novo
+recurrent SCAD was defined as new spontaneous dissection. We identified 43
+patients with SCAD recurrence with mean age 48.9±8.4 years; 38/43 were women, and
+32/43 had fibromuscular dysplasia. Nine patients had SCAD extension at median
+time of five (1-19) days, while 34 patients had de novo recurrent SCAD at median 
+time of 1,487 (107- 6,461) days after the index SCAD event. All SCAD extension
+patients had worsening of the index dissected segment, with 5/9 involving
+extension to adjacent segments, while all de novo recurrent SCAD patients had new
+dissections affecting coronary segments distinct from the index dissection.
+CONCLUSIONS: De novo recurrent SCAD invariably affected new segments distinct
+from previously dissected segments.
+
+DOI: 10.4244/EIJ-D-17-00264 
+PMID: 28891472  [Indexed for MEDLINE]
+
+
+96. Acta Cardiol. 2017 Dec;72(6):599-609. doi: 10.1080/00015385.2017.1309095. Epub
+2017 Jun 28.
+
+The spectrum of spontaneous coronary artery dissection: illustrated review of the
+literature.
+
+Vandamme M(1), De Backer J(1)(2), De Backer T(1), Drieghe B(1), Devos D(3),
+Gevaert S(1).
+
+Author information: 
+(1)a Department of Cardiology , Ghent University Hospital , Ghent , Belgium.
+(2)b Department of Genetics , Ghent University Hospital , Ghent , Belgium.
+(3)c Department of Radiology , Ghent University Hospital , Ghent , Belgium.
+
+Spontaneous coronary artery dissection or SCAD is a rare and challenging disease 
+that is increasingly diagnosed. It is characterized by a non-traumatic,
+non-iatrogenic separation of the coronary artery wall and occurs predominantly in
+young and middle-aged women without traditional cardiovascular risk factors. SCAD
+is often associated with predisposing conditions such as the peripartum period,
+systemic inflammatory disease and heritable connective tissue disease. More
+recently, independent investigators have demonstrated an important association
+with fibromuscular dysplasia. Extreme emotional or physical stress as well as
+intense hormonal therapy or drug abuse have been pointed out as precipitating
+factors. The diagnosis of SCAD can be challenging and starts with clinical
+suspicion. Advanced imaging techniques such as intravascular ultrasound and
+optical coherence tomography are useful for the differentiation from
+atherosclerotic disease and are increasingly used for this indication. The
+proposed treatment in the acute setting is based on findings from single-centre
+retrospective series: in stable patients with a TIMI-flow ≥2 a conservative
+management is proposed because of the high risk of procedural failure and
+complications as well as a high probability of spontaneous healing. Long-term
+treatment is comparable to that in non-SCAD acute coronary syndromes (ACS) but
+dual antiplatelet therapy should only be started in case of stenting and should
+be kept as short as possible in patients with vascular Ehlers-Danlos syndrome.
+Prognosis seems to be better compared to non-SCAD ACS but there is a reasonable
+risk of recurrence. In this review, we discuss the current knowledge of SCAD and 
+provide a clinical pathway for the diagnosis, management and work-up of SCAD
+patients.
+
+DOI: 10.1080/00015385.2017.1309095 
+PMID: 28657457  [Indexed for MEDLINE]
+
+
+97. J Magn Reson Imaging. 2018 Feb;47(2):572-581. doi: 10.1002/jmri.25774. Epub 2017 
+Jun 2.
+
+Efficacy and safety of gadobutrol-enhanced MRA of the renal arteries: Results
+from GRAMS (Gadobutrol-enhanced renal artery MRA study), a prospective,
+intraindividual multicenter phase 3 blinded study.
+
+Fabrega-Foster KE(1), Agarwal S(2), Rastegar N(3), Haverstock D(4), Agris JM(5), 
+Kamel IR(1).
+
+Author information: 
+(1)Johns Hopkins Hospital, Department of Radiology, Baltimore, Maryland, USA.
+(2)US Medical Affairs, Bayer HealthCare, Whippany, New Jersey, USA.
+(3)Department of Radiology Rutgers, The State University of New Jersey, Newark,
+NJ.
+(4)Pharmaceutical Division, Bayer HealthCare, Whippany, New Jersey, USA.
+(5)Director of Global Medical and Clinical Affairs, Bayer HealthCare, Whippany,
+New Jersey, USA.
+
+PURPOSE: To compare the performance of magnetic resonance angiography (MRA) with 
+1M gadobutrol, a high relaxivity macrocyclic contrast agent, to 2D time-of-flight
+MRA (ToF-MRA) using computed tomographic angiography (CTA) as the standard of
+reference. Primary objectives were evaluation for superiority of structural
+delineation and noninferiority for detection and exclusion of clinically
+significant disease.
+MATERIALS AND METHODS: In all, 315 subjects underwent unenhanced and
+contrast-enhanced MRA with 1M gadobutrol (CE-MRA) and were scanned with 1.5T MRI 
+equipped with an at least 6-element body coil. Evaluations were based on both
+centralized blinded read (BR) performed by six readers as well as investigator
+site interpretations for the 292 subjects who completed the study. Quantitative
+evaluations including percent stenosis and normal vessel measurements were also
+performed. Secondary endpoints included identification of accessory renal
+arteries, diagnosis of fibromuscular dysplasia (FMD), diagnostic confidence, and 
+need for additional imaging.
+RESULTS: A total of 292 patients suspected of renal artery disease completed the 
+study. CE-MRA demonstrated statistically significant improvement in assessability
+of vascular segments compared to ToF: 95.9% vs. 77.6% (P < 0.0001). In the BR,
+the sensitivity and specificity of CE-MRA were noninferior to ToF-MRA (53.4% vs. 
+46.6% and 95.1% vs. 85.7%, respectively). There was less error in the CE-MRA
+stenosis measurements (0.15 mm gadobutrol vs. 0.41 mm ToF, P < 0.05). FMD was
+correctly diagnosed more frequently, 10% more accessory renal arteries were
+identified (P < 0.01), diagnostic confidence increased (P < 0.01), and fewer
+additional imaging studies were recommended (P < 0.01).
+CONCLUSION: Gadobutrol-enhanced MRA of the renal arteries has superior
+visualization, more accurate vessel measurements, and may serve as a CTA
+alternative without any ionizing radiation.
+LEVEL OF EVIDENCE: 1 Technical Efficacy: Stage 2 J. Magn. Reson. Imaging
+2018;47:572-581.
+
+© 2017 International Society for Magnetic Resonance in Medicine.
+
+DOI: 10.1002/jmri.25774 
+PMID: 28574637  [Indexed for MEDLINE]
+
+
+98. Turk Patoloji Derg. 2018;34(3):269-273. doi: 10.5146/tjpath.2015.01341.
+
+Fibromuscular Dysplasia of the Coronary Arteries: A Case Report and Review of the
+Literature.
+
+Kuzyk J(1), Boiko O, Stetsko T.
+
+Author information: 
+(1)Danylo Halytsky Lviv National Medical University, Medical Department, LVIV,
+UKRAİNE.
+
+Fibromuscular dysplasia is a nonatherosclerotic and non-inflammatory vascular
+disease with primary lesion of renal and internal carotid arteries. We present a 
+neonatal case of fibromuscular dysplasia who died on the second day of life. The 
+newborn suffered from fibromuscular dysplasia of the coronary arteries and a
+congenital heart defect. The interesting feature of this case was the formation
+of aneurysms of the coronary arteries with pulmonary atresia. This case
+demonstrates a casuistically rare form of association between fibromuscular
+dysplasia of the coronary arteries and pulmonary artery atresia.
+
+DOI: 10.5146/tjpath.2015.01341 
+PMID: 28272662  [Indexed for MEDLINE]
+
+
+99. Cephalalgia. 2018 Feb;38(2):402-405. doi: 10.1177/0333102416686346. Epub 2017 Jan
+5.
+
+Hemicrania continua in carotid artery dissection - symptomatic cases or linked
+pathophysiology?
+
+Brilla R(1), Pawlowski M(2), Evers S(2)(3).
+
+Author information: 
+(1)1 Department of Neurology, University of Wisconsin Madison, USA.
+(2)2 Department of Neurology, University of Münster, Germany.
+(3)3 Krankenhaus Lindenbrunn, Coppenbruegge, Germany.
+
+Background Hemicrania continua (HC) -like headaches have been rarely reported as 
+symptomatic headaches, including cases secondary to cervical artery dissection.
+Case series We present five cases of HC-like headaches following cervical artery 
+dissection, in three cases with specific indomethacin response. In two cases,
+comorbidity of fibromuscular dysplasia (FMD) was noted. Conclusion Carotid artery
+dissection may result in an HC-like headache syndrome. A specific response to
+indomethacin does not rule out dissection as underlying pathology. Screening for 
+extracranial manifestations of FMD should be considered, especially in
+middle-aged females.
+
+DOI: 10.1177/0333102416686346 
+PMID: 28056533  [Indexed for MEDLINE]
+
+
+100. J Neurosurg Sci. 2018 Aug;62(4):413-417. doi: 10.23736/S0390-5616.16.03790-5.
+Epub 2016 Nov 17.
+
+Association between carotid artery tortuosity and carotid dissection: a
+case-control study.
+
+Kim ST(1), Brinjikji W(2), Lehman VT(2), Carr CM(2), Luetmer PH(2), Rydberg
+CH(2).
+
+Author information: 
+(1)Mayo Clinic, Mayo Medical School, Rochester, MN, USA - Kim.Sarasa@Mayo.edu.
+(2)Department of Radiology, Mayo Clinic, Rochester, MN, USA.
+
+BACKGROUND: Carotid artery dissections have long been associated with compromise 
+of the structural integrity of the arterial wall from heritable connective-tissue
+disorders, hypertension, and trauma. However, an association between spontaneous 
+internal carotid artery dissection and tortuous or redundant carotid anatomy has 
+not been fully explored.
+METHODS: Patients with CTA confirmed spontaneous cervical internal carotid artery
+dissections were compared to a group of age and sex matched controls who also
+received CTA of the neck. Patients with trauma or aortic dissections were
+excluded. Five radiologists reviewed the CTA images to evaluate internal carotid 
+artery tortuosity (reported as loops, kinks or coils), retrojugular and
+retropharyngeal courses of the internal carotid artery, presence of fibromuscular
+dysplasia and presence of atherosclerotic disease. Baseline data collected
+included demographic characteristics (sex, age, smoking history) and
+cardiovascular comorbidities.
+RESULTS: A total of 83 cervical internal carotid artery dissection and their age 
+and sex matched controls were included in this study. 46% of patients were female
+in each group and mean age was 49.2±10.6 years. The presence of any carotid
+tortuosity was 53% (N.=44) and 34% (N.=28) in the per-patient analysis of
+dissection and control groups, respectively (P=0.02). Loops were reported in 22% 
+(N.=18) of dissection patients and 8% (N.=7) of controls (P=0.03). Retrojugular
+course of the internal carotid artery were seen in 23% (N.=38) of dissection
+patients and 9% (N.=15) of controls (P=0.0009) in the per-vessel analysis.
+CONCLUSIONS: Our study suggests that there is an association between the presence
+of tortuous carotid artery anatomy and spontaneous carotid artery dissection.
+This finding emphasizes the importance of the presence of tortuous arteries on
+CTA imaging to increase the index of suspicion for a potential dissection.
+
+DOI: 10.23736/S0390-5616.16.03790-5 
+PMID: 27854110  [Indexed for MEDLINE]

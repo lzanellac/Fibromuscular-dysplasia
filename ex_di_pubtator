@@ -1,0 +1,370 @@
+31923594|t|Clinical Characteristics and Long-Term Outcomes of Mid-Aortic Syndrome.
+31923594|a|OBJECTIVE: Mid-aortic syndrome (MAS) is a rare congenital or acquired condition marked by segmental or diffuse stenosis of the distal thoracic and/or abdominal aorta and its branches. The optimal approach to medical or interventional management of MAS and long-term outcomes in adults are not well defined. We reviewed MAS cases to characterize the natural history of aortic disease, identify prognostic factors and evaluate the durability of invasive interventions. METHODS: We conducted a retrospective review of MAS patients who presented to Memorial Hermann Hospital and Baylor College of Medicine between 1997 and 2018. We categorized cases according to demographic and clinical manifestations, etiologies, the extent of aortic involvement, interventions and vascular outcomes. RESULTS: We identified a cohort of 13 MAS patients. The etiology of MAS was identified in 6 cases, including genetic syndromes (Neurofibromatosis Type 1 (2/13), Williams syndrome (1/13), fibromuscular dysplasia (2/13), and Takayasu arteritis (1/13)). Mean age at first documented clinical event was 25.2 (2-67) years but cases with genetic etiologies presented significantly younger (18.2 years). The most common primary anatomic site was the suprarenal and infrarenal aorta (zones 5-8). Extra-aortic locations involved the renal (4/13), celiac (3/13), and superior mesenteric (3/13) arteries. Clinical manifestations included hypertension (13/13), claudication (9/13) and postprandial abdominal pain (5/13). All patients with available follow-up data underwent at least one surgical or endovascular intervention (range: 1-8). Postoperative complications included renal failure requiring post-discharge hemodialysis and respiratory failure. There were no deaths in long-term follow-up. CONCLUSIONS: MAS is a complex vasculopathy with substantial variability in clinical presentation and anatomic distribution. Extensive disease frequently requires multiple invasive interventions and results in refractory hypertension, which may predict subsequent clinical events. A multidisciplinary approach with long-term monitoring is essential for preservation of end-organ function and quality of life in this debilitating disease.
+31923594	440	454	aortic disease	Disease	MESH:D001018
+31923594	591	599	patients	Species	9606
+31923594	897	905	patients	Species	9606
+31923594	983	1007	Neurofibromatosis Type 1	Gene	4763
+31923594	1016	1033	Williams syndrome	Disease	MESH:D018980
+31923594	1042	1065	fibromuscular dysplasia	Disease	MESH:D005352
+31923594	1078	1096	Takayasu arteritis	Disease	MESH:D013625
+31923594	1482	1494	hypertension	Disease	MESH:D006973
+31923594	1541	1555	abdominal pain	Disease	MESH:D015746
+31923594	1568	1576	patients	Species	9606
+31923594	1719	1732	renal failure	Disease	MESH:D051437
+31923594	1775	1794	respiratory failure	Disease	MESH:D012131
+31923594	1871	1883	vasculopathy	Disease	MESH:D055955
+31923594	2061	2073	hypertension	Disease	MESH:D006973
+
+31926571|t|Spontaneous Coronary Artery Dissection: Clinical Characteristics, Management, and Outcomes in a Racially and Ethnically Diverse Community-Based Cohort.
+31926571|a|CONTEXT: Spontaneous coronary artery dissection (SCAD) is a cause of acute coronary syndrome, which predominantly affects healthy women; however, few data define this vulnerable population. OBJECTIVE: To identify demographic and clinical characteristics of patients with SCAD and determine outcomes in a community-based cohort. DESIGN: Retrospective cohort study of patients with SCAD at Kaiser Permanente Northern California during a 10-year period. We compared 111 SCAD cases with 333 healthy, matched controls. MAIN OUTCOME MEASURES: Predisposing factors, treatment modalities, and inhospital and late outcomes. RESULTS: Patients with SCAD had a mean age (standard deviation) of 48.1 (11) years; 92.8% were women, and 49.5% were nonwhite. Of women, 9% were peripartum. Fibromuscular dysplasia was identified in 21.8% of femoral angiograms obtained. With conditional logistic regression, only pregnancy and hyperlipidemia were associated with SCAD compared with controls. Fifty-five patients (49.5%) were successfully treated without revascularization; of the 54 who had urgent percutaneous coronary intervention, 2 required coronary artery bypass grafting for SCAD extension. During a median follow-up of 2.6 years, major adverse cardiovascular events occurred in 8.1% of patients. Pregnancy-related SCAD was not associated with worsened outcomes. However, Emergency Department visits or hospitalizations because of recurrent chest pain occurred frequently for 54% of patients with SCAD. CONCLUSION: The study cohort is comparable to published SCAD cohorts, but notable for a racially and ethnically diverse population. Compared with the controls, only pregnancy and hyperlipidemia were associated with SCAD. For the SCAD cases, major adverse cardiovascular events occurred in 8.1%, and race did not influence outcomes.
+31926571	227	244	coronary syndrome	Disease	MESH:D054058
+31926571	282	287	women	Species	9606
+31926571	409	417	patients	Species	9606
+31926571	518	526	patients	Species	9606
+31926571	776	784	Patients	Species	9606
+31926571	862	867	women	Species	9606
+31926571	897	902	women	Species	9606
+31926571	924	947	Fibromuscular dysplasia	Disease	MESH:D005352
+31926571	1061	1075	hyperlipidemia	Disease	MESH:D006949
+31926571	1137	1145	patients	Species	9606
+31926571	1427	1435	patients	Species	9606
+31926571	1581	1591	chest pain	Disease	MESH:D002637
+31926571	1623	1631	patients	Species	9606
+31926571	1822	1836	hyperlipidemia	Disease	MESH:D006949
+
+31932287|t|Coronary artery disease and acute coronary syndrome in women.
+31932287|a|There are important dissimilarities in clinical presentation, aggregation of comorbidities, cardiovascular risk factors and the quality of delivery of medical care among men and women with acute coronary syndrome (ACS). Compared with men, despite the well-known older age and more pronounced frailty, women with ACS present later from symptom onset and are at high bleeding risk after invasive procedures. In addition, autoimmune/inflammatory disease, fibromuscular dysplasia, polycystic ovary, early menopause and history of pre-eclampsia are risk factors preceding ACS among younger women. They more often experience myocardial infarction in the absence of obstructive coronary arteries (MINOCA), which makes diagnosis and treatment of ACS among women more challenging compared with men. Women and men do both benefit from guideline-recommended treatment, although, compared with men, women with ACS have a higher adjusted risk of early death, which equalises between both sexes within the first year. Young women with ACS suffer frequently of depression and present often with MINOCA. Compared with young men, they (young women) have a higher risk of death. Therefore, focusing on young patients with ACS, understanding the particular physiopathology of MINOCA and developing programmes targeting comorbidities and depression-related behavioural risk factors are urgently needed.
+31932287	0	23	Coronary artery disease	Disease	MESH:D003324
+31932287	28	51	acute coronary syndrome	Disease	MESH:D054058
+31932287	55	60	women	Species	9606
+31932287	232	235	men	Species	9606
+31932287	240	245	women	Species	9606
+31932287	251	274	acute coronary syndrome	Disease	MESH:D054058
+31932287	276	279	ACS	Disease	MESH:D054058
+31932287	296	299	men	Species	9606
+31932287	363	368	women	Species	9606
+31932287	374	377	ACS	Disease	MESH:D054058
+31932287	492	512	inflammatory disease	Disease	MESH:D007249
+31932287	514	537	fibromuscular dysplasia	Disease	MESH:D005352
+31932287	539	555	polycystic ovary	Disease	MESH:D011085
+31932287	629	632	ACS	Disease	MESH:D054058
+31932287	647	652	women	Species	9606
+31932287	681	702	myocardial infarction	Disease	MESH:D009203
+31932287	800	803	ACS	Disease	MESH:D054058
+31932287	810	815	women	Species	9606
+31932287	847	850	men	Species	9606
+31932287	852	857	Women	Species	9606
+31932287	862	865	men	Species	9606
+31932287	944	947	men	Species	9606
+31932287	949	954	women	Species	9606
+31932287	960	963	ACS	Disease	MESH:D054058
+31932287	1001	1006	death	Disease	MESH:D003643
+31932287	1072	1077	women	Species	9606
+31932287	1083	1086	ACS	Disease	MESH:D054058
+31932287	1108	1118	depression	Disease	MESH:D003866
+31932287	1170	1173	men	Species	9606
+31932287	1187	1192	women	Species	9606
+31932287	1216	1221	death	Disease	MESH:D003643
+31932287	1252	1260	patients	Species	9606
+31932287	1266	1269	ACS	Disease	MESH:D054058
+31932287	1380	1390	depression	Disease	MESH:D003866
+
+31934918|t|Lung Transplantation for Bronchopulmonary Dysplasia in Adults: A Clinical and Pathologic Study of 3 Cases.
+31934918|a|Bronchopulmonary dysplasia (BPD) is usually seen in premature infants who require mechanical ventilation and oxygen therapy for acute respiratory distress. Although most patients wean from oxygen therapy by the ages of 2 to 3, rehospitalization for respiratory problems is common in these patients in adulthood. There have been few studies that document the long-term outcomes of BPD survivors and information about the pulmonary function and radiographic findings of adult BPD are limited. Data on pathologic features of adult BPD are scarce. Three adult patients who underwent recent lung transplantation for BPD from 2 institutions were identified. Clinical data including clinical presentation, chest radiographic images, pulmonary function tests, cardiac catheterization, and echocardiography were retrieved from the electronic medical records. Hematoxylin and eosin and selective elastic stained sections of the explant lungs were examined. CD31 immunohistochemical stain is performed on representative sections. All 3 cases had similar clinical and radiologic features including the history of prematurity and long-term mechanical ventilation after birth, hyperexpanded lungs with air trapping and mosaic attenuation on chest computed tomographic scan, severe obstructive changes on pulmonary function test, and pulmonary hypertension. Pathologic examination showed common features including enlarged and simplified alveoli, peribronchial, subpleural, and interlobular septal fibrosis, narrowing/obliteration of the small airways by elastosis and muscular hypertrophy, thickening of venous walls by fibromuscular hyperplasia, and bronchitis/bronchiolitis. Cholesterol granulomas were seen in 2 cases. The common pathologic findings in the lungs explain the clinical and radiologic findings. Future studies are warranted to further characterize the clinical and pathologic features of adult BPD to develop optimal management strategies for these patients.
+31934918	25	51	Bronchopulmonary Dysplasia	Disease	MESH:D001997
+31934918	107	133	Bronchopulmonary dysplasia	Disease	MESH:D001997
+31934918	135	138	BPD	Disease	MESH:D001997
+31934918	169	176	infants	Species	9606
+31934918	216	222	oxygen	Chemical	MESH:D010100
+31934918	277	285	patients	Species	9606
+31934918	296	302	oxygen	Chemical	MESH:D010100
+31934918	396	404	patients	Species	9606
+31934918	487	490	BPD	Disease	MESH:D001997
+31934918	581	584	BPD	Disease	MESH:D001997
+31934918	635	638	BPD	Disease	MESH:D001997
+31934918	663	671	patients	Species	9606
+31934918	718	721	BPD	Disease	MESH:D001997
+31934918	957	968	Hematoxylin	Chemical	MESH:D006416
+31934918	973	978	eosin	Chemical	MESH:D004801
+31934918	1054	1058	CD31	Gene	5175
+31934918	1426	1448	pulmonary hypertension	Disease	MESH:D006976
+31934918	1590	1598	fibrosis	Disease	MESH:D005355
+31934918	1647	1656	elastosis	Disease	MESH:D005148
+31934918	1661	1681	muscular hypertrophy	Disease	MESH:D006984
+31934918	1713	1738	fibromuscular hyperplasia	Disease	MESH:D005352
+31934918	1744	1768	bronchitis/bronchiolitis	Disease	MESH:D001991
+31934918	1770	1781	Cholesterol	Chemical	MESH:D002784
+31934918	1782	1792	granulomas	Disease	MESH:D006099
+31934918	2004	2007	BPD	Disease	MESH:D001997
+31934918	2059	2067	patients	Species	9606
+
+31937096|t|Detection of significant left renal artery stenosis caused by fibromuscular dysplasia with selective angiography.
+31937096|a|A 22-year-old female, was referred with a history of a headache and elevated blood pressure without family history of hypertension or familial dyslipidemia. Initially, a spiral computed tomographic angiography of the renal arteries was conducted, demonstrating completely abnormal left renal artery at the medial portion of the vessel with suspicious stenosis, which was supposed to be due to fibromuscular dysplasia (FMD). Subsequently, the patient underwent selective renal angiography and balloon angioplasty. Severe stenosis was observed on the left side and moderate stenosis on the right side in the medial and proximal part of the vessels, respectively. After the diagnosis of FMD, the left side was treated by balloon and finally, the patient was discharged with good control of blood pressure by losartan/amlodipine treatment.
+31937096	25	51	left renal artery stenosis	Disease	MESH:D012078
+31937096	62	85	fibromuscular dysplasia	Disease	MESH:D005352
+31937096	169	177	headache	Disease	MESH:D006261
+31937096	232	244	hypertension	Disease	MESH:D006973
+31937096	248	269	familial dyslipidemia	Disease	MESH:D050171
+31937096	375	412	completely abnormal left renal artery	Disease	MESH:D007674
+31937096	465	473	stenosis	Disease	MESH:D003251
+31937096	507	530	fibromuscular dysplasia	Disease	MESH:D005352
+31937096	532	535	FMD	Disease	MESH:D005352
+31937096	556	563	patient	Species	9606
+31937096	606	625	balloon angioplasty	Disease	MESH:D054549
+31937096	634	642	stenosis	Disease	MESH:D003251
+31937096	686	694	stenosis	Disease	MESH:D003251
+31937096	798	801	FMD	Disease	MESH:D005352
+31937096	857	864	patient	Species	9606
+31937096	919	927	losartan	Chemical	MESH:D019808
+31937096	928	938	amlodipine	Chemical	MESH:D017311
+
+31943685|t|Percutaneous transluminal angioplasty with selective stenting for the treatment of renal artery stenosis caused by fibromuscular dysplasia: 18 years' experience from the China Center for Cardiovascular Disease.
+31943685|a|OBJECTIVES: This study aimed to evaluate the safety and efficiency of percutaneous transluminal angioplasty (PTA) with selective stenting treating Chinese patients with renal artery stenosis (RAS) due to fibromuscular dysplasia (FMD). BACKGROUND: Endovascular data of patients with RAS caused by FMD are scarce in China. METHODS: Clinical data of 105 hypertensive patients with RAS caused by FMD underwent endovascular therapy at a single-site between June 2001 and October 2018 were analyzed retrospectively. Baseline blood pressure, use of antihypertensive medications, renal function, and adverse events at a 1-year follow-up were evaluated. RESULTS: The patients were aged between 10 and 64 years (mean age 26.7 +- 8.2 years) and 52 (49.5%) were female. In total, 105 patients undergoing endovascular therapy involving 124 RASs. Thirty (24.2%), sixty-four (51.6%), and thirty (24.2%) RASs were multifocal, unifocal, and tubular types, respectively. Ninety-four (89.5%) and eleven (10.5%) patients underwent PTA alone and PTA plus stenting, respectively. The technical success rate for endovascular therapy was 95.2% (100/105) without severe complications. During 1-year follow-up (n = 100), the mean systolic and diastolic blood pressure decreased from 157.6 +- 17.5 and 102.3 +- 14.2 to 129.6 +- 12.3 and 81.3 +- 11.1 mmHg, respectively, and the number of antihypertensive medications reduced from 2.2 +- 1.2 to 0.8 +- 1.0 (all p &lt; .001). The cure rate and improved rate of blood pressure was 49.0 and 40.0%, respectively. The serum creatinine levels remained stable. The primary and secondary restenosis rate was 13.4 and 5.8%, respectively. CONCLUSION: Endovascular therapy for treating RAS caused by FMD was technically safe and effective for reducing blood pressure in Chinese patients.
+31943685	83	104	renal artery stenosis	Disease	MESH:D012078
+31943685	115	138	fibromuscular dysplasia	Disease	MESH:D005352
+31943685	187	209	Cardiovascular Disease	Disease	MESH:D002318
+31943685	366	374	patients	Species	9606
+31943685	380	401	renal artery stenosis	Disease	MESH:D012078
+31943685	403	406	RAS	Disease	MESH:D012078
+31943685	415	438	fibromuscular dysplasia	Disease	MESH:D005352
+31943685	440	443	FMD	Disease	MESH:D005352
+31943685	479	487	patients	Species	9606
+31943685	493	496	RAS	Disease	MESH:D012078
+31943685	507	510	FMD	Disease	MESH:D005352
+31943685	562	574	hypertensive	Disease	MESH:D006973
+31943685	575	583	patients	Species	9606
+31943685	589	592	RAS	Disease	MESH:D012078
+31943685	603	606	FMD	Disease	MESH:D005352
+31943685	869	877	patients	Species	9606
+31943685	983	991	patients	Species	9606
+31943685	1203	1211	patients	Species	9606
+31943685	1752	1762	creatinine	Chemical	MESH:D003404
+31943685	1908	1911	RAS	Disease	MESH:D012078
+31943685	1922	1925	FMD	Disease	MESH:D005352
+31943685	2000	2008	patients	Species	9606
+
+31994838|t|Intractable coronary fibromuscular dysplasia leading to end-stage heart failure and fatal heart transplantation.
+31994838|a|Coronary fibromuscular dysplasia is uncommon, and even rarer its unstable and recurrent course. We present the unique case of a 52-year-old woman who underwent in total 12 coronary angiographies and three percutaneous coronary intervention within 24 months because of repetitive acute coronary syndromes due to refractory spasm, dissection, restenosis all leading to end-stage heart failure, and heart transplantation. The patient died 12 days after the heart transplantation complicated by intraoperative acute thrombotic occlusion of left anterior descending artery of the graft despite normal pretransplant coronary angiography. Autopsy of the recipient heart confirmed coronary fibromuscular dysplasia with massive intimal hyperplasia and restenosis.
+31994838	12	44	coronary fibromuscular dysplasia	Disease	MESH:D005352
+31994838	66	79	heart failure	Disease	MESH:D006333
+31994838	113	145	Coronary fibromuscular dysplasia	Disease	MESH:D005352
+31994838	253	258	woman	Species	9606
+31994838	435	440	spasm	Disease	MESH:D013035
+31994838	490	503	heart failure	Disease	MESH:D006333
+31994838	536	543	patient	Species	9606
+31994838	625	645	thrombotic occlusion	Disease	MESH:D013927
+31994838	786	818	coronary fibromuscular dysplasia	Disease	MESH:D005352
+31994838	840	851	hyperplasia	Disease	MESH:D006965
+
+31996160|t|Unexpected presentation and surgical salvage of transplant renal artery dissection caused by vascular clamping: a case report.
+31996160|a|BACKGROUND: Transplant renal artery dissection is a rare and serious event that can cause allograft dysfunction and activation of the renin-mediated renovascular hypertension. Most cases are induced by percutaneous transluminal angioplasty, arteriosclerotic disease, or fibromuscular dysplasia. We observed a case of transplant renal artery dissection induced by unusual causes during kidney transplantation. CASE PRESENTATION: A 35-year-old woman, whose mother donated a kidney to her, underwent ABO-incompatible living kidney transplantation. The allograft had one renal artery and vein that were anastomosed to the internal iliac artery and external iliac vein, respectively. Although careful handling was performed in all procedures including vascular clamping, Doppler ultrasonography (US) immediately after reperfusion showed an increase in the systolic blood velocity and urine output was not observed. Arterial anastomotic stenosis was suspected, but upon exploration, a renal artery dissection was detected in the middle portion of the donor artery. The part of the transplant renal artery was resected, and cold reflux was started again. At the resected part of transplant renal artery, dissection was identified. After re-anastomosis, Doppler US revealed that the blood flow of the renal artery was adequate without an increase in the systolic blood velocity, and sufficient blood flow was observed throughout the allograft. Urine output was also observed as soon as blood flow returned, and serum creatinine level decreased to 0.95 mg/dL after surgery. The cause of injury might have been vascular clamping in order to drain the air and check bleeding at the anastomosis. CONCLUSIONS: Our case reaffirmed that careful handling is needed in all procedures, including donor nephrectomy, cannulation for transplant perfusion, vascular clamping, and anastomosis, even without any evidence of arteriosclerosis. Kidney transplant recipients commonly have atherosclerosis and hypertension, which are risk factors for arterial dissection. Early diagnosis and intervention can lead to the prevention of allograft dysfunction. Therefore, close monitoring of allograft blood flow by Doppler US during surgery should be considered.
+31996160	48	71	transplant renal artery	Disease	MESH:D007674
+31996160	217	238	allograft dysfunction	Disease	MESH:D006331
+31996160	261	266	renin	Gene	5972
+31996160	276	301	renovascular hypertension	Disease	MESH:D006978
+31996160	368	392	arteriosclerotic disease	Disease	MESH:D015140
+31996160	397	420	fibromuscular dysplasia	Disease	MESH:D005352
+31996160	444	467	transplant renal artery	Disease	MESH:D007674
+31996160	569	574	woman	Species	9606
+31996160	624	627	ABO	Gene	28
+31996160	1046	1066	anastomotic stenosis	Disease	MESH:D057868
+31996160	1172	1177	donor	Species	9606
+31996160	1202	1225	transplant renal artery	Disease	MESH:D007674
+31996160	1299	1322	transplant renal artery	Disease	MESH:D007674
+31996160	1636	1646	creatinine	Chemical	MESH:D003404
+31996160	1776	1790	check bleeding	Disease	MESH:D006470
+31996160	1905	1910	donor	Species	9606
+31996160	2027	2043	arteriosclerosis	Disease	MESH:D001161
+31996160	2088	2103	atherosclerosis	Disease	MESH:D050197
+31996160	2108	2120	hypertension	Disease	MESH:D006973
+31996160	2233	2254	allograft dysfunction	Disease	MESH:D006331
+
+32076589|t|Isolated Renal Artery Dissection: A Systematic Review of Case Reports.
+32076589|a|Isolated renal artery dissection (IRAD) is a rare and often unrecognized clinical entity, with a paucity of data on its epidemiology and management. We extracted 129 cases of IRAD from the medical literature between 1972 and 2016. IRAD as a result of an extended dissection from the aorta and splanchnic or mesenteric arteries was excluded. The mean age of presentation was 42.7+-12.9 years, with a male predominance (79%). Abdominal pain (75.9%) was the most common presenting symptom. Etiology was more likely to be spontaneous (76%) than traumatic (12%), iatrogenic (9%), or drug-induced (1.5%). The most common risk factors were hypertension (28.7%), fibromuscular dysplasia (8.5%), and Ehlers-Danlos syndrome (5.4%). Unilateral renal artery dissection (right 45.5%, left 40.5%) was more frequent than bilateral (14%). More than half (56.6%) of the cohort were managed medically (blood pressure control and /or anticoagulation). Of those who underwent intervention, endovascular stenting or embolization (35%) was utilized more frequently than nephrectomy or bypass (21%). Computed tomography (CT) and magnetic resonance angiography (MRA) have the highest diagnostic sensitivity (91% and 93%, respectively) as compared to ultrasonography (27%). A high degree of clinical suspicion is required to diagnose IRAD. CT and MRI have a higher diagnostic sensitivity. As compared to invasive management, conservative management has comparable outcomes.
+32076589	495	509	Abdominal pain	Disease	MESH:D015746
+32076589	612	621	traumatic	Disease	MESH:D014947
+32076589	704	716	hypertension	Disease	MESH:D006973
+32076589	726	749	fibromuscular dysplasia	Disease	MESH:D005352
+32076589	762	784	Ehlers-Danlos syndrome	Disease	MESH:D004535
+32076589	793	827	Unilateral renal artery dissection	Disease	MESH:D020217
+
+32081546|t|[Bilateral renal infarction: A rare complication of fibromuscular dysplasia].
+32081546|a|Bilateral renal infarction complicating Fibromuscular Dysplasia (FMD) is extremely rare and has so far been reported only in a handful of cases. We report a 44-year-old man who presented with complaints of abdominal pain and severe hypertension. Computed tomography of the abdomen revealed bilateral renal infarction and a renal angiography confirmed the bilateral and irregular stenosis due to FMD, in the absence of systemic vasculitis and other risk factors for thromboembolic events. Therefore, angioplasty with balloon was performed in order to obtain a good vessel patency and to improve patency in the long term follow-up. After the endovascular treatment the blood pressure improved markedly, maintaining this result at 3-months follow-up. Our case highlight the importance of recognizing renal infarction as an initial presentation of FMD.
+32081546	1	27	Bilateral renal infarction	Disease	MESH:D007680
+32081546	52	75	fibromuscular dysplasia	Disease	MESH:D005352
+32081546	78	104	Bilateral renal infarction	Disease	MESH:D007680
+32081546	118	141	Fibromuscular Dysplasia	Disease	MESH:D005352
+32081546	143	146	FMD	Disease	MESH:D005352
+32081546	247	250	man	Species	9606
+32081546	284	298	abdominal pain	Disease	MESH:D015746
+32081546	310	322	hypertension	Disease	MESH:D006973
+32081546	368	394	bilateral renal infarction	Disease	MESH:D007680
+32081546	473	476	FMD	Disease	MESH:D005352
+32081546	496	515	systemic vasculitis	Disease	MESH:D056647
+32081546	543	557	thromboembolic	Disease	MESH:D013923
+32081546	875	891	renal infarction	Disease	MESH:D007674
+32081546	922	925	FMD	Disease	MESH:D005352
+
+32082860|t|Progesterone receptor expression in fibromuscular dysplasia: A report of two unusual cases.
+32082860|a|Fibromuscular dysplasia is rarely biopsied. Progesterone receptor expression in myofibroblastic cells is useful for the histopathological evaluation in difficult-to-diagnose cases. Herein, we report two unusual cases of fibromuscular dysplasia in which progesterone receptor expression was shown in vessel sections.
+32082860	0	21	Progesterone receptor	Gene	5241
+32082860	36	59	fibromuscular dysplasia	Disease	MESH:D005352
+32082860	92	115	Fibromuscular dysplasia	Disease	MESH:D005352
+32082860	136	157	Progesterone receptor	Gene	5241
+32082860	312	335	fibromuscular dysplasia	Disease	MESH:D005352
+32082860	345	366	progesterone receptor	Gene	5241
+
+32093171|t|Efficacy of Antihypertensive Therapy in a Child with Unilateral Focal Fibromuscular Dysplasia of the Renal Artery: A Case Study and Review of Literature.
+32093171|a|Background: Fibromuscular dysplasia (FMD) is one of the important etiologies of renovascular hypertension in children. It is usually resistant to multiple antihypertensive agents and can cause extreme elevation in blood pressures, which can lead to end organ damage if not promptly diagnosed and treated. Treatment options include medical management with antihypertensive agents, balloon or stent angioplasties, surgical revascularization, and nephrectomy. The aim of the study was to review the efficacy of antihypertensive therapy only in the management of FMD in a very young child. Methods: This is a retrospective chart study with review of literature. Results: Here, we report a 22-month-old toddler who presented with severe resistant hypertension and cardiomyopathy who was found to have focal FMD of the right renal artery. She also presented with proteinuria, hyponatremia that was probably secondary to pressure natriuresis, hypokalemia, hyperaldosteronism, and elevated plasma renin activity. The stabilization of blood pressures was done medically with the usage of antihypertensive medications only, without the need for angioplasty or surgical revascularization. Conclusions: We demonstrate that surgical intervention may not always be necessary in the treatment of all cases of FMD, especially in a small child where such intervention may be technically challenging and lead to potential complications. Hence, medical management alone may be sufficient, at least for the short-term, in small children with controlled hypertension and normal renal function, with surgical intervention reserved for FMD with medication-refractory hypertension and/or compromised renal function.
+32093171	42	47	Child	Species	9606
+32093171	70	113	Fibromuscular Dysplasia of the Renal Artery	Disease	MESH:C537929
+32093171	166	189	Fibromuscular dysplasia	Disease	MESH:D005352
+32093171	191	194	FMD	Disease	MESH:D005352
+32093171	234	259	renovascular hypertension	Disease	MESH:D006978
+32093171	263	271	children	Species	9606
+32093171	534	541	balloon	Disease	MESH:D054549
+32093171	713	716	FMD	Disease	MESH:D005352
+32093171	733	738	child	Species	9606
+32093171	896	908	hypertension	Disease	MESH:D006973
+32093171	913	927	cardiomyopathy	Disease	MESH:D009202
+32093171	956	959	FMD	Disease	MESH:D005352
+32093171	1011	1022	proteinuria	Disease	MESH:D011507
+32093171	1024	1036	hyponatremia	Disease	MESH:D007010
+32093171	1090	1101	hypokalemia	Disease	MESH:D007008
+32093171	1103	1121	hyperaldosteronism	Disease	MESH:D006929
+32093171	1143	1148	renin	Gene	5972
+32093171	1448	1451	FMD	Disease	MESH:D005352
+32093171	1475	1480	child	Species	9606
+32093171	1662	1670	children	Species	9606
+32093171	1687	1699	hypertension	Disease	MESH:D006973
+32093171	1767	1770	FMD	Disease	MESH:D005352
+32093171	1798	1810	hypertension	Disease	MESH:D006973
+
+32094235|t|Fibromuscular dysplasia presenting with a deep vein thrombosis.
+32094235|a|A 41-year-old male patient presented with isolated right lower limb swelling. An ultrasound scan showed right external iliac and femoral vein deep vein thrombosis due to extrinsic compression by an aneurysm of the right common iliac artery. Investigations including imaging and a tissue biopsy of right and left femoral arteries confirmed a rare clinical presentation of fibromuscular dysplasia involving iliac, coeliac, renal and pulmonary vessels. The common iliac artery aneurysm was successfully treated with endovascular repair. Six months later, he developed coronary artery involvement with spontaneous dissection of left anterior descending artery diagnosed on coronary angiogram which was managed conservatively. At 6-year follow-up, he remains clinically asymptomatic and continues with regular surveillance imaging. Iliac arterial fibromuscular dysplasia is uncommon and clinical presentation with a complication such as a deep vein thrombosis is atypical.
+32094235	0	23	Fibromuscular dysplasia	Disease	MESH:D005352
+32094235	42	62	deep vein thrombosis	Disease	MESH:D020246
+32094235	83	90	patient	Species	9606
+32094235	127	140	limb swelling	Disease	MESH:D004487
+32094235	193	226	femoral vein deep vein thrombosis	Disease	MESH:D020246
+32094235	262	270	aneurysm	Disease	MESH:D000783
+32094235	435	458	fibromuscular dysplasia	Disease	MESH:D005352
+32094235	531	546	artery aneurysm	Disease	MESH:D002532
+32094235	629	656	coronary artery involvement	Disease	MESH:D003324
+32094235	906	929	fibromuscular dysplasia	Disease	MESH:D005352
+32094235	998	1018	deep vein thrombosis	Disease	MESH:D020246
+
+32123677|t|How to Repair Non-Atheromatous Carotid Lesions.
+32123677|a|Non-atheromatous surgical lesions are estimated to represent at most 10% of all carotid procedures, most of which involve atheromatous lesions. Isolated tortuosity of the carotid vessels is sometimes treated surgically. The pathologies most frequently studied are extra-cranial carotid aneurysms, dissections, and fibromuscular dysplasia. Behcet's disease only rarely affects the carotid trunk, but in view of its prevalence in our country of Algeria a short section will be devoted to it. A series of 57 patients treated for non-atheromatous carotid lesions is presented article. These cases were treated using both endovascular and conventional surgical techniques. A review of the literature shows that endovascular treatment is now replacing conventional surgery for most indications except carotid paraganglioma.
+32123677	14	46	Non-Atheromatous Carotid Lesions	Disease	MESH:D058226
+32123677	170	190	atheromatous lesions	Disease	MESH:D058226
+32123677	326	343	carotid aneurysms	Disease	MESH:D000783
+32123677	362	385	fibromuscular dysplasia	Disease	MESH:D005352
+32123677	553	561	patients	Species	9606
+32123677	574	606	non-atheromatous carotid lesions	Disease	MESH:D058226
+32123677	851	864	paraganglioma	Disease	MESH:D010235
+
+32132432|t|Visceral artery fibromuscular dysplasia: another step in unravelling a mysterious vascular syndrome.
+32132432|a|
+32132432	0	39	Visceral artery fibromuscular dysplasia	Disease	MESH:C537929
+32132432	71	99	mysterious vascular syndrome	Disease	MESH:D019318
+
+32148124|t|Brain-to-Pelvis Imaging Substantially Impacts Management of Patients With Fibromuscular Dysplasia.
+32148124|a|
+32148124	60	68	Patients	Species	9606
+32148124	74	97	Fibromuscular Dysplasia	Disease	MESH:D005352
+
+32148126|t|Systematic and Multidisciplinary Evaluation of Fibromuscular Dysplasia Patients Reveals High Prevalence of Previously Undetected Fibromuscular Dysplasia Lesions and Affects Clinical Decisions: The ARCADIA-POL Study.
+32148126|a|Fibromuscular dysplasia (FMD), regarded as a generalized vascular disease, may affect all vascular beds and may result in arterial stenosis, occlusion, aneurysm, or dissection. It has been proposed to systematically evaluate all vascular beds in patients with FMD, regardless of initial FMD involvement. However, the impact of this approach on clinical decisions and on management is unknown. Within the prospective ARCADIA-POL study (Assessment of Renal and Cervical Artery Dysplasia-Poland), we evaluated 232 patients with FMD lesions confirmed in at least one vascular bed, out of 343 patients included in the registry. All patients underwent a detailed clinical evaluation including computed tomography angiography of intracranial and cervical arteries, as well as computed tomography angiography of the abdominal aorta, its branches, and upper and lower extremity arteries. In the study group, FMD lesions were most frequently found in renal arteries (87.5%). FMD was also found in cerebrovascular (24.6%), mesenteric (13.8%), and upper (3.0%) and lower extremity (9.9 %) arteries. Newly diagnosed FMD lesions were found in 34.1% of the patients, and previously undetected vascular complications were found in 25% of the patients. Among all FMD patients included in the study, one out of every 4 evaluated patients qualified for interventional treatment due to newly diagnosed FMD lesions or vascular complications. The ARCADIA-POL study shows for the first time that the systematic and multidisciplinary evaluation of patients with FMD based on a whole-body computed tomography angiography scan has an impact on their clinical management. This proved the necessity of the systematic evaluation of all vascular beds in patients with FMD, regardless of initial FMD involvement.
+32148126	47	70	Fibromuscular Dysplasia	Disease	MESH:D005352
+32148126	71	79	Patients	Species	9606
+32148126	129	160	Fibromuscular Dysplasia Lesions	Disease	MESH:D005352
+32148126	216	239	Fibromuscular dysplasia	Disease	MESH:D005352
+32148126	241	244	FMD	Disease	MESH:D005352
+32148126	273	289	vascular disease	Disease	MESH:D014652
+32148126	338	355	arterial stenosis	Disease	MESH:D012078
+32148126	357	366	occlusion	Disease	MESH:D054059
+32148126	368	376	aneurysm	Disease	MESH:D000783
+32148126	462	470	patients	Species	9606
+32148126	476	479	FMD	Disease	MESH:D005352
+32148126	503	506	FMD	Disease	MESH:D005352
+32148126	727	735	patients	Species	9606
+32148126	741	744	FMD	Disease	MESH:D005352
+32148126	804	812	patients	Species	9606
+32148126	843	851	patients	Species	9606
+32148126	1115	1118	FMD	Disease	MESH:D005352
+32148126	1181	1184	FMD	Disease	MESH:D005352
+32148126	1319	1322	FMD	Disease	MESH:D005352
+32148126	1358	1366	patients	Species	9606
+32148126	1394	1416	vascular complications	Disease	MESH:D014652
+32148126	1442	1450	patients	Species	9606
+32148126	1462	1465	FMD	Disease	MESH:D005352
+32148126	1466	1474	patients	Species	9606
+32148126	1527	1535	patients	Species	9606
+32148126	1598	1601	FMD	Disease	MESH:D005352
+32148126	1613	1635	vascular complications	Disease	MESH:D014652
+32148126	1740	1748	patients	Species	9606
+32148126	1754	1757	FMD	Disease	MESH:D005352
+32148126	1940	1948	patients	Species	9606
+32148126	1954	1957	FMD	Disease	MESH:D005352
+32148126	1981	1984	FMD	Disease	MESH:D005352
+
+32153091|t|A simple refined approach for renovascular hypertension in children: a ten-year experience.
+32153091|a|BACKGROUND: Despite advances in noninvasive vascular imaging, detection of renal artery stenosis via catheter angiography is the gold standard for the diagnosis of renovascular hypertension (RVH). Due to lack of evidence, the utility of various blood tests and imaging modalities remains unclear. METHODS: We retrospectively analyzed the utility of blood tests [plasma renin activity (PRA), aldosterone, and renal vein renin values] and imaging studies [computed tomography (CT) angiography, kidney ultrasonography (US)] by comparing them with renal angiography. Ten pediatric patients with RVH at two institutions from January 2008 to December 2016 were recruited. The sensitivities for diagnosing RVH via imaging and blood tests (kidney US, PRA, and aldosterone) were derived by examining patient records. Furthermore, the sensitivity and specificity of CT angiography were calculated by considering the both the affected and non-affected renal arteries of the patients. RESULTS: A high sensitivity for diagnosing RVH via kidney US (89%) and PRA (80%) was observed. The sensitivity and specificity of CT angiography were 100%, each. Renal vein renin sampling did not aid in the diagnosis of RVH; only 2 of 6 patients with unilateral RVH showed significant laterality of renal vein renin boundary ratios. Renal scintigraphy facilitated detection of a nonfunctional kidney (split renal function <5%). CONCLUSIONS: RVH in children could be diagnosed utilizing noninvasive blood and imaging tests without catheter angiography. We recommend kidney size measurement along with measurement of PRA level as a simple and highly useful screening test followed by CT angiography as a diagnostic test.
+32153091	30	55	renovascular hypertension	Disease	MESH:D006978
+32153091	59	67	children	Species	9606
+32153091	167	188	renal artery stenosis	Disease	MESH:D012078
+32153091	256	281	renovascular hypertension	Disease	MESH:D006978
+32153091	283	286	RVH	Disease	MESH:D006978
+32153091	461	466	renin	Gene	5972
+32153091	511	516	renin	Gene	5972
+32153091	669	677	patients	Species	9606
+32153091	683	686	RVH	Disease	MESH:D006978
+32153091	791	794	RVH	Disease	MESH:D006978
+32153091	883	890	patient	Species	9606
+32153091	1055	1063	patients	Species	9606
+32153091	1108	1111	RVH	Disease	MESH:D006978
+32153091	1238	1243	renin	Gene	5972
+32153091	1285	1288	RVH	Disease	MESH:D006978
+32153091	1302	1310	patients	Species	9606
+32153091	1327	1330	RVH	Disease	MESH:D006978
+32153091	1375	1380	renin	Gene	5972
+32153091	1506	1509	RVH	Disease	MESH:D006978
+32153091	1513	1521	children	Species	9606
+
+32158054|t|Spontaneous Coronary Artery Dissection in a Liver Transplantation Candidate.
+32158054|a|Spontaneous coronary artery dissection (SCAD) is an uncommon and potentially fatal cause of acute coronary syndrome, myocardial infarction, and sudden death primarily affecting women. While the exact cause of SCAD is unknown, associated risk factors are emotional or physical stress, female gender, pregnancy-related factors including hormonal changes, fibromuscular dysplasia, mixed connective tissue disorders, and inflammatory disorders. In this report, we present a middle-aged female with ulcerative colitis and cirrhosis secondary to primary sclerosing cholangitis who was found to have SCAD on cardiac evaluation for liver transplantation workup.
+32158054	169	192	acute coronary syndrome	Disease	MESH:D054058
+32158054	194	215	myocardial infarction	Disease	MESH:D009203
+32158054	221	233	sudden death	Disease	MESH:D003645
+32158054	254	259	women	Species	9606
+32158054	430	453	fibromuscular dysplasia	Disease	MESH:D005352
+32158054	494	516	inflammatory disorders	Disease	MESH:D009220
+32158054	571	589	ulcerative colitis	Disease	MESH:D003093
+32158054	594	603	cirrhosis	Disease	MESH:D005355
+32158054	636	647	cholangitis	Disease	MESH:D002761
+
+32161950|t|Impact of percutaneous revascularization on left ventricular mass and its relationship to outcome in hypertensive patients with renal artery stenosis.
+32161950|a|BACKGROUND: We investigated the effects of percutaneous transluminal renal angioplasty on left ventricular (LV) mass, and the impact of LV mass reduction on outcomes. METHODS: A total of 144 hypertensive patients with renal artery stenosis (RAS) (mean age 69 years; 22.2% fibromuscular dysplasia [FMD]) who underwent angioplasty were included. Echocardiography was performed at baseline and after one year, and patients were thereafter followed up for a median of 5.6 years for primary composite outcomes. RESULTS: In both the FMD and atherosclerotic stenosis (ARAS) groups, LV mass decreased after angioplasty, but the decrease in LV mass index (-15.4+-18.3% versus -0.8+-27.8%, p <0.01) as well as the regression rate of LV hypertrophy was greater in FMD. Multiple logistic regression analysis indicated that FMD (odds ratio [OR] 2.94, p <0.01), severe RAS (>=90%) (OR 2.94, p <0.05), and higher LV mass index at baseline (OR 2.94 for 1 standard deviation increase, p <0.001) were independent predictors of LV mass index decrease of at least 20%. The primary composite outcomes occurred in 45 patients (31.3%). In FMD, lower LV mass index after one year (hazard ratio 2.81 for 1 standard deviation increase, p <0.05) or regression of LV mass (hazard ratio 0.75 for 5% decrease, p=0.054) showed a tendency to be associated with better outcomes; however, these associations were not found in ARAS. CONCLUSION: Hypertensive patients with ARAS have less regression of LV mass in response to angioplasty than those with FMD, and LV mass regression is less useful as a surrogate marker of outcomes especially in ARAS.
+32161950	101	113	hypertensive	Disease	MESH:D006973
+32161950	114	122	patients	Species	9606
+32161950	128	149	renal artery stenosis	Disease	MESH:D012078
+32161950	342	354	hypertensive	Disease	MESH:D006973
+32161950	355	363	patients	Species	9606
+32161950	369	390	renal artery stenosis	Disease	MESH:D012078
+32161950	392	395	RAS	Disease	MESH:D012078
+32161950	423	446	fibromuscular dysplasia	Disease	MESH:D005352
+32161950	448	451	FMD	Disease	MESH:C538064
+32161950	562	570	patients	Species	9606
+32161950	678	681	FMD	Disease	MESH:C538064
+32161950	686	710	atherosclerotic stenosis	Disease	MESH:D050197
+32161950	904	907	FMD	Disease	MESH:C538064
+32161950	962	965	FMD	Disease	MESH:C538064
+32161950	1006	1009	RAS	Disease	MESH:D012078
+32161950	1246	1254	patients	Species	9606
+32161950	1267	1270	FMD	Disease	MESH:C538064
+32161950	1561	1573	Hypertensive	Disease	MESH:D006973
+32161950	1574	1582	patients	Species	9606
+32161950	1668	1671	FMD	Disease	MESH:C538064
+
+

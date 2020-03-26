@@ -1,0 +1,16 @@
+
+python SubmitPMIDList.py [InputFile] [Format] [BioConcept]
+
+
+	[Inputfile]: a file with a pmid list
+
+	[Format]: pubtator (PubTator), biocxml (BioC-XML), and biocjson (JSON-XML)
+
+	[Bioconcept]: gene, disease, chemical, species, proteinmutation, dnamutation, snp, and cellline. Default includes all.
+
+	* All input are case sensitive.
+
+
+Eg., python SubmitPMIDList.py examples/ex.pmid pubtator gene,disease
+
+
